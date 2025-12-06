@@ -1,26 +1,22 @@
-# C++ Systems Programming Challenges
+# C++ Systems Playground
 
-This repository contains a collection of systems programming challenges implemented in C++. It serves as a playground for exploring concurrency, memory management, and tricky C++ behaviors.
+This repository serves as a companion to the technical blog posts on [dhanjit.me](https://dhanjit.me). It contains the source code for specific systems programming challenges discussed in the articles.
 
-## 1. Circular Printer
+## Projects
 
-A thread synchronization exercise using Condition Variables to coordinate printing in a specific order.
+### [Lock-Free Linked List](https://dhanjit.me/blog/lock-free-linked-list)
 
-## 2. Debug Vector
+* **Directory:** `3-concurrent-linked-list`
+* **Concept:** A lock-free singly linked list implementation using `std::atomic` and Compare-And-Swap (CAS) loops to manage concurrency without mutexes.
 
-Demonstrating C++ Iterator Invalidation scenarios and how to safely navigate vector modifications.
+### [Garbage Collector](https://dhanjit.me/blog/cpp-garbage-collector)
 
-## 3. Concurrent Linked List
-
-A lock-free linked list implementation using `std::atomic` and Compare-And-Swap (CAS) loops.
-
-## 4. Garbage Collector
-
-A custom memory pool and garbage collector implementation in C++ using `freelist` and reference counting.
+* **Directory:** `4-garbage-collector`
+* **Concept:** A custom memory pool and naive garbage collector implementation in C++ using a `freelist` and reference counting with simple cycle detection.
 
 ## Build
 
-Each directory contains a `makefile`.
+Each directory contains a `makefile` for easy compilation.
 
 ```bash
 cd 3-concurrent-linked-list
