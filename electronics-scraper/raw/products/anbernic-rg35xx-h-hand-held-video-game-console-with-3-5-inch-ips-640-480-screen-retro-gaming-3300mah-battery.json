@@ -1,0 +1,182 @@
+{
+  "product": {
+    "id": 8265694216446,
+    "title": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen, Retro Gaming, 3300mAh Battery",
+    "body_html": "<p style=\"text-align: center;\"><a href=\"https://www.electroniksindia.com/products/anbernic-rg40xx-h-4-inch-3200mah-64gb-linux-64-bit-rgb-retro-handheld-game-console\"><span style=\"color: rgb(255, 42, 0);\">ATTENTION! There is an upgrade to this model - RG40XX H. Please click here</span></a></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Dc7EnUotP04?si=FXby64HXpUscMpLM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></p>\n<p style=\"text-align: center;\"><span color=\"#ff2a00\" style=\"color: #ff2a00;\"><b><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0015/6932/5091/files/RG35XX-H_1.jpg?v=1723900752\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0015/6932/5091/files/RG35XX-H_2.jpg?v=1723900751\"></b></span></p>\n<p><img src=\"https://anbernic.com/cdn/shop/files/2_8571807d-e057-499a-85b6-41e4ac534627.jpg?v=1703574347&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/3_47879767-ca6e-4c12-8593-f1ad3fe8e9d7.jpg?v=1703574383&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/8_10f28fa1-e922-4d99-93eb-3a99f31a9108.jpg?v=1703574432&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/4_0391503e-e80a-46e1-8c28-a9213f50ac8f.jpg?v=1703575673&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/5_ad4b9fb8-232d-4526-873d-d61ef4f4ae21.jpg?v=1703575694&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/6_6ccdf9bd-33f0-450c-aa0d-d0816375c6ca.jpg?v=1703575718&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/7_06b12d1b-4fa2-40f9-9cd8-cafbb168570a.jpg?v=1703575734&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/9_1c6d619c-d798-4f3e-a797-2f2e7913a0af.jpg?v=1703575759&amp;width=1280\" data-mce-fragment=\"1\"><img src=\"https://anbernic.com/cdn/shop/files/5d6a0989fe6782863b22113c6c707f64.jpg?v=1703748709&amp;width=1500\" data-mce-fragment=\"1\"></p>",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-02-11T11:39:31+05:30",
+    "handle": "anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery",
+    "updated_at": "2026-05-14T09:08:15+05:30",
+    "published_at": "2024-02-11T11:39:31+05:30",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 44694415802622,
+        "product_id": 8265694216446,
+        "title": "Black (64GB)",
+        "price": "6999.00",
+        "sku": "",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Black (64GB)",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-02-11T11:39:33+05:30",
+        "updated_at": "2026-05-14T09:08:15+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 300,
+        "image_id": 42541465862398,
+        "weight": 0.3,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 44694415835390,
+        "product_id": 8265694216446,
+        "title": "White Translucent (64GB)",
+        "price": "6999.00",
+        "sku": "",
+        "position": 2,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "White Translucent (64GB)",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-02-11T11:39:33+05:30",
+        "updated_at": "2026-05-14T09:08:15+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 300,
+        "image_id": 42541465207038,
+        "weight": 0.3,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10495844745470,
+        "product_id": 8265694216446,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black (64GB)",
+          "White Translucent (64GB)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541465043198,
+        "product_id": 8265694216446,
+        "position": 1,
+        "created_at": "2024-07-24T12:20:16+05:30",
+        "updated_at": "2025-08-11T12:19:09+05:30",
+        "alt": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen Retro Gaming 3300mAh Battery - \u20b97,499",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery-by-electroniksindia-385.webp?v=1754894949",
+        "variant_ids": []
+      },
+      {
+        "id": 42541465207038,
+        "product_id": 8265694216446,
+        "position": 2,
+        "created_at": "2024-07-24T12:20:19+05:30",
+        "updated_at": "2025-02-10T08:55:21+05:30",
+        "alt": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen Retro Gaming 3300mAh Battery - \u20b97,499",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery-by-electroniksindia-885.webp?v=1739157921",
+        "variant_ids": [
+          44694415835390
+        ]
+      },
+      {
+        "id": 42541465731326,
+        "product_id": 8265694216446,
+        "position": 3,
+        "created_at": "2024-07-24T12:20:23+05:30",
+        "updated_at": "2025-02-10T08:55:23+05:30",
+        "alt": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen Retro Gaming 3300mAh Battery - \u20b97,499",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery-by-electroniksindia-102.webp?v=1739157923",
+        "variant_ids": []
+      },
+      {
+        "id": 42541465862398,
+        "product_id": 8265694216446,
+        "position": 4,
+        "created_at": "2024-07-24T12:20:26+05:30",
+        "updated_at": "2025-08-11T12:19:14+05:30",
+        "alt": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen Retro Gaming 3300mAh Battery - \u20b97,499",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery-by-electroniksindia-700.webp?v=1754894954",
+        "variant_ids": [
+          44694415802622
+        ]
+      },
+      {
+        "id": 42541465993470,
+        "product_id": 8265694216446,
+        "position": 5,
+        "created_at": "2024-07-24T12:20:29+05:30",
+        "updated_at": "2025-02-10T08:55:26+05:30",
+        "alt": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen Retro Gaming 3300mAh Battery - \u20b97,499",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery-by-electroniksindia-687.webp?v=1739157926",
+        "variant_ids": []
+      },
+      {
+        "id": 42541466124542,
+        "product_id": 8265694216446,
+        "position": 6,
+        "created_at": "2024-07-24T12:20:32+05:30",
+        "updated_at": "2025-02-10T08:55:28+05:30",
+        "alt": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen Retro Gaming 3300mAh Battery - \u20b97,499",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery-by-electroniksindia-601.webp?v=1739157928",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 42541465043198,
+      "product_id": 8265694216446,
+      "position": 1,
+      "created_at": "2024-07-24T12:20:16+05:30",
+      "updated_at": "2025-08-11T12:19:09+05:30",
+      "alt": "ANBERNIC RG35XX H: Hand-held Video Game Console with 3.5-inch IPS 640*480 Screen Retro Gaming 3300mAh Battery - \u20b97,499",
+      "width": 800,
+      "height": 800,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg35xx-h-hand-held-video-game-console-with-3-5-inch-ips-640-480-screen-retro-gaming-3300mah-battery-by-electroniksindia-385.webp?v=1754894949",
+      "variant_ids": []
+    }
+  }
+}

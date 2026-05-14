@@ -1,0 +1,146 @@
+{
+  "product": {
+    "id": 8591084290302,
+    "title": "TechAdro CarPlay AI Box Android 13.0 - Supports Wired CarPlay and Touchscreen Cars, Built-in 4G, 8-Core, 8GB RAM + 128GB ROM, YouTube, Netflix, Google Play, Wired to Wireless CarPlay and Android Auto (Model: TBox Ai Pro)",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-07-14T14:35:08+05:30",
+    "handle": "techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-to-wireless-carplay-and-android-auto-model-tbox-ai-pro",
+    "updated_at": "2026-05-14T09:08:06+05:30",
+    "published_at": "2024-07-14T14:35:08+05:30",
+    "template_suffix": "techadro-tbox",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 45623485661438,
+        "product_id": 8591084290302,
+        "title": "Default Title",
+        "price": "14799.00",
+        "sku": "TBox-AI",
+        "position": 2,
+        "compare_at_price": "19999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-07-14T14:35:11+05:30",
+        "updated_at": "2026-05-14T09:08:06+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 500,
+        "image_id": null,
+        "weight": 0.5,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10877353296126,
+        "product_id": 8591084290302,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 44918144827646,
+        "product_id": 8591084290302,
+        "position": 1,
+        "created_at": "2025-05-29T13:30:08+05:30",
+        "updated_at": "2025-08-11T12:18:27+05:30",
+        "alt": "Techadro carplay ai box android 13.0 - supports wired carplay and touchscreen cars built-in 4g 8-core 8gb ram + 128gb rom youtube netflix",
+        "width": 698,
+        "height": 698,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-441.webp?v=1754894907",
+        "variant_ids": []
+      },
+      {
+        "id": 44918145155326,
+        "product_id": 8591084290302,
+        "position": 2,
+        "created_at": "2025-05-29T13:30:18+05:30",
+        "updated_at": "2025-08-11T12:18:33+05:30",
+        "alt": "Techadro carplay ai box android 13.0 - supports wired carplay and touchscreen cars built-in 4g 8-core 8gb ram + 128gb rom youtube netflix",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-881.webp?v=1754894913",
+        "variant_ids": []
+      },
+      {
+        "id": 44918145319166,
+        "product_id": 8591084290302,
+        "position": 3,
+        "created_at": "2025-05-29T13:30:25+05:30",
+        "updated_at": "2025-08-11T12:18:38+05:30",
+        "alt": "Techadro carplay ai box android 13.0 - supports wired carplay and touchscreen cars built-in 4g 8-core 8gb ram + 128gb rom youtube netflix",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-794.webp?v=1754894918",
+        "variant_ids": []
+      },
+      {
+        "id": 44918146302206,
+        "product_id": 8591084290302,
+        "position": 4,
+        "created_at": "2025-05-29T13:30:35+05:30",
+        "updated_at": "2025-08-11T12:18:44+05:30",
+        "alt": "Techadro carplay ai box android 13.0 - supports wired carplay and touchscreen cars built-in 4g 8-core 8gb ram + 128gb rom youtube netflix",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-289.webp?v=1754894924",
+        "variant_ids": []
+      },
+      {
+        "id": 44918146433278,
+        "product_id": 8591084290302,
+        "position": 5,
+        "created_at": "2025-05-29T13:30:42+05:30",
+        "updated_at": "2025-08-11T12:18:50+05:30",
+        "alt": "Techadro carplay ai box android 13.0 - supports wired carplay and touchscreen cars built-in 4g 8-core 8gb ram + 128gb rom youtube netflix",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-890.webp?v=1754894930",
+        "variant_ids": []
+      },
+      {
+        "id": 44918147481854,
+        "product_id": 8591084290302,
+        "position": 6,
+        "created_at": "2025-05-29T13:30:48+05:30",
+        "updated_at": "2025-08-11T12:18:57+05:30",
+        "alt": "Techadro carplay ai box android 13.0 - supports wired carplay and touchscreen cars built-in 4g 8-core 8gb ram + 128gb rom youtube netflix",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-982.webp?v=1754894937",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 44918144827646,
+      "product_id": 8591084290302,
+      "position": 1,
+      "created_at": "2025-05-29T13:30:08+05:30",
+      "updated_at": "2025-08-11T12:18:27+05:30",
+      "alt": "Techadro carplay ai box android 13.0 - supports wired carplay and touchscreen cars built-in 4g 8-core 8gb ram + 128gb rom youtube netflix",
+      "width": 698,
+      "height": 698,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-carplay-ai-box-android-13-0-supports-wired-carplay-and-touchscreen-cars-built-in-4g-8-core-8gb-ram-128gb-rom-youtube-netflix-google-play-wired-441.webp?v=1754894907",
+      "variant_ids": []
+    }
+  }
+}

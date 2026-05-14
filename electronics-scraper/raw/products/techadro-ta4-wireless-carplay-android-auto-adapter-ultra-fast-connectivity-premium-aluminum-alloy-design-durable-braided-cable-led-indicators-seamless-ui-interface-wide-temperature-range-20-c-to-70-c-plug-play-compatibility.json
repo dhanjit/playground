@@ -1,0 +1,122 @@
+{
+  "product": {
+    "id": 8731995603198,
+    "title": "Techadro TA4 Wireless CarPlay & Android Auto Adapter - Ultra-Fast Connectivity, Premium Aluminum Alloy Design, Durable Braided Cable, LED Indicators, Seamless UI Interface, Wide Temperature Range (-20\u00b0C to 70\u00b0C), Plug & Play Compatibility",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-12-26T13:37:50+05:30",
+    "handle": "techadro-ta4-wireless-carplay-android-auto-adapter-ultra-fast-connectivity-premium-aluminum-alloy-design-durable-braided-cable-led-indicators-seamless-ui-interface-wide-temperature-range-20-c-to-70-c-plug-play-compatibility",
+    "updated_at": "2026-05-14T09:07:50+05:30",
+    "published_at": "2024-12-26T13:37:50+05:30",
+    "template_suffix": "ta4-actual",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 46119928627454,
+        "product_id": 8731995603198,
+        "title": "Default Title",
+        "price": "1999.00",
+        "sku": "TA4",
+        "position": 2,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-12-26T13:37:51+05:30",
+        "updated_at": "2026-05-14T09:07:50+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": null,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11079458423038,
+        "product_id": 8731995603198,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 44955384316158,
+        "product_id": 8731995603198,
+        "position": 1,
+        "created_at": "2025-06-01T14:30:09+05:30",
+        "updated_at": "2025-10-23T15:34:14+05:30",
+        "alt": "Techadro ta4 wireless carplay & android auto adapter - ultra-fast connectivity premium aluminum alloy design durable braided cable led",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta4-wireless-carplay-android-auto-adapter-ultra-fast-connectivity-premium-aluminum-alloy-design-durable-braided-cable-led-indicators-seamless-ui-641.webp?v=1761213854",
+        "variant_ids": []
+      },
+      {
+        "id": 44955384381694,
+        "product_id": 8731995603198,
+        "position": 2,
+        "created_at": "2025-06-01T14:30:12+05:30",
+        "updated_at": "2025-10-23T15:34:16+05:30",
+        "alt": "Techadro ta4 wireless carplay & android auto adapter - ultra-fast connectivity premium aluminum alloy design durable braided cable led",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta4-wireless-carplay-android-auto-adapter-ultra-fast-connectivity-premium-aluminum-alloy-design-durable-braided-cable-led-indicators-seamless-ui-292.webp?v=1761213856",
+        "variant_ids": []
+      },
+      {
+        "id": 44955384447230,
+        "product_id": 8731995603198,
+        "position": 3,
+        "created_at": "2025-06-01T14:30:16+05:30",
+        "updated_at": "2025-10-23T15:34:19+05:30",
+        "alt": "Techadro ta4 wireless carplay & android auto adapter - ultra-fast connectivity premium aluminum alloy design durable braided cable led",
+        "width": 1728,
+        "height": 1728,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta4-wireless-carplay-android-auto-adapter-ultra-fast-connectivity-premium-aluminum-alloy-design-durable-braided-cable-led-indicators-seamless-ui-496.webp?v=1761213859",
+        "variant_ids": []
+      },
+      {
+        "id": 44955384512766,
+        "product_id": 8731995603198,
+        "position": 4,
+        "created_at": "2025-06-01T14:30:20+05:30",
+        "updated_at": "2025-10-23T15:34:21+05:30",
+        "alt": "Techadro ta4 wireless carplay & android auto adapter - ultra-fast connectivity premium aluminum alloy design durable braided cable led",
+        "width": 1628,
+        "height": 1628,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta4-wireless-carplay-android-auto-adapter-ultra-fast-connectivity-premium-aluminum-alloy-design-durable-braided-cable-led-indicators-seamless-ui-657.webp?v=1761213861",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 44955384316158,
+      "product_id": 8731995603198,
+      "position": 1,
+      "created_at": "2025-06-01T14:30:09+05:30",
+      "updated_at": "2025-10-23T15:34:14+05:30",
+      "alt": "Techadro ta4 wireless carplay & android auto adapter - ultra-fast connectivity premium aluminum alloy design durable braided cable led",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta4-wireless-carplay-android-auto-adapter-ultra-fast-connectivity-premium-aluminum-alloy-design-durable-braided-cable-led-indicators-seamless-ui-641.webp?v=1761213854",
+      "variant_ids": []
+    }
+  }
+}

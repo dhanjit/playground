@@ -1,0 +1,204 @@
+{
+  "product": {
+    "id": 8265691660542,
+    "title": "ANBERNIC RG NANO: Mini Handheld Game Console with Metal Shell, 1.54\" IPS Screen, Linux OS, 1050mAh Battery, Hi-fi Speaker",
+    "body_html": "<div style=\"text-align: center;\"><span style=\"color: #ff2a00;\"><strong>In stock, ships in 24-48 hours</strong></span></div>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kVQpDR8s6oc?si=tlGkMXIgxSGx3eEu\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<div style=\"text-align: center;\"><span style=\"color: #ff2a00;\"><strong></strong></span></div>\n<p><img src=\"https://anbernic.com/cdn/shop/files/05dd03d38923aa8785f77a4fd1f6d9f9.jpg?v=1686291215&amp;width=1280\" data-mce-fragment=\"1\" data-mce-src=\"https://anbernic.com/cdn/shop/files/05dd03d38923aa8785f77a4fd1f6d9f9.jpg?v=1686291215&amp;width=1280\"><img src=\"https://anbernic.com/cdn/shop/files/749e17eb33f50948d95e15a7c0d6f5be.jpg?v=1686291215&amp;width=1280\" data-mce-fragment=\"1\" data-mce-src=\"https://anbernic.com/cdn/shop/files/749e17eb33f50948d95e15a7c0d6f5be.jpg?v=1686291215&amp;width=1280\"><img src=\"https://anbernic.com/cdn/shop/files/47cd525fe5c492fdae0df2acd4c7fdb7.jpg?v=1686291215&amp;width=1280\" data-mce-fragment=\"1\" data-mce-src=\"https://anbernic.com/cdn/shop/files/47cd525fe5c492fdae0df2acd4c7fdb7.jpg?v=1686291215&amp;width=1280\"><img src=\"https://anbernic.com/cdn/shop/files/b68cbc227a22e7e1873b40d26cc21f29.jpg?v=1686291215&amp;width=1280\" data-mce-fragment=\"1\" data-mce-src=\"https://anbernic.com/cdn/shop/files/b68cbc227a22e7e1873b40d26cc21f29.jpg?v=1686291215&amp;width=1280\"><img src=\"https://anbernic.com/cdn/shop/files/0827bed6a4f5d0f0af64bc7d16318b9f.jpg?v=1686291215&amp;width=1280\" data-mce-fragment=\"1\" data-mce-src=\"https://anbernic.com/cdn/shop/files/0827bed6a4f5d0f0af64bc7d16318b9f.jpg?v=1686291215&amp;width=1280\"><img src=\"https://anbernic.com/cdn/shop/files/f26797d00a5a83b22e0b544116992a8c.jpg?v=1686291215&amp;width=1280\" data-mce-fragment=\"1\" data-mce-src=\"https://anbernic.com/cdn/shop/files/f26797d00a5a83b22e0b544116992a8c.jpg?v=1686291215&amp;width=1280\"></p>",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-02-11T11:30:18+05:30",
+    "handle": "anbernic-rg-nano-mini-handheld-game-console-with-metal-shell-1-54-ips-screen-linux-os-1050mah-battery-hi-fi-speaker",
+    "updated_at": "2026-05-14T09:08:16+05:30",
+    "published_at": "2024-02-11T11:30:18+05:30",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 44694412525822,
+        "product_id": 8265691660542,
+        "title": "Blue (64G)",
+        "price": "4499.00",
+        "sku": "",
+        "position": 2,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Blue (64G)",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-02-11T11:30:21+05:30",
+        "updated_at": "2026-05-14T09:08:16+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 42541464486142,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 44694412558590,
+        "product_id": 8265691660542,
+        "title": "Red (64G)",
+        "price": "4499.00",
+        "sku": "",
+        "position": 3,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Red (64G)",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-02-11T11:30:21+05:30",
+        "updated_at": "2026-05-14T09:08:16+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 42541464649982,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 44694412591358,
+        "product_id": 8265691660542,
+        "title": "Purple (64G)",
+        "price": "4999.00",
+        "sku": "",
+        "position": 4,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Purple (64G)",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-02-11T11:30:21+05:30",
+        "updated_at": "2026-05-14T09:08:16+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 42541464748286,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10495841304830,
+        "product_id": 8265691660542,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blue (64G)",
+          "Red (64G)",
+          "Purple (64G)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541464387838,
+        "product_id": 8265691660542,
+        "position": 1,
+        "created_at": "2024-07-24T12:19:57+05:30",
+        "updated_at": "2025-02-10T12:20:33+05:30",
+        "alt": "ANBERNIC RG NANO: Mini Handheld Game Console with Metal Shell 1.54\u2019 IPS Screen Linux OS 1050mAh Battery Hi-fi Speaker - \u20b95,999",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg-nano-mini-handheld-game-console-with-metal-shell-1-54-ips-screen-linux-os-1050mah-battery-hi-fi-speaker-by-electroniksindia-858.webp?v=1739170233",
+        "variant_ids": []
+      },
+      {
+        "id": 42541464486142,
+        "product_id": 8265691660542,
+        "position": 2,
+        "created_at": "2024-07-24T12:20:00+05:30",
+        "updated_at": "2025-02-10T12:20:35+05:30",
+        "alt": "ANBERNIC RG NANO: Mini Handheld Game Console with Metal Shell 1.54\u2019 IPS Screen Linux OS 1050mAh Battery Hi-fi Speaker - \u20b95,999",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg-nano-mini-handheld-game-console-with-metal-shell-1-54-ips-screen-linux-os-1050mah-battery-hi-fi-speaker-by-electroniksindia-733.webp?v=1739170235",
+        "variant_ids": [
+          44694412525822
+        ]
+      },
+      {
+        "id": 42541464649982,
+        "product_id": 8265691660542,
+        "position": 3,
+        "created_at": "2024-07-24T12:20:04+05:30",
+        "updated_at": "2025-02-10T12:20:36+05:30",
+        "alt": "ANBERNIC RG NANO: Mini Handheld Game Console with Metal Shell 1.54\u2019 IPS Screen Linux OS 1050mAh Battery Hi-fi Speaker - \u20b95,999",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg-nano-mini-handheld-game-console-with-metal-shell-1-54-ips-screen-linux-os-1050mah-battery-hi-fi-speaker-by-electroniksindia-224.webp?v=1739170236",
+        "variant_ids": [
+          44694412558590
+        ]
+      },
+      {
+        "id": 42541464748286,
+        "product_id": 8265691660542,
+        "position": 4,
+        "created_at": "2024-07-24T12:20:07+05:30",
+        "updated_at": "2025-02-10T12:20:38+05:30",
+        "alt": "ANBERNIC RG NANO: Mini Handheld Game Console with Metal Shell 1.54\u2019 IPS Screen Linux OS 1050mAh Battery Hi-fi Speaker - \u20b95,999",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg-nano-mini-handheld-game-console-with-metal-shell-1-54-ips-screen-linux-os-1050mah-battery-hi-fi-speaker-by-electroniksindia-138.webp?v=1739170238",
+        "variant_ids": [
+          44694412591358
+        ]
+      },
+      {
+        "id": 42541464912126,
+        "product_id": 8265691660542,
+        "position": 5,
+        "created_at": "2024-07-24T12:20:10+05:30",
+        "updated_at": "2025-02-10T12:20:40+05:30",
+        "alt": "ANBERNIC RG NANO: Mini Handheld Game Console with Metal Shell 1.54\u2019 IPS Screen Linux OS 1050mAh Battery Hi-fi Speaker - \u20b95,999",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg-nano-mini-handheld-game-console-with-metal-shell-1-54-ips-screen-linux-os-1050mah-battery-hi-fi-speaker-by-electroniksindia-783.webp?v=1739170240",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 42541464387838,
+      "product_id": 8265691660542,
+      "position": 1,
+      "created_at": "2024-07-24T12:19:57+05:30",
+      "updated_at": "2025-02-10T12:20:33+05:30",
+      "alt": "ANBERNIC RG NANO: Mini Handheld Game Console with Metal Shell 1.54\u2019 IPS Screen Linux OS 1050mAh Battery Hi-fi Speaker - \u20b95,999",
+      "width": 800,
+      "height": 800,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/anbernic-rg-nano-mini-handheld-game-console-with-metal-shell-1-54-ips-screen-linux-os-1050mah-battery-hi-fi-speaker-by-electroniksindia-858.webp?v=1739170233",
+      "variant_ids": []
+    }
+  }
+}

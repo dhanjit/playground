@@ -1,0 +1,146 @@
+{
+  "product": {
+    "id": 8560868360446,
+    "title": "TechAdro Wireless CarPlay Adapter with YouTube, Netflix - Upgrade Factory Wired to Wireless Apple CarPlay, WiFi Bluetooth Dongle for iPhone, Online Updates, Plug & Play Compatible (Model: TA2)",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-06-25T18:45:25+05:30",
+    "handle": "techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-play-compatible",
+    "updated_at": "2026-05-14T09:08:07+05:30",
+    "published_at": "2024-06-25T21:36:34+05:30",
+    "template_suffix": "techadro-carplay-wireless",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 45526387982590,
+        "product_id": 8560868360446,
+        "title": "Default Title",
+        "price": "2999.00",
+        "sku": "TechAdro-TA2",
+        "position": 2,
+        "compare_at_price": "9999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-06-25T18:45:25+05:30",
+        "updated_at": "2026-05-14T09:08:07+05:30",
+        "taxable": true,
+        "barcode": null,
+        "grams": 200,
+        "image_id": null,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10842192576766,
+        "product_id": 8560868360446,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 44825017254142,
+        "product_id": 8560868360446,
+        "position": 1,
+        "created_at": "2025-05-22T17:50:09+05:30",
+        "updated_at": "2025-05-22T17:50:09+05:30",
+        "alt": "Techadro wireless carplay adapter with youtube netflix - upgrade factory wired to wireless apple carplay wifi bluetooth dongle for iphone",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-351.webp?v=1747916409",
+        "variant_ids": []
+      },
+      {
+        "id": 44825018073342,
+        "product_id": 8560868360446,
+        "position": 2,
+        "created_at": "2025-05-22T17:50:13+05:30",
+        "updated_at": "2025-05-22T17:50:13+05:30",
+        "alt": "Techadro wireless carplay adapter with youtube netflix - upgrade factory wired to wireless apple carplay wifi bluetooth dongle for iphone",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-315.webp?v=1747916413",
+        "variant_ids": []
+      },
+      {
+        "id": 44825018138878,
+        "product_id": 8560868360446,
+        "position": 3,
+        "created_at": "2025-05-22T17:50:16+05:30",
+        "updated_at": "2025-05-22T17:50:16+05:30",
+        "alt": "Techadro wireless carplay adapter with youtube netflix - upgrade factory wired to wireless apple carplay wifi bluetooth dongle for iphone",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-882.webp?v=1747916416",
+        "variant_ids": []
+      },
+      {
+        "id": 44825018433790,
+        "product_id": 8560868360446,
+        "position": 4,
+        "created_at": "2025-05-22T17:50:18+05:30",
+        "updated_at": "2025-05-22T17:50:18+05:30",
+        "alt": "Techadro wireless carplay adapter with youtube netflix - upgrade factory wired to wireless apple carplay wifi bluetooth dongle for iphone",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-508.webp?v=1747916418",
+        "variant_ids": []
+      },
+      {
+        "id": 44825018499326,
+        "product_id": 8560868360446,
+        "position": 5,
+        "created_at": "2025-05-22T17:50:21+05:30",
+        "updated_at": "2025-05-22T17:50:21+05:30",
+        "alt": "Techadro wireless carplay adapter with youtube netflix - upgrade factory wired to wireless apple carplay wifi bluetooth dongle for iphone",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-603.webp?v=1747916421",
+        "variant_ids": []
+      },
+      {
+        "id": 44825018859774,
+        "product_id": 8560868360446,
+        "position": 6,
+        "created_at": "2025-05-22T17:50:24+05:30",
+        "updated_at": "2025-05-22T17:50:24+05:30",
+        "alt": "Techadro wireless carplay adapter with youtube netflix - upgrade factory wired to wireless apple carplay wifi bluetooth dongle for iphone",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-567.webp?v=1747916424",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 44825017254142,
+      "product_id": 8560868360446,
+      "position": 1,
+      "created_at": "2025-05-22T17:50:09+05:30",
+      "updated_at": "2025-05-22T17:50:09+05:30",
+      "alt": "Techadro wireless carplay adapter with youtube netflix - upgrade factory wired to wireless apple carplay wifi bluetooth dongle for iphone",
+      "width": 1000,
+      "height": 1000,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-wireless-carplay-adapter-with-youtube-netflix-upgrade-factory-wired-to-wireless-apple-carplay-wifi-bluetooth-dongle-for-iphone-online-updates-plug-351.webp?v=1747916409",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "product": {
+    "id": 8238787592446,
+    "title": "Homatics Box R Lite: 4K Google Certified Android 11 TV Box with S905Y4 Processor, 2GB LPDDR4 RAM, 32GB ROM, HDMI, BT5.0",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-01-20T15:19:21+05:30",
+    "handle": "homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0",
+    "updated_at": "2026-05-14T09:08:18+05:30",
+    "published_at": "2024-01-20T15:19:21+05:30",
+    "template_suffix": "homaticsboxrlite4k",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 44593117561086,
+        "product_id": 8238787592446,
+        "title": "Default Title",
+        "price": "6499.00",
+        "sku": "BoxRLite",
+        "position": 2,
+        "compare_at_price": "7999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-01-20T15:19:23+05:30",
+        "updated_at": "2026-05-14T09:08:18+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 500,
+        "image_id": null,
+        "weight": 0.5,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10463769100542,
+        "product_id": 8238787592446,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541451313406,
+        "product_id": 8238787592446,
+        "position": 1,
+        "created_at": "2024-07-24T12:18:49+05:30",
+        "updated_at": "2025-08-08T09:42:11+05:30",
+        "alt": "Homatics box r lite: 4k google certified android 11 tv box with s905y4 processor 2gb lpddr4 ram 32gb rom hdmi bt5.0 - \u20b95,999",
+        "width": 1100,
+        "height": 1100,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0-by-electroniksindia-907.webp?v=1754626331",
+        "variant_ids": []
+      },
+      {
+        "id": 42541451575550,
+        "product_id": 8238787592446,
+        "position": 2,
+        "created_at": "2024-07-24T12:18:52+05:30",
+        "updated_at": "2025-08-08T09:42:14+05:30",
+        "alt": "Homatics box r lite: 4k google certified android 11 tv box with s905y4 processor 2gb lpddr4 ram 32gb rom hdmi bt5.0 - \u20b95,999",
+        "width": 1100,
+        "height": 1100,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0-by-electroniksindia-386.webp?v=1754626334",
+        "variant_ids": []
+      },
+      {
+        "id": 42541456097534,
+        "product_id": 8238787592446,
+        "position": 3,
+        "created_at": "2024-07-24T12:18:56+05:30",
+        "updated_at": "2025-08-08T09:42:16+05:30",
+        "alt": "Homatics box r lite: 4k google certified android 11 tv box with s905y4 processor 2gb lpddr4 ram 32gb rom hdmi bt5.0 - \u20b95,999",
+        "width": 1100,
+        "height": 1100,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0-by-electroniksindia-288.webp?v=1754626336",
+        "variant_ids": []
+      },
+      {
+        "id": 42541460095230,
+        "product_id": 8238787592446,
+        "position": 4,
+        "created_at": "2024-07-24T12:18:59+05:30",
+        "updated_at": "2025-02-10T10:21:17+05:30",
+        "alt": "Homatics box r lite: 4k google certified android 11 tv box with s905y4 processor 2gb lpddr4 ram 32gb rom hdmi bt5.0 - \u20b95,999",
+        "width": 1100,
+        "height": 1100,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0-by-electroniksindia-785.webp?v=1739163077",
+        "variant_ids": []
+      },
+      {
+        "id": 42541460750590,
+        "product_id": 8238787592446,
+        "position": 5,
+        "created_at": "2024-07-24T12:19:03+05:30",
+        "updated_at": "2025-08-08T09:42:20+05:30",
+        "alt": "Homatics box r lite: 4k google certified android 11 tv box with s905y4 processor 2gb lpddr4 ram 32gb rom hdmi bt5.0 - \u20b95,999",
+        "width": 1100,
+        "height": 1100,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0-by-electroniksindia-494.webp?v=1754626340",
+        "variant_ids": []
+      },
+      {
+        "id": 42541460914430,
+        "product_id": 8238787592446,
+        "position": 6,
+        "created_at": "2024-07-24T12:19:06+05:30",
+        "updated_at": "2025-08-08T09:42:22+05:30",
+        "alt": "Homatics box r lite: 4k google certified android 11 tv box with s905y4 processor 2gb lpddr4 ram 32gb rom hdmi bt5.0 - \u20b95,999",
+        "width": 1100,
+        "height": 1100,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0-by-electroniksindia-121.webp?v=1754626342",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 42541451313406,
+      "product_id": 8238787592446,
+      "position": 1,
+      "created_at": "2024-07-24T12:18:49+05:30",
+      "updated_at": "2025-08-08T09:42:11+05:30",
+      "alt": "Homatics box r lite: 4k google certified android 11 tv box with s905y4 processor 2gb lpddr4 ram 32gb rom hdmi bt5.0 - \u20b95,999",
+      "width": 1100,
+      "height": 1100,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/homatics-box-r-lite-4k-google-certified-android-11-tv-box-with-s905y4-processor-2gb-lpddr4-ram-32gb-rom-hdmi-bt5-0-by-electroniksindia-907.webp?v=1754626331",
+      "variant_ids": []
+    }
+  }
+}

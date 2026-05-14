@@ -1,0 +1,86 @@
+{
+  "product": {
+    "id": 8764827894014,
+    "title": "Remote",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2025-02-11T12:28:13+05:30",
+    "handle": "remote",
+    "updated_at": "2026-05-14T09:07:48+05:30",
+    "published_at": "2025-02-11T12:28:13+05:30",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 46242587934974,
+        "product_id": 8764827894014,
+        "title": "Default Title",
+        "price": "599.00",
+        "sku": "",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-02-11T12:28:14+05:30",
+        "updated_at": "2026-05-14T09:07:48+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": null,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11128183161086,
+        "product_id": 8764827894014,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 43861540602110,
+        "product_id": 8764827894014,
+        "position": 1,
+        "created_at": "2025-02-11T12:46:11+05:30",
+        "updated_at": "2025-02-11T12:46:11+05:30",
+        "alt": "Remote - \u20b9599",
+        "width": 962,
+        "height": 962,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/remote-by-electroniksindia-682.webp?v=1739258171",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 43861540602110,
+      "product_id": 8764827894014,
+      "position": 1,
+      "created_at": "2025-02-11T12:46:11+05:30",
+      "updated_at": "2025-02-11T12:46:11+05:30",
+      "alt": "Remote - \u20b9599",
+      "width": 962,
+      "height": 962,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/remote-by-electroniksindia-682.webp?v=1739258171",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "product": {
+    "id": 8628590313726,
+    "title": "X9 Turbo Android TV Box: 4K UHD, 4GB RAM, 64GB Storage, WiFi & BT 5.0, Android 12 Smart TV Hub",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-08-19T13:41:36+05:30",
+    "handle": "x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub",
+    "updated_at": "2026-05-14T09:08:05+05:30",
+    "published_at": "2024-08-19T13:41:36+05:30",
+    "template_suffix": "x8-plus",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 45724317712638,
+        "product_id": 8628590313726,
+        "title": "Default Title",
+        "price": "3499.00",
+        "sku": "X9-turbo",
+        "position": 2,
+        "compare_at_price": "6999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-08-19T13:41:38+05:30",
+        "updated_at": "2026-05-14T09:08:05+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 500,
+        "image_id": null,
+        "weight": 0.5,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10920736227582,
+        "product_id": 8628590313726,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 43684183081214,
+        "product_id": 8628590313726,
+        "position": 1,
+        "created_at": "2025-01-13T15:06:25+05:30",
+        "updated_at": "2025-08-07T19:50:47+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-871.webp?v=1754576447",
+        "variant_ids": []
+      },
+      {
+        "id": 43684183343358,
+        "product_id": 8628590313726,
+        "position": 2,
+        "created_at": "2025-01-13T15:06:32+05:30",
+        "updated_at": "2025-02-10T09:30:01+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-881.webp?v=1739160001",
+        "variant_ids": []
+      },
+      {
+        "id": 43684183474430,
+        "product_id": 8628590313726,
+        "position": 3,
+        "created_at": "2025-01-13T15:06:39+05:30",
+        "updated_at": "2025-02-10T09:30:18+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-841.webp?v=1739160018",
+        "variant_ids": []
+      },
+      {
+        "id": 43684183867646,
+        "product_id": 8628590313726,
+        "position": 4,
+        "created_at": "2025-01-13T15:06:47+05:30",
+        "updated_at": "2025-02-10T09:30:27+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-696.webp?v=1739160027",
+        "variant_ids": []
+      },
+      {
+        "id": 43684183933182,
+        "product_id": 8628590313726,
+        "position": 5,
+        "created_at": "2025-01-13T15:06:54+05:30",
+        "updated_at": "2025-08-07T19:51:16+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-244.webp?v=1754576476",
+        "variant_ids": []
+      },
+      {
+        "id": 43684184064254,
+        "product_id": 8628590313726,
+        "position": 6,
+        "created_at": "2025-01-13T15:06:59+05:30",
+        "updated_at": "2025-08-07T19:51:19+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 1563,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-456.webp?v=1754576479",
+        "variant_ids": []
+      },
+      {
+        "id": 43684184588542,
+        "product_id": 8628590313726,
+        "position": 7,
+        "created_at": "2025-01-13T15:07:04+05:30",
+        "updated_at": "2025-08-07T19:51:24+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 1953,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-304.webp?v=1754576484",
+        "variant_ids": []
+      },
+      {
+        "id": 43684184719614,
+        "product_id": 8628590313726,
+        "position": 8,
+        "created_at": "2025-01-13T15:07:10+05:30",
+        "updated_at": "2025-08-07T19:51:27+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 1563,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-299.webp?v=1754576487",
+        "variant_ids": []
+      },
+      {
+        "id": 43684184916222,
+        "product_id": 8628590313726,
+        "position": 9,
+        "created_at": "2025-01-13T15:07:15+05:30",
+        "updated_at": "2025-08-07T19:51:31+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 1563,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-397.webp?v=1754576491",
+        "variant_ids": []
+      },
+      {
+        "id": 43684185047294,
+        "product_id": 8628590313726,
+        "position": 10,
+        "created_at": "2025-01-13T15:07:20+05:30",
+        "updated_at": "2025-08-07T19:51:35+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 1953,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-141.webp?v=1754576495",
+        "variant_ids": []
+      },
+      {
+        "id": 43684185211134,
+        "product_id": 8628590313726,
+        "position": 11,
+        "created_at": "2025-01-13T15:07:25+05:30",
+        "updated_at": "2025-08-07T19:51:40+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 1563,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-563.webp?v=1754576500",
+        "variant_ids": []
+      },
+      {
+        "id": 43684185440510,
+        "product_id": 8628590313726,
+        "position": 12,
+        "created_at": "2025-01-13T15:07:33+05:30",
+        "updated_at": "2025-08-07T19:51:47+05:30",
+        "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-310.webp?v=1754576507",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 43684183081214,
+      "product_id": 8628590313726,
+      "position": 1,
+      "created_at": "2025-01-13T15:06:25+05:30",
+      "updated_at": "2025-08-07T19:50:47+05:30",
+      "alt": "X9 turbo android tv box: 4k uhd 4gb ram 64gb storage wifi & bt 5.0 android 12 smart tv hub - \u20b93,999",
+      "width": 3000,
+      "height": 3000,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-turbo-android-tv-box-4k-uhd-4gb-ram-64gb-storage-wifi-bt-5-0-android-12-smart-tv-hub-by-electroniksindia-871.webp?v=1754576447",
+      "variant_ids": []
+    }
+  }
+}

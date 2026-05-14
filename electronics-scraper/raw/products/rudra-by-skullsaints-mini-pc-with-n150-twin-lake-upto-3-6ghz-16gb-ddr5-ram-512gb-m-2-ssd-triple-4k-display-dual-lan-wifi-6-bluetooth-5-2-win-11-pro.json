@@ -1,0 +1,275 @@
+{
+  "product": {
+    "id": 8859085832446,
+    "title": "Rudra by SkullSaints Mini PC with N150 Twin Lake (Upto 3.6GHz), Triple 4K Display, Dual LAN, WiFi 6, Bluetooth 5.2, Win 11 Pro",
+    "body_html": "Upto 16GB DDR5, Upto 512GB M.2 NVME",
+    "vendor": "SkullSaints",
+    "product_type": "",
+    "created_at": "2025-04-10T16:33:07+05:30",
+    "handle": "rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-16gb-ddr5-ram-512gb-m-2-ssd-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro",
+    "updated_at": "2026-05-14T09:07:42+05:30",
+    "published_at": "2025-04-10T16:38:47+05:30",
+    "template_suffix": "rudran150",
+    "published_scope": "web",
+    "tags": "SkullSaints",
+    "variants": [
+      {
+        "id": 47404162449662,
+        "product_id": 8859085832446,
+        "title": "Intel Twin Lake N150 upto 3.4GHz / 16GB DDR5 + 128GB M.2 SSD + Win 11 Pro",
+        "price": "33999.00",
+        "sku": "RudraN150-16+128",
+        "position": 1,
+        "compare_at_price": "37999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Intel Twin Lake N150 upto 3.4GHz",
+        "option2": "16GB DDR5 + 128GB M.2 SSD + Win 11 Pro",
+        "option3": null,
+        "created_at": "2025-10-10T10:12:02+05:30",
+        "updated_at": "2026-05-14T09:07:42+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1000,
+        "image_id": 46096673276158,
+        "weight": 1000.0,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46606620328190,
+        "product_id": 8859085832446,
+        "title": "Intel Twin Lake N150 upto 3.4GHz / 16GB DDR5 + 512GB M.2 SSD + Win 11 Pro",
+        "price": "38499.00",
+        "sku": "RudraN150-16+512",
+        "position": 2,
+        "compare_at_price": "37999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Intel Twin Lake N150 upto 3.4GHz",
+        "option2": "16GB DDR5 + 512GB M.2 SSD + Win 11 Pro",
+        "option3": null,
+        "created_at": "2025-04-10T16:33:07+05:30",
+        "updated_at": "2026-05-14T09:07:42+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1000,
+        "image_id": 46096673276158,
+        "weight": 1000.0,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 47155281330430,
+        "product_id": 8859085832446,
+        "title": "Intel Twin Lake N150 upto 3.4GHz / 16GB DDR5 + 1TB M.2 SSD + Win 11 Pro",
+        "price": "42999.00",
+        "sku": "RudraN150-16+1T",
+        "position": 3,
+        "compare_at_price": "37999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Intel Twin Lake N150 upto 3.4GHz",
+        "option2": "16GB DDR5 + 1TB M.2 SSD + Win 11 Pro",
+        "option3": null,
+        "created_at": "2025-08-07T22:45:29+05:30",
+        "updated_at": "2026-05-14T09:07:42+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1000,
+        "image_id": 46096673276158,
+        "weight": 1.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11236314939646,
+        "product_id": 8859085832446,
+        "name": "CPU",
+        "position": 1,
+        "values": [
+          "Intel Twin Lake N150 upto 3.4GHz"
+        ]
+      },
+      {
+        "id": 11236314972414,
+        "product_id": 8859085832446,
+        "name": "Bundle",
+        "position": 2,
+        "values": [
+          "16GB DDR5 + 128GB M.2 SSD + Win 11 Pro",
+          "16GB DDR5 + 512GB M.2 SSD + Win 11 Pro",
+          "16GB DDR5 + 1TB M.2 SSD + Win 11 Pro"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 46096673276158,
+        "product_id": 8859085832446,
+        "position": 1,
+        "created_at": "2025-10-30T13:12:11+05:30",
+        "updated_at": "2025-10-30T13:12:11+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro - \u20b923,999",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-479.webp?v=1761810131",
+        "variant_ids": [
+          46606620328190,
+          47155281330430,
+          47404162449662
+        ]
+      },
+      {
+        "id": 46096673734910,
+        "product_id": 8859085832446,
+        "position": 2,
+        "created_at": "2025-10-30T13:12:17+05:30",
+        "updated_at": "2025-10-30T13:12:17+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-854.webp?v=1761810137",
+        "variant_ids": []
+      },
+      {
+        "id": 46096673964286,
+        "product_id": 8859085832446,
+        "position": 3,
+        "created_at": "2025-10-30T13:12:23+05:30",
+        "updated_at": "2025-10-30T13:12:23+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-187.webp?v=1761810143",
+        "variant_ids": []
+      },
+      {
+        "id": 46096674554110,
+        "product_id": 8859085832446,
+        "position": 4,
+        "created_at": "2025-10-30T13:12:30+05:30",
+        "updated_at": "2025-10-30T13:12:30+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-590.webp?v=1761810150",
+        "variant_ids": []
+      },
+      {
+        "id": 46096674783486,
+        "product_id": 8859085832446,
+        "position": 5,
+        "created_at": "2025-10-30T13:12:35+05:30",
+        "updated_at": "2025-10-30T13:12:35+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-601.webp?v=1761810155",
+        "variant_ids": []
+      },
+      {
+        "id": 46096674947326,
+        "product_id": 8859085832446,
+        "position": 6,
+        "created_at": "2025-10-30T13:12:40+05:30",
+        "updated_at": "2025-10-30T13:12:40+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-563.webp?v=1761810160",
+        "variant_ids": []
+      },
+      {
+        "id": 46096675111166,
+        "product_id": 8859085832446,
+        "position": 7,
+        "created_at": "2025-10-30T13:12:46+05:30",
+        "updated_at": "2025-10-30T13:12:46+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-730.webp?v=1761810166",
+        "variant_ids": []
+      },
+      {
+        "id": 46096675307774,
+        "product_id": 8859085832446,
+        "position": 8,
+        "created_at": "2025-10-30T13:12:52+05:30",
+        "updated_at": "2025-10-30T13:12:52+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2586,
+        "height": 2586,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-111.webp?v=1761810172",
+        "variant_ids": []
+      },
+      {
+        "id": 46096675504382,
+        "product_id": 8859085832446,
+        "position": 9,
+        "created_at": "2025-10-30T13:13:00+05:30",
+        "updated_at": "2025-10-30T13:13:00+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2586,
+        "height": 2586,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-905.webp?v=1761810180",
+        "variant_ids": []
+      },
+      {
+        "id": 46096675700990,
+        "product_id": 8859085832446,
+        "position": 10,
+        "created_at": "2025-10-30T13:13:06+05:30",
+        "updated_at": "2025-10-30T13:13:06+05:30",
+        "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-580.webp?v=1761810186",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 46096673276158,
+      "product_id": 8859085832446,
+      "position": 1,
+      "created_at": "2025-10-30T13:12:11+05:30",
+      "updated_at": "2025-10-30T13:12:11+05:30",
+      "alt": "Rudra by skullsaints mini pc with n150 twin lake (upto 3.6ghz) triple 4k display dual lan wifi 6 bluetooth 5.2 win 11 pro - \u20b923,999",
+      "width": 2160,
+      "height": 2160,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro-by-electroniksindia-479.webp?v=1761810131",
+      "variant_ids": [
+        46606620328190,
+        47155281330430,
+        47404162449662
+      ]
+    }
+  }
+}

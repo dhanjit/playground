@@ -1,0 +1,206 @@
+{
+  "product": {
+    "id": 8341326561534,
+    "title": "TechAdro 2-in-1 Wireless Apple CarPlay / Android Auto Adapter, a 5.8 GHz Dongle, Wired to Wireless Conversion with USB A/USB C Compatibility, and Plug & Play Setup (Model: TA1)",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-04-03T17:50:58+05:30",
+    "handle": "techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-setup",
+    "updated_at": "2026-05-14T09:08:12+05:30",
+    "published_at": "2024-04-03T17:50:58+05:30",
+    "template_suffix": "techadro-adapter",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 44944969924862,
+        "product_id": 8341326561534,
+        "title": "Default Title",
+        "price": "2999.00",
+        "sku": "TechAdro-TA1",
+        "position": 2,
+        "compare_at_price": "9999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-04-03T17:51:00+05:30",
+        "updated_at": "2026-05-14T09:08:12+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": null,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10585891635454,
+        "product_id": 8341326561534,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 45252644471038,
+        "product_id": 8341326561534,
+        "position": 1,
+        "created_at": "2025-07-13T15:10:17+05:30",
+        "updated_at": "2025-07-13T15:10:17+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1788,
+        "height": 1864,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-725.webp?v=1752399617",
+        "variant_ids": []
+      },
+      {
+        "id": 45252644602110,
+        "product_id": 8341326561534,
+        "position": 2,
+        "created_at": "2025-07-13T15:10:24+05:30",
+        "updated_at": "2025-07-13T15:10:24+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 3000,
+        "height": 2695,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-269.webp?v=1752399624",
+        "variant_ids": []
+      },
+      {
+        "id": 45252644700414,
+        "product_id": 8341326561534,
+        "position": 3,
+        "created_at": "2025-07-13T15:10:27+05:30",
+        "updated_at": "2025-07-13T15:10:27+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1406,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-505.webp?v=1752399627",
+        "variant_ids": []
+      },
+      {
+        "id": 45252644765950,
+        "product_id": 8341326561534,
+        "position": 4,
+        "created_at": "2025-07-13T15:10:30+05:30",
+        "updated_at": "2025-07-13T15:10:30+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1406,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-542.webp?v=1752399630",
+        "variant_ids": []
+      },
+      {
+        "id": 45252645323006,
+        "product_id": 8341326561534,
+        "position": 5,
+        "created_at": "2025-07-13T15:10:37+05:30",
+        "updated_at": "2025-07-13T15:10:37+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-354.webp?v=1752399637",
+        "variant_ids": []
+      },
+      {
+        "id": 45252645388542,
+        "product_id": 8341326561534,
+        "position": 6,
+        "created_at": "2025-07-13T15:10:43+05:30",
+        "updated_at": "2025-07-13T15:10:43+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-408.webp?v=1752399643",
+        "variant_ids": []
+      },
+      {
+        "id": 45252645454078,
+        "product_id": 8341326561534,
+        "position": 7,
+        "created_at": "2025-07-13T15:10:48+05:30",
+        "updated_at": "2025-07-13T15:10:48+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-768.webp?v=1752399648",
+        "variant_ids": []
+      },
+      {
+        "id": 45252645519614,
+        "product_id": 8341326561534,
+        "position": 8,
+        "created_at": "2025-07-13T15:10:53+05:30",
+        "updated_at": "2025-07-13T15:10:53+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-203.webp?v=1752399653",
+        "variant_ids": []
+      },
+      {
+        "id": 45252645585150,
+        "product_id": 8341326561534,
+        "position": 9,
+        "created_at": "2025-07-13T15:10:56+05:30",
+        "updated_at": "2025-07-13T15:10:56+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-422.webp?v=1752399656",
+        "variant_ids": []
+      },
+      {
+        "id": 45252645650686,
+        "product_id": 8341326561534,
+        "position": 10,
+        "created_at": "2025-07-13T15:10:59+05:30",
+        "updated_at": "2025-07-13T15:10:59+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-511.webp?v=1752399659",
+        "variant_ids": []
+      },
+      {
+        "id": 45252646109438,
+        "product_id": 8341326561534,
+        "position": 11,
+        "created_at": "2025-07-13T15:11:03+05:30",
+        "updated_at": "2025-07-13T15:11:03+05:30",
+        "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-493.webp?v=1752399663",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 45252644471038,
+      "product_id": 8341326561534,
+      "position": 1,
+      "created_at": "2025-07-13T15:10:17+05:30",
+      "updated_at": "2025-07-13T15:10:17+05:30",
+      "alt": "Techadro 2 - in - 1 wireless apple carplay / android auto adapter a 5.8 ghz dongle wired to conversion with usb a/usb c compatibility",
+      "width": 1788,
+      "height": 1864,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-2-in-1-wireless-apple-carplay-android-auto-adapter-a-5-8-ghz-dongle-wired-to-wireless-conversion-with-usb-a-usb-c-compatibility-and-plug-play-725.webp?v=1752399617",
+      "variant_ids": []
+    }
+  }
+}

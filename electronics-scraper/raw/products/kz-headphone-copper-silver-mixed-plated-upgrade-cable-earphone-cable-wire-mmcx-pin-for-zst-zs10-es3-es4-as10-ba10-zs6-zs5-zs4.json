@@ -1,0 +1,252 @@
+{
+  "product": {
+    "id": 4641335377964,
+    "title": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+    "body_html": "<p><img alt=\"960_01\" src=\"https://ae01.alicdn.com/kf/HTB1J6ZNXijrK1RjSsplq6xHmVXa8.jpg\" loading=\"lazy\"><img alt=\"960_02\" src=\"https://ae01.alicdn.com/kf/HTB1HLZNXcrrK1RjSspaq6AREXXai.jpg\" loading=\"lazy\"><img alt=\"960_03\" src=\"https://ae01.alicdn.com/kf/HTB1CaAMXiDxK1RjSsphq6zHrpXay.jpg\" loading=\"lazy\"><img alt=\"960_04\" src=\"https://ae01.alicdn.com/kf/HTB167wMXojrK1RkHFNRq6ySvpXaA.jpg\" loading=\"lazy\"><img alt=\"960_05\" src=\"https://ae01.alicdn.com/kf/HTB1FzANXizxK1RjSspjq6AS.pXaU.jpg\" loading=\"lazy\"><img alt=\"960_06\" src=\"https://ae01.alicdn.com/kf/HTB1F77ZX0zvK1RkSnfoq6zMwVXaw.jpg\" loading=\"lazy\"><img alt=\"960_07\" src=\"https://ae01.alicdn.com/kf/HTB1oeUYX5jrK1RjSsplq6xHmVXaS.jpg\" loading=\"lazy\"><img alt=\"960_08\" src=\"https://ae01.alicdn.com/kf/HTB1Lro6X2jsK1Rjy1Xaq6zispXaA.jpg\" loading=\"lazy\"><img alt=\"960_09\" src=\"https://ae01.alicdn.com/kf/HTB1DjA1XZrrK1Rjy1zeq6xalFXaZ.jpg\" loading=\"lazy\"></p>\n\n<p><img alt=\"TIM20181009165351\" src=\"https://ae01.alicdn.com/kf/HTB1BL7ZXiYrK1Rjy0Fdq6ACvVXaZ.jpg\" loading=\"lazy\"></p>",
+    "vendor": "Electroniks-India\u00ae",
+    "product_type": "",
+    "created_at": "2020-03-04T21:26:58+05:30",
+    "handle": "kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4",
+    "updated_at": "2026-05-14T09:09:57+05:30",
+    "published_at": "2020-08-04T13:23:14+05:30",
+    "template_suffix": null,
+    "published_scope": "web",
+    "tags": "10, AS, BA, Cable, Copper, Earphone, ES, for, Headphone, KZ, mixed, MMCX, Pin, plated, silver, upgrade, wire, ZS, ZST",
+    "variants": [
+      {
+        "id": 35249918050454,
+        "product_id": 4641335377964,
+        "title": "CoppersilverAPin",
+        "price": "1478.00",
+        "sku": "12272-CoppersilverAPin",
+        "position": 1,
+        "compare_at_price": "2098.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "CoppersilverAPin",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-07-16T16:30:28+05:30",
+        "updated_at": "2026-05-14T09:09:57+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 70,
+        "image_id": 42541201457406,
+        "weight": 0.07,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 35249918083222,
+        "product_id": 4641335377964,
+        "title": "CoppersilverBPin",
+        "price": "1478.00",
+        "sku": "12272-CoppersilverBPin",
+        "position": 2,
+        "compare_at_price": "2098.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "CoppersilverBPin",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-07-16T16:30:28+05:30",
+        "updated_at": "2026-05-14T09:09:57+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 70,
+        "image_id": 42541201686782,
+        "weight": 0.07,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 35249918115990,
+        "product_id": 4641335377964,
+        "title": "CoppersilverMMCX",
+        "price": "1478.00",
+        "sku": "12272-CoppersilverMMCX",
+        "position": 3,
+        "compare_at_price": "2098.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "CoppersilverMMCX",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-07-16T16:30:28+05:30",
+        "updated_at": "2026-05-14T09:09:57+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 70,
+        "image_id": 42541202014462,
+        "weight": 0.07,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 6027782389804,
+        "product_id": 4641335377964,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "CoppersilverAPin",
+          "CoppersilverBPin",
+          "CoppersilverMMCX"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541199589630,
+        "product_id": 4641335377964,
+        "position": 1,
+        "created_at": "2024-07-24T11:29:21+05:30",
+        "updated_at": "2024-07-24T11:29:21+05:30",
+        "alt": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-329.webp?v=1721800761",
+        "variant_ids": []
+      },
+      {
+        "id": 42541199786238,
+        "product_id": 4641335377964,
+        "position": 2,
+        "created_at": "2024-07-24T11:29:24+05:30",
+        "updated_at": "2024-07-24T11:29:24+05:30",
+        "alt": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-789.webp?v=1721800764",
+        "variant_ids": []
+      },
+      {
+        "id": 42541200113918,
+        "product_id": 4641335377964,
+        "position": 3,
+        "created_at": "2024-07-24T11:29:27+05:30",
+        "updated_at": "2024-07-24T11:29:27+05:30",
+        "alt": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-576.webp?v=1721800767",
+        "variant_ids": []
+      },
+      {
+        "id": 42541200539902,
+        "product_id": 4641335377964,
+        "position": 4,
+        "created_at": "2024-07-24T11:29:30+05:30",
+        "updated_at": "2024-07-24T11:29:30+05:30",
+        "alt": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-810.webp?v=1721800770",
+        "variant_ids": []
+      },
+      {
+        "id": 42541200703742,
+        "product_id": 4641335377964,
+        "position": 5,
+        "created_at": "2024-07-24T11:29:34+05:30",
+        "updated_at": "2024-07-24T11:29:34+05:30",
+        "alt": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-509.webp?v=1721800774",
+        "variant_ids": []
+      },
+      {
+        "id": 42541201129726,
+        "product_id": 4641335377964,
+        "position": 6,
+        "created_at": "2024-07-24T11:29:37+05:30",
+        "updated_at": "2024-07-24T11:29:37+05:30",
+        "alt": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-469.webp?v=1721800777",
+        "variant_ids": []
+      },
+      {
+        "id": 42541201457406,
+        "product_id": 4641335377964,
+        "position": 7,
+        "created_at": "2024-07-24T11:29:40+05:30",
+        "updated_at": "2024-07-24T11:29:40+05:30",
+        "alt": "Kz headphone copper silver mixed plated upgrade cable earphone cable wire mmcx pin for zst zs10 es3 es4 as10 ba10 zs6 zs5 zs4 - on sale",
+        "width": 700,
+        "height": 700,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-896.webp?v=1721800780",
+        "variant_ids": [
+          35249918050454
+        ]
+      },
+      {
+        "id": 42541201686782,
+        "product_id": 4641335377964,
+        "position": 8,
+        "created_at": "2024-07-24T11:29:43+05:30",
+        "updated_at": "2024-07-24T11:29:43+05:30",
+        "alt": "Kz headphone copper silver mixed plated upgrade cable earphone cable wire mmcx pin for zst zs10 es3 es4 as10 ba10 zs6 zs5 zs4 - on sale",
+        "width": 700,
+        "height": 700,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-687.webp?v=1721800783",
+        "variant_ids": [
+          35249918083222
+        ]
+      },
+      {
+        "id": 42541202014462,
+        "product_id": 4641335377964,
+        "position": 9,
+        "created_at": "2024-07-24T11:29:46+05:30",
+        "updated_at": "2024-07-24T11:29:46+05:30",
+        "alt": "Kz headphone copper silver mixed plated upgrade cable earphone cable wire mmcx pin for zst zs10 es3 es4 as10 ba10 zs6 zs5 zs4 - on sale",
+        "width": 700,
+        "height": 700,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-970.webp?v=1721800786",
+        "variant_ids": [
+          35249918115990
+        ]
+      }
+    ],
+    "image": {
+      "id": 42541199589630,
+      "product_id": 4641335377964,
+      "position": 1,
+      "created_at": "2024-07-24T11:29:21+05:30",
+      "updated_at": "2024-07-24T11:29:21+05:30",
+      "alt": "KZ Headphone Copper silver mixed plated upgrade cable Earphone Cable wire MMCX Pin for ZST ZS10 ES3 ES4 AS10 BA10 ZS6 ZS5 ZS4",
+      "width": 800,
+      "height": 800,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/kz-headphone-copper-silver-mixed-plated-upgrade-cable-earphone-cable-wire-mmcx-pin-for-zst-zs10-es3-es4-as10-ba10-zs6-zs5-zs4-by-electroniksindia-329.webp?v=1721800761",
+      "variant_ids": []
+    }
+  }
+}

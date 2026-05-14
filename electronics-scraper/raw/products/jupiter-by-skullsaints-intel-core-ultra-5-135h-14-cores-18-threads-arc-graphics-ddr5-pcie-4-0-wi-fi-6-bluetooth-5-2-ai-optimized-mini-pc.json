@@ -1,0 +1,290 @@
+{
+  "product": {
+    "id": 8212517912830,
+    "title": "Jupiter by SkullSaints \u2013 Intel 14th Gen Core Ultra 5 135H, 14 Cores, 18 Threads, Arc Graphics, DDR5, PCIe 4.0, Wi-Fi 6, Bluetooth 5.2, Ai Optimized Mini PC",
+    "body_html": "",
+    "vendor": "SkullSaints",
+    "product_type": "",
+    "created_at": "2023-12-13T15:46:29+05:30",
+    "handle": "jupiter-by-skullsaints-intel-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc",
+    "updated_at": "2026-05-14T09:07:45+05:30",
+    "published_at": "2025-03-13T17:25:46+05:30",
+    "template_suffix": "jupiter",
+    "published_scope": "web",
+    "tags": "SkullSaints",
+    "variants": [
+      {
+        "id": 47376096985342,
+        "product_id": 8212517912830,
+        "title": "Barebone",
+        "price": "47999.00",
+        "sku": null,
+        "position": 1,
+        "compare_at_price": "69999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Barebone",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-10-03T10:27:49+05:30",
+        "updated_at": "2026-05-14T09:07:45+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1500,
+        "image_id": 45615413526782,
+        "weight": 1.5,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 44494952890622,
+        "product_id": 8212517912830,
+        "title": "16GB DDR5 + 512GB M.2 NVME + Win 11 Pro",
+        "price": "79999.00",
+        "sku": "Jupiter-16+512",
+        "position": 2,
+        "compare_at_price": "69999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "16GB DDR5 + 512GB M.2 NVME + Win 11 Pro",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-12-13T15:57:19+05:30",
+        "updated_at": "2026-05-14T09:07:45+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1500,
+        "image_id": 45615410905342,
+        "weight": 1.5,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46398585405694,
+        "product_id": 8212517912830,
+        "title": "32GB DDR5 + 1TB M.2 NVME + Win 11 Pro",
+        "price": "104999.00",
+        "sku": "Jupiter-32+1T",
+        "position": 3,
+        "compare_at_price": "69999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "32GB DDR5 + 1TB M.2 NVME + Win 11 Pro",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-03-13T17:29:58+05:30",
+        "updated_at": "2026-05-14T09:07:45+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1500,
+        "image_id": 45615410905342,
+        "weight": 1.5,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10432498172158,
+        "product_id": 8212517912830,
+        "name": "Bundle",
+        "position": 1,
+        "values": [
+          "Barebone",
+          "16GB DDR5 + 512GB M.2 NVME + Win 11 Pro",
+          "32GB DDR5 + 1TB M.2 NVME + Win 11 Pro"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 45615410905342,
+        "product_id": 8212517912830,
+        "position": 1,
+        "created_at": "2025-08-26T10:32:06+05:30",
+        "updated_at": "2025-08-26T10:32:06+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1333,
+        "height": 1333,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-244.webp?v=1756184526",
+        "variant_ids": [
+          44494952890622,
+          46398585405694
+        ]
+      },
+      {
+        "id": 45615411331326,
+        "product_id": 8212517912830,
+        "position": 2,
+        "created_at": "2025-08-26T10:32:11+05:30",
+        "updated_at": "2025-08-26T10:32:11+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1333,
+        "height": 1333,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-937.webp?v=1756184531",
+        "variant_ids": []
+      },
+      {
+        "id": 45615412150526,
+        "product_id": 8212517912830,
+        "position": 3,
+        "created_at": "2025-08-26T10:32:15+05:30",
+        "updated_at": "2025-08-26T10:32:15+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1333,
+        "height": 1333,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-398.webp?v=1756184535",
+        "variant_ids": []
+      },
+      {
+        "id": 45615412838654,
+        "product_id": 8212517912830,
+        "position": 4,
+        "created_at": "2025-08-26T10:32:18+05:30",
+        "updated_at": "2025-08-26T10:32:18+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1333,
+        "height": 1333,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-877.webp?v=1756184538",
+        "variant_ids": []
+      },
+      {
+        "id": 45615413526782,
+        "product_id": 8212517912830,
+        "position": 5,
+        "created_at": "2025-08-26T10:32:22+05:30",
+        "updated_at": "2025-08-26T10:32:22+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1333,
+        "height": 1333,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-982.webp?v=1756184542",
+        "variant_ids": [
+          47376096985342
+        ]
+      },
+      {
+        "id": 45615414739198,
+        "product_id": 8212517912830,
+        "position": 6,
+        "created_at": "2025-08-26T10:32:28+05:30",
+        "updated_at": "2025-08-26T10:32:28+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 2934,
+        "height": 2934,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-135.webp?v=1756184548",
+        "variant_ids": []
+      },
+      {
+        "id": 45615416344830,
+        "product_id": 8212517912830,
+        "position": 7,
+        "created_at": "2025-08-26T10:32:35+05:30",
+        "updated_at": "2025-08-26T10:32:35+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-787.webp?v=1756184555",
+        "variant_ids": []
+      },
+      {
+        "id": 45615417557246,
+        "product_id": 8212517912830,
+        "position": 8,
+        "created_at": "2025-08-26T10:32:42+05:30",
+        "updated_at": "2025-08-26T10:32:42+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 2506,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-177.webp?v=1756184562",
+        "variant_ids": []
+      },
+      {
+        "id": 45615418081534,
+        "product_id": 8212517912830,
+        "position": 9,
+        "created_at": "2025-08-26T10:32:49+05:30",
+        "updated_at": "2025-08-26T10:32:49+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 2714,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-571.webp?v=1756184569",
+        "variant_ids": []
+      },
+      {
+        "id": 45615418212606,
+        "product_id": 8212517912830,
+        "position": 10,
+        "created_at": "2025-08-26T10:32:53+05:30",
+        "updated_at": "2025-08-26T10:32:53+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1404,
+        "height": 1405,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-900.webp?v=1756184573",
+        "variant_ids": []
+      },
+      {
+        "id": 45615418867966,
+        "product_id": 8212517912830,
+        "position": 11,
+        "created_at": "2025-08-26T10:32:57+05:30",
+        "updated_at": "2025-08-26T10:32:58+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1572,
+        "height": 1573,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-506.webp?v=1756184578",
+        "variant_ids": []
+      },
+      {
+        "id": 45615419621630,
+        "product_id": 8212517912830,
+        "position": 12,
+        "created_at": "2025-08-26T10:33:01+05:30",
+        "updated_at": "2025-08-26T10:33:01+05:30",
+        "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+        "width": 1333,
+        "height": 1333,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-271.webp?v=1756184581",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 45615410905342,
+      "product_id": 8212517912830,
+      "position": 1,
+      "created_at": "2025-08-26T10:32:06+05:30",
+      "updated_at": "2025-08-26T10:32:06+05:30",
+      "alt": "Jupiter by skullsaints \u2013 intel core ultra 5 135h 14 cores 18 threads arc graphics ddr5 pcie 4.0 wi-fi 6 bluetooth 5.2 ai optimized mini pc",
+      "width": 1333,
+      "height": 1333,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/jupiter-by-skullsaints-intel-14th-gen-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc-244.webp?v=1756184526",
+      "variant_ids": [
+        44494952890622,
+        46398585405694
+      ]
+    }
+  }
+}

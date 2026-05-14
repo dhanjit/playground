@@ -1,0 +1,170 @@
+{
+  "product": {
+    "id": 8725693661438,
+    "title": "TechAdro TA6 SE Pro \u2013  Wired-to-Wireless CarPlay & Android Auto Adapter, 5.8 GHz Dongle, USB A/USB C Compatibility, Plug & Play Setup",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-12-14T19:08:38+05:30",
+    "handle": "ta4-se-pro-wired-to-wireless-carplay-android-auto-adapter",
+    "updated_at": "2026-05-14T09:07:55+05:30",
+    "published_at": "2024-12-14T19:08:38+05:30",
+    "template_suffix": "ta4",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 46096114647294,
+        "product_id": 8725693661438,
+        "title": "Default Title",
+        "price": "1999.00",
+        "sku": "TA6",
+        "position": 2,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-12-14T19:08:39+05:30",
+        "updated_at": "2026-05-14T09:07:55+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": null,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11070065737982,
+        "product_id": 8725693661438,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 44956021326078,
+        "product_id": 8725693661438,
+        "position": 1,
+        "created_at": "2025-06-01T20:14:12+05:30",
+        "updated_at": "2025-08-31T14:46:08+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-120.webp?v=1756631768",
+        "variant_ids": []
+      },
+      {
+        "id": 44956022964478,
+        "product_id": 8725693661438,
+        "position": 2,
+        "created_at": "2025-06-01T20:14:17+05:30",
+        "updated_at": "2025-08-31T14:46:14+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-850.webp?v=1756631774",
+        "variant_ids": []
+      },
+      {
+        "id": 44956023030014,
+        "product_id": 8725693661438,
+        "position": 3,
+        "created_at": "2025-06-01T20:14:23+05:30",
+        "updated_at": "2025-08-31T14:46:19+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-747.webp?v=1756631779",
+        "variant_ids": []
+      },
+      {
+        "id": 44956023095550,
+        "product_id": 8725693661438,
+        "position": 4,
+        "created_at": "2025-06-01T20:14:29+05:30",
+        "updated_at": "2025-08-31T14:46:25+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-258.webp?v=1756631785",
+        "variant_ids": []
+      },
+      {
+        "id": 44956023161086,
+        "product_id": 8725693661438,
+        "position": 5,
+        "created_at": "2025-06-01T20:14:34+05:30",
+        "updated_at": "2025-08-31T14:46:31+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-721.webp?v=1756631791",
+        "variant_ids": []
+      },
+      {
+        "id": 44956023226622,
+        "product_id": 8725693661438,
+        "position": 6,
+        "created_at": "2025-06-01T20:14:40+05:30",
+        "updated_at": "2025-08-31T14:46:37+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-109.webp?v=1756631797",
+        "variant_ids": []
+      },
+      {
+        "id": 44956023292158,
+        "product_id": 8725693661438,
+        "position": 7,
+        "created_at": "2025-06-01T20:14:47+05:30",
+        "updated_at": "2025-08-31T14:46:42+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-759.webp?v=1756631802",
+        "variant_ids": []
+      },
+      {
+        "id": 44956023521534,
+        "product_id": 8725693661438,
+        "position": 8,
+        "created_at": "2025-06-01T20:14:53+05:30",
+        "updated_at": "2025-08-31T14:46:48+05:30",
+        "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-405.webp?v=1756631808",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 44956021326078,
+      "product_id": 8725693661438,
+      "position": 1,
+      "created_at": "2025-06-01T20:14:12+05:30",
+      "updated_at": "2025-08-31T14:46:08+05:30",
+      "alt": "Ta6 se pro \u2013 wired-to-wireless carplay & android auto adapter 5.8 ghz dongle usb a/usb c compatibility plug & play setup - \u20b92,999",
+      "width": 3000,
+      "height": 3000,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta6-se-pro-wired-to-wireless-carplay-android-auto-adapter-5-8-ghz-dongle-usb-a-usb-c-compatibility-plug-play-setup-by-electroniksindia-120.webp?v=1756631768",
+      "variant_ids": []
+    }
+  }
+}

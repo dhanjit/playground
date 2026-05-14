@@ -1,0 +1,86 @@
+{
+  "product": {
+    "id": 8482324119806,
+    "title": "EVM 512GB Internal SSD - M.2 NVMe PCIe (2280) - High-Speed Performance Up to 2100MB/s Read Speed with Low Power Consumption - 5 Yr Warranty (EVMNV/512GB)",
+    "body_html": "<div id=\"title_feature_div\" class=\"celwidget\" data-feature-name=\"title\" data-csa-c-type=\"widget\" data-csa-c-content-id=\"title\" data-csa-c-slot-id=\"title_feature_div\" data-csa-c-asin=\"B09W31WDWB\" data-csa-c-is-in-initial-active-row=\"false\">\n<div id=\"titleSection\" class=\"a-section a-spacing-none\">\n<h1 class=\"a-size-large a-spacing-none\">\n<span id=\"productTitle\" class=\"a-size-large product-title-word-break\">EVM 512GB Internal SSD - M.2 NVMe PCIe (2280) - High-Speed Performance Up to 2100MB/s Read Speed with Low Power Consumption - 5 Yr Warranty (EVMNV/512GB)</span><span id=\"titleEDPPlaceHolder\"></span>\n</h1>\n</div>\n<span class=\"edp-feature-declaration\" data-edp-feature-name=\"title\" data-edp-asin=\"B09W31WDWB\" data-data-hash=\"3980180693\" data-defects='[{\"id\":\"defect-mismatch-info\",\"value\":\"Different from product\"},{\"id\":\"defect-missing-information\",\"value\":\"Missing information\"},{\"id\":\"defect-unessential-info\",\"value\":\"Unimportant information\"},{\"id\":\"defect-incorrect-information\",\"value\":\"Incorrect information\"},{\"id\":\"defect-other-productinfo-issue\",\"value\":\"Other\"}]' data-metadata=\"CATALOG\" data-feature-container-id=\"productTitle\" data-custom-event-handler=\"productTitleEDPCustomEventHandler\" data-display-name=\"Product Name\" data-edit-data-state=\"productTitleEDPEditData\" data-position=\"1\" data-resolver=\"CQResolver\"></span>\n</div>\n<div id=\"qpeTitleTag_feature_div\" class=\"celwidget\" data-feature-name=\"qpeTitleTag\" data-csa-c-type=\"widget\" data-csa-c-content-id=\"qpeTitleTag\" data-csa-c-slot-id=\"qpeTitleTag_feature_div\" data-csa-c-asin=\"B09W31WDWB\" data-csa-c-is-in-initial-active-row=\"false\"></div>\n<div id=\"bylineInfo_feature_div\" class=\"celwidget\" data-feature-name=\"bylineInfo\" data-csa-c-type=\"widget\" data-csa-c-content-id=\"bylineInfo\" data-csa-c-slot-id=\"bylineInfo_feature_div\" data-csa-c-asin=\"B09W31WDWB\" data-csa-c-is-in-initial-active-row=\"false\"></div>",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-05-15T19:31:09+05:30",
+    "handle": "evm-512gb-internal-ssd-m-2-nvme-pcie-2280-high-speed-performance-up-to-2100mb-s-read-speed-with-low-power-consumption-5-yr-warranty-evmnv-512gb",
+    "updated_at": "2026-05-14T09:08:10+05:30",
+    "published_at": "2024-05-15T19:31:09+05:30",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 45295416869118,
+        "product_id": 8482324119806,
+        "title": "Default Title",
+        "price": "4299.00",
+        "sku": "512G",
+        "position": 2,
+        "compare_at_price": "5999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-05-15T19:31:10+05:30",
+        "updated_at": "2026-05-14T09:08:10+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": null,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10753250623742,
+        "product_id": 8482324119806,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541479919870,
+        "product_id": 8482324119806,
+        "position": 1,
+        "created_at": "2024-07-24T12:24:10+05:30",
+        "updated_at": "2025-05-15T14:07:36+05:30",
+        "alt": "Evm 512gb internal ssd - m.2 nvme pcie (2280) - high-speed performance up to 2100mb/s read speed with low power consumption - 5 yr warranty",
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/evm-512gb-internal-ssd-m-2-nvme-pcie-2280-high-speed-performance-up-to-2100mb-s-read-speed-with-low-power-consumption-5-yr-warranty-evmnv-512gb-998.webp?v=1747298256",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 42541479919870,
+      "product_id": 8482324119806,
+      "position": 1,
+      "created_at": "2024-07-24T12:24:10+05:30",
+      "updated_at": "2025-05-15T14:07:36+05:30",
+      "alt": "Evm 512gb internal ssd - m.2 nvme pcie (2280) - high-speed performance up to 2100mb/s read speed with low power consumption - 5 yr warranty",
+      "width": 500,
+      "height": 500,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/evm-512gb-internal-ssd-m-2-nvme-pcie-2280-high-speed-performance-up-to-2100mb-s-read-speed-with-low-power-consumption-5-yr-warranty-evmnv-512gb-998.webp?v=1747298256",
+      "variant_ids": []
+    }
+  }
+}

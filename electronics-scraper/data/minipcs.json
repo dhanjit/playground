@@ -1,0 +1,3214 @@
+[
+  {
+    "handle": "helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc",
+    "site_category": "Daily Tasks",
+    "model": "Helix (Intel i3-1215U, 12th Gen)",
+    "full_title": "Helix by SkullSaints: Intel Core Series, 12GB LPDDR5 4800MHz, Dual NVMe PCIe SSD, USB 3.2, USB-C 10Gbps/4K, 2.5Gbps LAN, Wi-Fi 6, BT 5.2, 4K Triple Display Mini PC",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc",
+    "options_meta": [
+      {
+        "id": 11564863455486,
+        "product_id": 9131074224382,
+        "name": "Processor",
+        "position": 1,
+        "values": [
+          "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)"
+        ]
+      },
+      {
+        "id": 11564863488254,
+        "product_id": 9131074224382,
+        "name": "RAM",
+        "position": 2,
+        "values": [
+          "12GB LPDDR5 4800MHz"
+        ]
+      },
+      {
+        "id": 11564863521022,
+        "product_id": 9131074224382,
+        "name": "Storage",
+        "position": 3,
+        "values": [
+          "0GB",
+          "128GB M.2 + Win 11 Pro",
+          "256GB M.2 + Win 11 Pro",
+          "512GB M.2 + Win 11 Pro",
+          "1TB M.2 + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel® Core™ i3-1215U (12th Gen)",
+      "CPU Cores / Threads": "6 Cores / 8 Threads (10MB Cache)",
+      "Max Turbo Frequency": "4.40 GHz (15W TDP)",
+      "Graphics (GPU)": "Intel® UHD Graphics Eligible",
+      "Memory (RAM)": "12 GB LPDDR5 4800 MHz (On-board)",
+      "Storage (SSD)": "Dual NVMe: 1x M.2 2280 + 1x M.2 2242 (up to 2TB each)",
+      "Wireless Connectivity": "Wi-Fi 6 (2.4G/5G), Bluetooth 5.2",
+      "Network Ports": "1 × RJ45 (2.5 Gbps Ethernet)",
+      "Type-C Ports": "1 × Type-C (10Gbps Data / 4K @ 60Hz Display)",
+      "Display Outputs": "Triple 4K — 2 × HDMI 2.1, 1 × Type-C",
+      "USB Ports": "5 × USB 3.2 Type-A",
+      "Audio Jack": "3.5 mm Phone Jack (Combo)",
+      "Material": "PC + ABS",
+      "Cooling System": "Active Fan Heat Dissipation",
+      "BIOS Support": "Auto Power-On / Timed Power-Up / UEFI Diskless Boot",
+      "Dimensions (mm)": "113 × 113 mm",
+      "Weight (g)": "800 g (Net Weight)",
+      "Operating Temp": "−20 °C ~ 70 °C",
+      "Power Supply": "19V / 3.78A (DC 5.5*2.5mm)",
+      "Operating System": "Windows 11 / Linux",
+      "Reason to Buy": "⚡ LPDDR5 Efficiency • Triple Display • 2.5G LAN • Dual NVMe Expansion",
+      "CPU PassMark Rating": "~10,400 (Avg)"
+    },
+    "variants": [
+      {
+        "sku": "Helix-12+0",
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 0GB",
+        "options": [
+          "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+          "12GB LPDDR5 4800MHz",
+          "0GB"
+        ],
+        "price_inr": 29999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "Helix-12+128",
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+          "12GB LPDDR5 4800MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 31999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "Helix-12+256",
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+          "12GB LPDDR5 4800MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 33999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "Helix-12+512",
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 512GB M.2 + Win 11 Pro",
+        "options": [
+          "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+          "12GB LPDDR5 4800MHz",
+          "512GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 38999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "Helix-12+1T",
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 1TB M.2 + Win 11 Pro",
+        "options": [
+          "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+          "12GB LPDDR5 4800MHz",
+          "1TB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 44999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      }
+    ],
+    "base_price_inr": 29999.0,
+    "max_price_inr": 44999.0,
+    "mrp_inr": null,
+    "review_count": null
+  },
+  {
+    "handle": "mist-by-skullsaints-ryzen-3-4300u-ddr4-dual-channel-pcie-nvme-ssd-usb-3-2-gen2-usb-c-dp-pd-2-5gbps-lan-wi-fi-6-bt-5-3-4k-dual-display-mini-pc",
+    "site_category": "Daily Tasks",
+    "model": "Mist (AMD Ryzen 3 4300U)",
+    "full_title": "Mist by SkullSaints: Ryzen 3 4300U, DDR4 Dual-Channel, PCIe NVMe SSD, USB 3.2 Gen2, USB-C DP/PD, 2.5Gbps LAN, Wi-Fi 6, BT 5.3, 4K Dual Display Mini PC",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/mist-by-skullsaints-ryzen-3-4300u-ddr4-dual-channel-pcie-nvme-ssd-usb-3-2-gen2-usb-c-dp-pd-2-5gbps-lan-wi-fi-6-bt-5-3-4k-dual-display-mini-pc",
+    "options_meta": [
+      {
+        "id": 11499920359678,
+        "product_id": 9080060805374,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "0GB",
+          "8GB DDR4 3200MHz",
+          "16GB DDR4 3200MHz"
+        ]
+      },
+      {
+        "id": 11499920392446,
+        "product_id": 9080060805374,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "128GB M.2 2280 + Win 11 Pro",
+          "256GB M.2 2280 + Win 11 Pro",
+          "512GB M.2 2280 + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 3 4300U (4C / 4T, 2.7 – 3.7 GHz, 15W)",
+      "Graphics (GPU)": "AMD Radeon™ Graphics (up to 1400 MHz)",
+      "Memory (RAM)": "Dual DDR4-3200 SO-DIMM — up to 32 GB",
+      "Storage (SSD)": "Dual Slots M.2 2280 NVMe/SATA (up to 4 TB) M.2 2242 NVMe/SATA (up to 2 TB)",
+      "Wireless Connectivity": "Wi-Fi 6 (RTL9851), Bluetooth 5.3",
+      "Network Port": "1 × RJ45 (2.5 Gbps / 1 Gbps / 100 Mbps)",
+      "Type-C Port": "Type-C (DP + Data + PD Charging)",
+      "Display Outputs": "2 × HDMI 2.0 (4K @ 60 Hz) + Type-C DP",
+      "USB Ports": "3 × USB 3.2 Gen2 (10 Gbps), 1 × USB 2.0",
+      "Audio Jack": "3.5 mm Combo (CTIA Standard)",
+      "Material": "ABS Plastic",
+      "Cooling System": "Active Fan Cooling",
+      "Operating System": "Windows 11 Pro",
+      "Dimensions (mm)": "115 × 106 × 37, 330 grams",
+      "Power Supply": "DC 19V / 3.42A",
+      "Reason to Buy": "💻 Ultra-Compact • Wi-Fi 6 • 2.5G LAN • Triple Display"
+    },
+    "variants": [
+      {
+        "sku": "mist-0+0",
+        "title": "0GB / 0GB",
+        "options": [
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 18999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "mist-8+128",
+        "title": "8GB DDR4 3200MHz / 128GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "128GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 24499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "mist-8+256",
+        "title": "8GB DDR4 3200MHz / 256GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "256GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 25999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "mist-8+512",
+        "title": "8GB DDR4 3200MHz / 512GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "512GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 29999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "mist-16+128",
+        "title": "16GB DDR4 3200MHz / 128GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "128GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 29499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "mist-16+256",
+        "title": "16GB DDR4 3200MHz / 256GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "256GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 30999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "mist-16+512",
+        "title": "16GB DDR4 3200MHz / 512GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "512GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 35999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      }
+    ],
+    "base_price_inr": 18999.0,
+    "max_price_inr": 35999.0,
+    "mrp_inr": null,
+    "review_count": null
+  },
+  {
+    "handle": "corex-by-skullsaints-powered-by-ryzen-5-4500u-wi-fi-6e-bt-5-3-triple-display-and-expandable-ram-storage-ai-mini-pc",
+    "site_category": "Daily Tasks",
+    "model": "CoreX (AMD Ryzen 5 4500U)",
+    "full_title": "CoreX by SkullSaints: Powered by Ryzen 5 4500U, Wi-Fi 6E, BT 5.3, Triple Display, and Expandable RAM & Storage, AI Mini PC",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/corex-by-skullsaints-powered-by-ryzen-5-4500u-wi-fi-6e-bt-5-3-triple-display-and-expandable-ram-storage-ai-mini-pc",
+    "options_meta": [
+      {
+        "id": 11399291601150,
+        "product_id": 8994717696254,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Silver"
+        ]
+      },
+      {
+        "id": 11529032401150,
+        "product_id": 8994717696254,
+        "name": "RAM",
+        "position": 2,
+        "values": [
+          "0GB",
+          "8GB DDR4 3200MHz",
+          "16GB DDR4 3200MHz",
+          "32GB DDR4 3200MHz (16*2)"
+        ]
+      },
+      {
+        "id": 11529032433918,
+        "product_id": 8994717696254,
+        "name": "Storage",
+        "position": 3,
+        "values": [
+          "0GB",
+          "128GB M.2 + Win 11 Pro",
+          "256GB M.2 + Win 11 Pro",
+          "512GB M.2 NVME + Win 11 Pro",
+          "1TB M.2 NVME + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 5 4500U",
+      "CPU Cores / Threads": "6 / 6",
+      "Max Boost Frequency": "4.0 GHz",
+      "Graphics (GPU)": "AMD Radeon Vega 6 (1.5 GHz)",
+      "Memory (RAM)": "Dual DDR4 SO-DIMM — up to 64 GB",
+      "Storage (SSD)": "2 × M.2 (2242 + 2280) SATA & NVMe — up to 4 TB",
+      "Wireless Connectivity": "Wi-Fi 6E, Bluetooth 5.3",
+      "Network Ports": "1 × RJ45 (Realtek, 1 Gbps)",
+      "Type-C Ports": "1 × Type-C (DP / Data)",
+      "Display Outputs": "Triple 4K — 2 × HDMI, 1 × Type-C",
+      "USB Ports": "4 × USB 3.2 Gen 2",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "Metal",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "114 × 106 × 42.5",
+      "Weight (g)": "410 g",
+      "Operating Temp / Humidity": "−20 °C ~ 70 °C / 5 – 95 % RH",
+      "Power Supply": "19 V / 3.42 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "💼 Best for Business • Reliable & Efficient Performance",
+      "CPU PassMark Rating": "10,709"
+    },
+    "variants": [
+      {
+        "sku": "CoreX-4500U-0+0-Black",
+        "title": "Black / 0GB / 0GB",
+        "options": [
+          "Black",
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 20999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+128-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 27999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+256-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 28999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+512-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 31999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+1T-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 37999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+128-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 32499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+256-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 33499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+512-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 36499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+1T-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 42499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+128-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 41499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+256-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 42499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+512-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 45499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+1T-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 51499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-0+0-Silver",
+        "title": "Silver / 0GB / 0GB",
+        "options": [
+          "Silver",
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 20999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+128-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 27999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+256-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 28999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+512-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 31999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-8+1T-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 37999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+128-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 32499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+256-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 33499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+512-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 36499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-16+1T-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 42499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+128-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 41499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+256-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 42499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+512-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 45499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4500U-32+1T-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 51499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      }
+    ],
+    "base_price_inr": 20999.0,
+    "max_price_inr": 51499.0,
+    "mrp_inr": null,
+    "review_count": 42
+  },
+  {
+    "handle": "agni-by-skullsaints-mini-pc-intel-twin-lake-n150-vibrant-lcd-screen-m-2-ssd-mini-tower-with-rgb-lights-wifi-6-4k-uhd-dual-lan-for-home-and-office",
+    "site_category": "Daily Tasks",
+    "model": "Agni (Intel N150 Twin Lake)",
+    "full_title": "Agni by SkullSaints Mini PC – Intel Twin Lake-N150, Vibrant LCD Screen, M.2 SSD, Mini Tower with RGB Lights, WiFi 6, 4K UHD, Dual LAN for Home and Office",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/agni-by-skullsaints-mini-pc-intel-twin-lake-n150-vibrant-lcd-screen-m-2-ssd-mini-tower-with-rgb-lights-wifi-6-4k-uhd-dual-lan-for-home-and-office",
+    "options_meta": [
+      {
+        "id": 11308974997758,
+        "product_id": 8919557832958,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "0GB",
+          "8GB DDR4 3200MHz",
+          "16GB DDR4 3200MHz"
+        ]
+      },
+      {
+        "id": 11505321443582,
+        "product_id": 8919557832958,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "128GB M.2 + Win 11 Pro",
+          "256GB M.2 + Win 11 Pro",
+          "512GB M.2 + Win 11 Pro",
+          "1TB M.2 + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel Alder-N Lake N150",
+      "CPU Cores / Threads": "4 / 4",
+      "Max Boost Frequency": "3.6 GHz",
+      "Graphics (GPU)": "Intel UHD Graphics (1.0 GHz)",
+      "Memory (RAM)": "Single DDR4 — up to 32 GB",
+      "Storage (SSD)": "M.2 2280 NVMe + M.2 SATA — up to 8 TB",
+      "Wireless Connectivity": "Wi-Fi 6, Bluetooth 5.2",
+      "Network Ports": "2 × RJ45 Realtek (1 Gbps)",
+      "Type-C Ports": "—",
+      "Display Outputs": "Dual 4K — 2 × HDMI",
+      "USB Ports": "2 × USB 3.0, 2 × USB 2.0",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "ABS Plastic",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "124 × 128 × 41",
+      "Weight (g)": "380 g",
+      "Operating Temp / Humidity": "0–40 °C / ≤90% @ 40 °C",
+      "Power Supply": "12 V / 3 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "🖥️ Built-in 1.9″ TFT LCD • Dual LAN • Compact Design",
+      "CPU PassMark Rating": "5,800"
+    },
+    "variants": [
+      {
+        "sku": "Agni-16+1T-N150",
+        "title": "0GB / 0GB",
+        "options": [
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 18999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Agni-8+128-N150",
+        "title": "8GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 25999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Agni-8+256-N10",
+        "title": "8GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 27999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Agni-8+512-N150",
+        "title": "8GB DDR4 3200MHz / 512GB M.2 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "512GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 32999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Agni-8+1T-N150",
+        "title": "8GB DDR4 3200MHz / 1TB M.2 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "1TB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 38999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Agni-16+128-N150",
+        "title": "16GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 30999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Agni-16+256-N150",
+        "title": "16GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 32999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "AgniN150-16+512",
+        "title": "16GB DDR4 3200MHz / 512GB M.2 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "512GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 35999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Agni-16+1T-N150",
+        "title": "16GB DDR4 3200MHz / 1TB M.2 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "1TB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 42999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 18999.0,
+    "max_price_inr": 42999.0,
+    "mrp_inr": 39999.0,
+    "review_count": 42
+  },
+  {
+    "handle": "ash-by-skullsaints-mini-pc-intel-twin-lake-n150-16gb-lpddr5-triple-display-support-m-2-nvme-wifi-5-bluetooth-5-2",
+    "site_category": "Daily Tasks",
+    "model": "Ash (Intel N150 Twin Lake)",
+    "full_title": "Ash by Skullsaints Mini PC – Intel Twin Lake N150, 16GB LPDDR5, Triple Display Support, M.2, WiFi 5 & Bluetooth 5.2 with Windows 11 Pro",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/ash-by-skullsaints-mini-pc-intel-twin-lake-n150-16gb-lpddr5-triple-display-support-m-2-nvme-wifi-5-bluetooth-5-2",
+    "options_meta": [
+      {
+        "id": 11113785000190,
+        "product_id": 8755517751550,
+        "name": "Bundle",
+        "position": 1,
+        "values": [
+          "16GB DDR5 4800MHz + 256GB M.2 + Win 11 Pro",
+          "16GB DDR5 4800MHz + 512GB M.2 + Win 11 Pro",
+          "16GB DDR5 4800MHz + 1TB M.2 + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel Alder-N Lake N150",
+      "CPU Cores / Threads": "4 / 4",
+      "Max Boost Frequency": "3.6 GHz",
+      "Graphics (GPU)": "Intel UHD Graphics (1.0 GHz)",
+      "Memory (RAM)": "16 GB LPDDR5 4800 MHz (non-expandable)",
+      "Storage (SSD)": "M.2 2242 — up to 2 TB",
+      "Wireless Connectivity": "Wi-Fi 5, Bluetooth 5.2",
+      "Network Ports": "2 × RJ45 Realtek (1 Gbps)",
+      "Type-C Ports": "1 × Type-C (Power)",
+      "Display Outputs": "Triple 4K — 2 × HDMI, 1 × DP",
+      "USB Ports": "3 × USB 3.2",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "ABS Plastic",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "87 × 87 × 36.5",
+      "Weight (g)": "168 g",
+      "Operating Temp / Humidity": "0–40 °C / ≤90% @ 40 °C",
+      "Power Supply": "12 V / 3 A (USB-C Powered)",
+      "eGPU Support": "—",
+      "Reason to Buy": "⚡ LPDDR5 4800MHz • Triple 4K Display • Compact Form",
+      "CPU PassMark Rating": "5,800"
+    },
+    "variants": [
+      {
+        "sku": "Ash-16+256",
+        "title": "16GB DDR5 4800MHz + 256GB M.2 + Win 11 Pro",
+        "options": [
+          "16GB DDR5 4800MHz + 256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 34999.0,
+        "compare_at_price_inr": 34999.0,
+        "available": true
+      },
+      {
+        "sku": "Ash-16+512",
+        "title": "16GB DDR5 4800MHz + 512GB M.2 + Win 11 Pro",
+        "options": [
+          "16GB DDR5 4800MHz + 512GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 38999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Ash-16+1T",
+        "title": "16GB DDR5 4800MHz + 1TB M.2 + Win 11 Pro",
+        "options": [
+          "16GB DDR5 4800MHz + 1TB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 42999.0,
+        "compare_at_price_inr": 44999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 34999.0,
+    "max_price_inr": 42999.0,
+    "mrp_inr": 44999.0,
+    "review_count": 11
+  },
+  {
+    "handle": "rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-16gb-ddr5-ram-512gb-m-2-ssd-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro",
+    "site_category": "Daily Tasks",
+    "model": "Rudra (Intel N150 Twin Lake)",
+    "full_title": "Rudra by SkullSaints Mini PC with N150 Twin Lake (Upto 3.6GHz), Triple 4K Display, Dual LAN, WiFi 6, Bluetooth 5.2, Win 11 Pro",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/rudra-by-skullsaints-mini-pc-with-n150-twin-lake-upto-3-6ghz-16gb-ddr5-ram-512gb-m-2-ssd-triple-4k-display-dual-lan-wifi-6-bluetooth-5-2-win-11-pro",
+    "options_meta": [
+      {
+        "id": 11236314939646,
+        "product_id": 8859085832446,
+        "name": "CPU",
+        "position": 1,
+        "values": [
+          "Intel Twin Lake N150 upto 3.4GHz"
+        ]
+      },
+      {
+        "id": 11236314972414,
+        "product_id": 8859085832446,
+        "name": "Bundle",
+        "position": 2,
+        "values": [
+          "16GB DDR5 + 128GB M.2 SSD + Win 11 Pro",
+          "16GB DDR5 + 512GB M.2 SSD + Win 11 Pro",
+          "16GB DDR5 + 1TB M.2 SSD + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel Alder-N Lake N150",
+      "CPU Cores / Threads": "4 / 4",
+      "Max Boost Frequency": "3.6 GHz",
+      "Graphics (GPU)": "Intel UHD Graphics (1.0 GHz)",
+      "Memory (RAM)": "16 GB LPDDR5 4800 MHz (non-expandable)",
+      "Storage (SSD)": "M.2 2242 — up to 2 TB",
+      "Wireless Connectivity": "Wi-Fi 6, Bluetooth 5.2",
+      "Network Ports": "2 × RJ45 Realtek (1 Gbps)",
+      "Type-C Ports": "—",
+      "Display Outputs": "Triple 4K — 3 × HDMI",
+      "USB Ports": "—",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "ABS Plastic",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "89.4 × 89.4 × 43.5",
+      "Weight (g)": "210 g",
+      "Operating Temp / Humidity": "0–40 °C / ≤90% @ 40 °C",
+      "Power Supply": "12 V / 2.5 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "⚡ LPDDR5 4800MHz • Compact & Efficient • Triple HDMI",
+      "CPU PassMark Rating": "5,800"
+    },
+    "variants": [
+      {
+        "sku": "RudraN150-16+128",
+        "title": "Intel Twin Lake N150 upto 3.4GHz / 16GB DDR5 + 128GB M.2 SSD + Win 11 Pro",
+        "options": [
+          "Intel Twin Lake N150 upto 3.4GHz",
+          "16GB DDR5 + 128GB M.2 SSD + Win 11 Pro"
+        ],
+        "price_inr": 33999.0,
+        "compare_at_price_inr": 37999.0,
+        "available": true
+      },
+      {
+        "sku": "RudraN150-16+512",
+        "title": "Intel Twin Lake N150 upto 3.4GHz / 16GB DDR5 + 512GB M.2 SSD + Win 11 Pro",
+        "options": [
+          "Intel Twin Lake N150 upto 3.4GHz",
+          "16GB DDR5 + 512GB M.2 SSD + Win 11 Pro"
+        ],
+        "price_inr": 38499.0,
+        "compare_at_price_inr": 37999.0,
+        "available": true
+      },
+      {
+        "sku": "RudraN150-16+1T",
+        "title": "Intel Twin Lake N150 upto 3.4GHz / 16GB DDR5 + 1TB M.2 SSD + Win 11 Pro",
+        "options": [
+          "Intel Twin Lake N150 upto 3.4GHz",
+          "16GB DDR5 + 1TB M.2 SSD + Win 11 Pro"
+        ],
+        "price_inr": 42999.0,
+        "compare_at_price_inr": 37999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 33999.0,
+    "max_price_inr": 42999.0,
+    "mrp_inr": 37999.0,
+    "review_count": 101
+  },
+  {
+    "handle": "pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gb-lan-hdmi-dual-4k-display-wifi-5-bt-5-0",
+    "site_category": "Daily Tasks",
+    "model": "Pulse (Intel Celeron 5205U)",
+    "full_title": "Pulse by SkullSaints Mini PC – Intel Celeron 5205U, Dual M.2 SSD Slots, 2.5Gbps LAN, HDMI Dual 4K Display, WiFi 5, BT 5.0",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gb-lan-hdmi-dual-4k-display-wifi-5-bt-5-0",
+    "options_meta": [
+      {
+        "id": 11311403467006,
+        "product_id": 8921478594814,
+        "name": "Bundle",
+        "position": 1,
+        "values": [
+          "No RAM + No Storage",
+          "4GB DDR4 + 128GB M.2 Storage"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel Celeron 5205U",
+      "CPU Cores / Threads": "2 / 2",
+      "Max Boost Frequency": "1.9 GHz",
+      "Graphics (GPU)": "Intel UHD Graphics (900 MHz)",
+      "Memory (RAM)": "Single DDR4 — up to 32 GB",
+      "Storage (SSD)": "1 × M.2 2280 (up to 2 TB) + 1 × M.2 2242 (up to 1 TB)",
+      "Wireless Connectivity": "Wi-Fi 5, Bluetooth 5.0",
+      "Network Ports": "1 × RJ45 (Intel i226, 2.5 Gbps)",
+      "Type-C Ports": "—",
+      "Display Outputs": "Dual 4K — 2 × HDMI",
+      "USB Ports": "3 × USB 3.2, 1 × USB 2.0",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "ABS Plastic",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "114 × 106 × 42.5",
+      "Weight (g)": "260 g",
+      "Operating Temp / Humidity": "0–40 °C / ≤90% @ 40 °C",
+      "Power Supply": "12 V / 3 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "💰 Low-Cost Solution • Dual HDMI 4K • Reliable Mini PC",
+      "CPU PassMark Rating": "1,433"
+    },
+    "variants": [
+      {
+        "sku": null,
+        "title": "No RAM + No Storage",
+        "options": [
+          "No RAM + No Storage"
+        ],
+        "price_inr": 12999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "Pulse",
+        "title": "4GB DDR4 + 128GB M.2 Storage",
+        "options": [
+          "4GB DDR4 + 128GB M.2 Storage"
+        ],
+        "price_inr": 17999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 12999.0,
+    "max_price_inr": 17999.0,
+    "mrp_inr": 39999.0,
+    "review_count": null
+  },
+  {
+    "handle": "corex-powered-by-ryzen-7-4800h-wi-fi-6-bt-5-2-triple-display-and-expandable-ram-storage",
+    "site_category": "Heavy Work",
+    "model": "CoreX (AMD Ryzen 7 4800H)",
+    "full_title": "CoreX by SkullSaints: Powered by Ryzen 7 4800H, Wi-Fi 6E, BT 5.3, Triple Display, and Expandable RAM & Storage, AI Mini PC",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/corex-powered-by-ryzen-7-4800h-wi-fi-6-bt-5-2-triple-display-and-expandable-ram-storage",
+    "options_meta": [
+      {
+        "id": 11056944611582,
+        "product_id": 8718803042558,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Silver"
+        ]
+      },
+      {
+        "id": 11056953655550,
+        "product_id": 8718803042558,
+        "name": "RAM",
+        "position": 2,
+        "values": [
+          "0GB",
+          "8GB DDR4 3200MHz",
+          "16GB DDR4 3200MHz",
+          "32GB DDR4 3200MHz (16*2)"
+        ]
+      },
+      {
+        "id": 11529029222654,
+        "product_id": 8718803042558,
+        "name": "Storage",
+        "position": 3,
+        "values": [
+          "0GB",
+          "128GB M.2 + Win 11 Pro",
+          "256GB M.2 + Win 11 Pro",
+          "512GB M.2 NVME + Win 11 Pro",
+          "1TB M.2 NVME + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 7 4800H",
+      "CPU Cores / Threads": "8 / 16",
+      "Max Boost Frequency": "4.2 GHz",
+      "Graphics (GPU)": "AMD Radeon Vega 7 (1.6 GHz)",
+      "Memory (RAM)": "Dual DDR4 SO-DIMM — up to 64 GB",
+      "Storage (SSD)": "2 × M.2 (2242 + 2280) SATA & NVMe — up to 4 TB",
+      "Wireless Connectivity": "Wi-Fi 6E, Bluetooth 5.3",
+      "Network Ports": "1 × RJ45 (Realtek, 1 Gbps)",
+      "Type-C Ports": "1 × Type-C (DP / Data)",
+      "Display Outputs": "Triple 4K — 2 × HDMI, 1 × Type-C",
+      "USB Ports": "4 × USB 3.2 Gen 2",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "Metal",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "114 × 106 × 42.5",
+      "Weight (g)": "410 g",
+      "Operating Temp / Humidity": "−20 °C ~ 70 °C / 5 – 95 % RH",
+      "Power Supply": "19 V / 3.42 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "🎮 Affordable Gaming • Metal Body • Triple 4K Display",
+      "CPU PassMark Rating": "18,118"
+    },
+    "variants": [
+      {
+        "sku": "CoreX-4800H-0+0-Black",
+        "title": "Black / 0GB / 0GB",
+        "options": [
+          "Black",
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 27999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+128-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 34999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+256-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 35999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+512-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 38999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+1T-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 44999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+128-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 39499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+256-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 40499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+512-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 44999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+1T-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 49499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+128-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 48499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+256-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 49999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+512-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 52499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+1T-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 58499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-0+0-Silver",
+        "title": "Silver / 0GB / 0GB",
+        "options": [
+          "Silver",
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 27999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+128-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 34999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+256-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 35999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+512-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 38999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-8+1T-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 44999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+128-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 39499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+256-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 40499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+512-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 44999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-16+1T-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 49999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+128-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 48499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+256-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 49499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+512-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 52499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-4800H-32+1T-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 58499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      }
+    ],
+    "base_price_inr": 27999.0,
+    "max_price_inr": 58499.0,
+    "mrp_inr": null,
+    "review_count": 42
+  },
+  {
+    "handle": "corex-powered-by-ryzen-9-5900hx-wi-fi-6-bt-5-2-triple-display-and-expandable-ram-storage-ai-mini-pc",
+    "site_category": "Heavy Work",
+    "model": "CoreX (AMD Ryzen 9 5900HX)",
+    "full_title": "CoreX by SkullSaints: Powered by Ryzen 9 5900HX, Wi-Fi 6E, BT 5.3, Triple Display, and Expandable RAM & Storage, AI Mini PC",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/corex-powered-by-ryzen-9-5900hx-wi-fi-6-bt-5-2-triple-display-and-expandable-ram-storage-ai-mini-pc",
+    "options_meta": [
+      {
+        "id": 11313557242110,
+        "product_id": 8923288633598,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Silver"
+        ]
+      },
+      {
+        "id": 11529030107390,
+        "product_id": 8923288633598,
+        "name": "RAM",
+        "position": 2,
+        "values": [
+          "0GB",
+          "8GB DDR4 3200MHz",
+          "16GB DDR4 3200MHz",
+          "32GB DDR4 3200MHz (16*2)"
+        ]
+      },
+      {
+        "id": 11529030140158,
+        "product_id": 8923288633598,
+        "name": "Storage",
+        "position": 3,
+        "values": [
+          "0GB",
+          "128GB M.2 + Win 11 Pro",
+          "256GB M.2 + Win 11 Pro",
+          "512GB M.2 NVME + Win 11 Pro",
+          "1TB M.2 NVME + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 9 5900HX",
+      "CPU Cores / Threads": "8 / 16",
+      "Max Boost Frequency": "4.6 GHz",
+      "Graphics (GPU)": "AMD Radeon Vega 8 (2.1 GHz)",
+      "Memory (RAM)": "Dual DDR4 SO-DIMM — up to 64 GB",
+      "Storage (SSD)": "2 × M.2 (2242 + 2280) SATA & NVMe — up to 4 TB",
+      "Wireless Connectivity": "Wi-Fi 6E, Bluetooth 5.3",
+      "Network Ports": "1 × RJ45 (Realtek, 1 Gbps)",
+      "Type-C Ports": "1 × Type-C (DP / Data)",
+      "Display Outputs": "Triple 4K — 2 × HDMI, 1 × Type-C",
+      "USB Ports": "4 × USB 3.2 Gen 2",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "Metal",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "114 × 106 × 42.5",
+      "Weight (g)": "410 g",
+      "Operating Temp / Humidity": "−20 °C ~ 70 °C / 5 – 95 % RH",
+      "Power Supply": "19 V / 3.42 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "🎮 Affordable Gaming • Metal Body • Triple 4K Display",
+      "CPU PassMark Rating": "22,226"
+    },
+    "variants": [
+      {
+        "sku": "CoreX-5900HX-0+0-Black",
+        "title": "Black / 0GB / 0GB",
+        "options": [
+          "Black",
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 33999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+128-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 39999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+256-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 40999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+512-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 43999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+1T-Black",
+        "title": "Black / 8GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "8GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 49999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+128-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 44499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+256-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 45499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+512-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 48499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+1T-Black",
+        "title": "Black / 16GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 54499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+128-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 54499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+256-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 55499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+512-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 57499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+1T-Black",
+        "title": "Black / 32GB DDR4 3200MHz (16*2) / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "32GB DDR4 3200MHz (16*2)",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 63499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-0+0-Silver",
+        "title": "Silver / 0GB / 0GB",
+        "options": [
+          "Silver",
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 33999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+128-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 39999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+256-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 40999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+512-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 43999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-8+1T-Silver",
+        "title": "Silver / 8GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "8GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 49999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+128-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 44499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+256-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 45499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+512-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 48499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-16+1T-Silver",
+        "title": "Silver / 16GB DDR4 3200MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB DDR4 3200MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 54499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+128-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 54499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+256-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 55499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+512-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 57499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": "CoreX-5900HX-32+1T-Silver",
+        "title": "Silver / 32GB DDR4 3200MHz (16*2) / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "32GB DDR4 3200MHz (16*2)",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 63499.0,
+        "compare_at_price_inr": null,
+        "available": true
+      }
+    ],
+    "base_price_inr": 33999.0,
+    "max_price_inr": 63499.0,
+    "mrp_inr": null,
+    "review_count": 42
+  },
+  {
+    "handle": "skullsaints-dragon-ryzen-5-5600u-colorful-mini-pc",
+    "site_category": "Heavy Work",
+    "model": "Dragon (AMD Ryzen 5 5600U)",
+    "full_title": "Dragon by SkullSaints AMD Ryzen 5 5600U, RGB Lights; 4K HDMI DP Type-C WiFi 6 BT 5.2 Mini PC",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/skullsaints-dragon-ryzen-5-5600u-colorful-mini-pc",
+    "options_meta": [
+      {
+        "id": 11513452986622,
+        "product_id": 7701705523454,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "0GB",
+          "8GB DDR4 3200MHz",
+          "16GB DDR4 3200MHz"
+        ]
+      },
+      {
+        "id": 11513453019390,
+        "product_id": 7701705523454,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "128GB M.2 2280 + Win 11 Pro",
+          "256GB M.2 2280 + Win 11 Pro",
+          "512GB M.2 2280 + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 5 5600U (TSMC 7nm)",
+      "CPU Cores / Threads": "6 Cores / 12 Threads",
+      "Base / Boost Clock": "2.3 GHz / 4.2 GHz",
+      "CPU Cache": "L2: 3 MB • L3: 16 MB",
+      "TDP": "15 W",
+      "Memory (RAM)": "Dual-Channel DDR4 SODIMM 3200 MHz — up to 64 GB",
+      "Storage Support": "1 × NVMe + 1 × NGFF / SATA — up to 2 TB",
+      "Wireless Connectivity": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax), Bluetooth 5.2",
+      "Ethernet": "1 × Gigabit LAN (10/100/1000 Mbps)",
+      "Display Outputs": "HDMI + DP + Type-C (Triple Display, 4K @ 60 Hz)",
+      "USB Ports": "4 × USB 3.0 Type-A",
+      "Type-C Port": "1 × Full-Featured USB-C (Data + Display)",
+      "LED Indicator": "RGB Status LED (Adjustable)",
+      "Security": "CPU Integrated TPM 2.0",
+      "BIOS Features": "RTC • Auto Power-On • UEFI Diskless Boot",
+      "Case Material": "Plastic",
+      "Dimensions (mm)": "132.9 × 156.1 × 71.8",
+      "Operating Conditions": "0–40 °C • ≤90% @ 40 °C",
+      "Power Supply": "19 V / 3.42 A (DC 5.5 × 2.1 mm)",
+      "Reason to Buy": "🐉 Ryzen 5 Power • Triple 4K Display • RGB LED • Expandable RAM"
+    },
+    "variants": [
+      {
+        "sku": "Dragon-barebone",
+        "title": "0GB / 0GB",
+        "options": [
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 27999.0,
+        "compare_at_price_inr": 99999.0,
+        "available": true
+      },
+      {
+        "sku": "Dragon-barebone",
+        "title": "8GB DDR4 3200MHz / 128GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "128GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 35999.0,
+        "compare_at_price_inr": null,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "8GB DDR4 3200MHz / 256GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "256GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 37999.0,
+        "compare_at_price_inr": 99999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "8GB DDR4 3200MHz / 512GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "8GB DDR4 3200MHz",
+          "512GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 41999.0,
+        "compare_at_price_inr": 99999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR4 3200MHz / 128GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "128GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 38999.0,
+        "compare_at_price_inr": 99999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR4 3200MHz / 256GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "256GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 40999.0,
+        "compare_at_price_inr": 99999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR4 3200MHz / 512GB M.2 2280 + Win 11 Pro",
+        "options": [
+          "16GB DDR4 3200MHz",
+          "512GB M.2 2280 + Win 11 Pro"
+        ],
+        "price_inr": 44999.0,
+        "compare_at_price_inr": 99999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 27999.0,
+    "max_price_inr": 44999.0,
+    "mrp_inr": 99999.0,
+    "review_count": 22
+  },
+  {
+    "handle": "jupiter-by-skullsaints-intel-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc",
+    "site_category": "Heavy Work",
+    "model": "Jupiter (Intel Core Ultra 5 135H, 14th Gen)",
+    "full_title": "Jupiter by SkullSaints – Intel 14th Gen Core Ultra 5 135H, 14 Cores, 18 Threads, Arc Graphics, DDR5, PCIe 4.0, Wi-Fi 6, Bluetooth 5.2, Ai Optimized Mini PC",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/jupiter-by-skullsaints-intel-core-ultra-5-135h-14-cores-18-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-mini-pc",
+    "options_meta": [
+      {
+        "id": 10432498172158,
+        "product_id": 8212517912830,
+        "name": "Bundle",
+        "position": 1,
+        "values": [
+          "Barebone",
+          "16GB DDR5 + 512GB M.2 NVME + Win 11 Pro",
+          "32GB DDR5 + 1TB M.2 NVME + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel® Core Ultra 5 135H",
+      "CPU Cores / Threads": "14 / 18",
+      "Max Boost Frequency": "4.6 GHz",
+      "Graphics (GPU)": "Intel Arc Graphics + Intel AI Boost NPU",
+      "Memory (RAM)": "Dual DDR5 SO-DIMM — up to 64 GB",
+      "Storage (SSD)": "1 × M.2 2280 SATA/NVMe PCIe 4.0 (up to 4 TB)",
+      "Wireless Connectivity": "Wi-Fi 6, Bluetooth 5.2",
+      "Network Ports": "1 × RJ45 (Realtek, 1 Gbps)",
+      "Type-C Ports": "—",
+      "Display Outputs": "Dual Display — 1 × HDMI, 1 × VGA",
+      "USB Ports": "4 × USB 3.0 • 4 × USB 2.0",
+      "Audio Jack": "3.5 mm Audio Out + Mic In",
+      "Material": "Metal",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "200 × 184 × 37",
+      "Weight (g)": "900 g",
+      "Operating Temp / Humidity": "0 – 40 °C / ≤ 90 % @ 40 °C",
+      "Power Supply": "19 V / 5 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "🤖 Intel AI Boost NPU for AI Acceleration",
+      "CPU PassMark Rating": "22,126"
+    },
+    "variants": [
+      {
+        "sku": null,
+        "title": "Barebone",
+        "options": [
+          "Barebone"
+        ],
+        "price_inr": 47999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": "Jupiter-16+512",
+        "title": "16GB DDR5 + 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "16GB DDR5 + 512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 79999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": "Jupiter-32+1T",
+        "title": "32GB DDR5 + 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "32GB DDR5 + 1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 104999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 47999.0,
+    "max_price_inr": 104999.0,
+    "mrp_inr": 69999.0,
+    "review_count": 11
+  },
+  {
+    "handle": "corex-pro-max-by-skullsaints-amd-ryzen-7-7840hs-radeon-780m-graphics-32gb-lpddr5-6400mhz-ram-upto-8tb-storage-usb4-8k-support-2-5g-lan-wi-fi-6-bt5-2-and-quad-display-support",
+    "site_category": "Extreme Power",
+    "model": "CoreX Pro Max (AMD Ryzen 7 7840HS)",
+    "full_title": "CoreX Pro Max by SkullSaints: AMD Ryzen 7 7840HS, Radeon 780M Graphics, 32GB LPDDR5 6400MHz RAM, upto 8TB Storage, USB4 8K Support, 2.5G LAN, Wi-Fi 6, BT5.2, and Quad Display Support",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/corex-pro-max-by-skullsaints-amd-ryzen-7-7840hs-radeon-780m-graphics-32gb-lpddr5-6400mhz-ram-upto-8tb-storage-usb4-8k-support-2-5g-lan-wi-fi-6-bt5-2-and-quad-display-support",
+    "options_meta": [
+      {
+        "id": 11599858827518,
+        "product_id": 9157391483134,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "32GB LPDDR5 6400MHz"
+        ]
+      },
+      {
+        "id": 11599858860286,
+        "product_id": 9157391483134,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "128GB M.2 NVME + Win 11 Pro",
+          "256GB M.2 NVME + Win 11 Pro",
+          "512GB M.2 NVME + Win 11 Pro",
+          "1TB M.2 NVME + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 7 7840HS (Zen 4)",
+      "CPU Cores / Threads": "8 Cores / 16 Threads",
+      "Max Boost Frequency": "5.1 GHz (TDP 35-54W)",
+      "Graphics (GPU)": "AMD Radeon™ 780M (Up to 2700MHz)",
+      "Memory (RAM)": "32GB LPDDR5 6400MHz (Non-expandable)",
+      "Storage (SSD)": "2 × M.2 2280 NVMe (Supports up to 8TB total)",
+      "Wireless Connectivity": "Wi-Fi 6 (802.11ax), Bluetooth 5.2",
+      "Network Ports": "Realtek Gaming 2.5GbE RJ45 Port",
+      "USB4 Port": "Full Function (Data Transmit / DP Alt Mode)",
+      "Display Outputs": "Quad Display: 2 × HDMI 2.0 + 2 × Type-C",
+      "USB Ports": "2 × USB 3.2, 2 × USB 2.0",
+      "Audio Jack": "3.5 mm Combo (Front Facing)",
+      "Form Factor": "Ultra-Compact Mini PC",
+      "Cooling System": "High-Efficiency Active Thermal Management",
+      "Operating System": "Windows 11 Pro / Linux Support",
+      "Dimensions (mm)": "130 × 126 × 40",
+      "Storage Expansion": "Dual M.2 NVMe Slots (2280)",
+      "Build Quality": "Metal-Chassis Style (Premium Finish)",
+      "Power Input": "DC 19V Power Adapter",
+      "Full Function USB4": "✅ Yes (eGPU & Power Delivery Support)",
+      "CPU PassMark Rating": "~29,800",
+      "Reason to Buy": "🚀 6400MHz Speed • 8TB Expansion • AI Ready"
+    },
+    "variants": [
+      {
+        "sku": null,
+        "title": "32GB LPDDR5 6400MHz / 0GB",
+        "options": [
+          "32GB LPDDR5 6400MHz",
+          "0GB"
+        ],
+        "price_inr": 84999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "32GB LPDDR5 6400MHz / 128GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "32GB LPDDR5 6400MHz",
+          "128GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 86999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "32GB LPDDR5 6400MHz / 256GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "32GB LPDDR5 6400MHz",
+          "256GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 88999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-10",
+        "title": "32GB LPDDR5 6400MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "32GB LPDDR5 6400MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 92999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-11",
+        "title": "32GB LPDDR5 6400MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "32GB LPDDR5 6400MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 99500.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 84999.0,
+    "max_price_inr": 99500.0,
+    "mrp_inr": 129000.0,
+    "review_count": 42
+  },
+  {
+    "handle": "fury-by-skullsaints-compact-mini-pc-with-amd-ryzen-7840hs-radeon-780m-graphics-usb4-8k-support-dual-2-5g-lan-and-wi-fi-6-bt5-2-triple-display",
+    "site_category": "Extreme Power",
+    "model": "Fury (AMD Ryzen 7 7840HS)",
+    "full_title": "Fury by SkullSaints: Compact Mini PC with AMD Ryzen 7840HS, Radeon 780M Graphics, USB4 8K Support, Dual 2.5G LAN, and Wi-Fi 6E, BT5.3, Triple Display",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/fury-by-skullsaints-compact-mini-pc-with-amd-ryzen-7840hs-radeon-780m-graphics-usb4-8k-support-dual-2-5g-lan-and-wi-fi-6-bt5-2-triple-display",
+    "options_meta": [
+      {
+        "id": 11472357654782,
+        "product_id": 8673972683006,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "0GB",
+          "16GB DDR5 4800MHz",
+          "32GB DDR5 4800MHz",
+          "32GB DDR5 5600MHz"
+        ]
+      },
+      {
+        "id": 11472357687550,
+        "product_id": 8673972683006,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "512GB M.2 NVMe + Win 11 Pro",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 7 7840HS",
+      "CPU Cores / Threads": "8 Cores / 16 Threads",
+      "Max Boost Frequency": "5.1 GHz",
+      "Graphics (GPU)": "AMD Radeon 780M (12 Cores @ 2.7 GHz)",
+      "Memory (RAM)": "Dual DDR5 SO-DIMM 5600 MHz — up to 256 GB",
+      "Storage (SSD)": "2 × M.2 2280 NVMe (up to 4 TB each)",
+      "Wireless Connectivity": "Wi-Fi 6E, Bluetooth 5.3",
+      "Network Ports": "2 × RJ45 (Intel i-226V 2.5 Gbps)",
+      "Type-C Ports": "1 × Type-C (Data), 1 × USB 4.0 (DP Output / eGPU)",
+      "Display Outputs": "Triple 4K — HDMI, DisplayPort, USB 4.0 (DP Alt Mode)",
+      "USB Ports": "2 × USB 3.2 Gen 3, 2 × USB 2.0",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "ABS Plastic",
+      "Cooling System": "Active Fan Cooling",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "136 × 123 × 51",
+      "Weight": "530 g",
+      "Operating Temp / Humidity": "−20°C ~ 70°C / 5–95% RH",
+      "Power Supply": "19 V / 6.32 A",
+      "eGPU Support": "✅ Yes (via USB 4.0)",
+      "CPU PassMark Rating": "28,618",
+      "Reason to Buy": "💪 Most Powerful • eGPU Support • Triple 4K Display"
+    },
+    "variants": [
+      {
+        "sku": "Fury-32-1T-15",
+        "title": "0GB / 0GB",
+        "options": [
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 49999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-1",
+        "title": "16GB DDR5 4800MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "16GB DDR5 4800MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 79999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-2",
+        "title": "16GB DDR5 4800MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "16GB DDR5 4800MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 85999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-7",
+        "title": "32GB DDR5 4800MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 4800MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 93499.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-8",
+        "title": "32GB DDR5 4800MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 4800MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 99499.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-10",
+        "title": "32GB DDR5 5600MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 5600MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 93500.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-11",
+        "title": "32GB DDR5 5600MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 5600MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 99500.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 49999.0,
+    "max_price_inr": 99500.0,
+    "mrp_inr": 129000.0,
+    "review_count": 15
+  },
+  {
+    "handle": "fury-x-by-skullsaints-amd-ryzen-7840hs-radeon-780m-graphics-usb4-8k-support-dual-2-5g-lan-and-wi-fi-6e-bt5-3-triple-display-with-oculink-port",
+    "site_category": "Extreme Power",
+    "model": "Fury-X (AMD Ryzen 7 7840HS, OCuLink)",
+    "full_title": "Fury-X by SkullSaints: AMD Ryzen 7840HS, Radeon 780M Graphics, USB4 8K Support, Dual 2.5G LAN, and Wi-Fi 6E, BT5.3, Triple Display with OCULINK Port",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/fury-x-by-skullsaints-amd-ryzen-7840hs-radeon-780m-graphics-usb4-8k-support-dual-2-5g-lan-and-wi-fi-6e-bt5-3-triple-display-with-oculink-port",
+    "options_meta": [
+      {
+        "id": 11625440084222,
+        "product_id": 9175604265214,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "0GB",
+          "16GB DDR5 5600MHz",
+          "32GB DDR5 5600MHz"
+        ]
+      },
+      {
+        "id": 11625440116990,
+        "product_id": 9175604265214,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "512GB M.2 NVMe + Win 11 Pro",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 7 7840HS (Zen4)",
+      "CPU Cores / Threads": "8 Cores / 16 Threads",
+      "Max Boost Frequency": "5.1 GHz",
+      "Graphics (GPU)": "AMD Radeon 780M (12-Core @ 2700MHz)",
+      "Memory (RAM)": "Dual DDR5 SO-DIMM 5600 MHz — up to 64 GB",
+      "Storage (SSD)": "2 × M.2 2280 NVMe PCIe 4.0 (up to 4 TB per slot)",
+      "Wireless Connectivity": "Wi-Fi 6E, Bluetooth 5.3",
+      "Network Ports": "2 × Intel i226V 2.5G Wired LAN",
+      "Special Ports": "1 × OCulink (Lossless eGPU), 1 × USB4 40Gbps",
+      "Display Outputs": "Triple Display — HDMI 2.1 (8K), DP 2.1 (8K), USB4",
+      "USB Ports": "2 × USB 3.0, 2 × USB 2.0",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Power Supply": "19 V / 6.32 A (120W)",
+      "Cooling System": "Advanced Active Cooling",
+      "Operating System": "Windows 10/11 & Linux Supported",
+      "Dimensions (mm)": "132 × 132 × 50.5",
+      "Weight": "Net Weight 605g",
+      "Graphics Expansion": "✅ Dual Support: OCulink & USB4",
+      "CPU PassMark Rating": "28,618",
+      "Reason to Buy": "🚀 Pro-Grade Gaming • 8K Output • Lossless eGPU Connection"
+    },
+    "variants": [
+      {
+        "sku": "Fury-32-1T-15",
+        "title": "0GB / 0GB",
+        "options": [
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 46999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-7",
+        "title": "16GB DDR5 5600MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "16GB DDR5 5600MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 74999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-8",
+        "title": "16GB DDR5 5600MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "16GB DDR5 5600MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 79999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-10",
+        "title": "32GB DDR5 5600MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 5600MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 89999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Fury-32-1T-11",
+        "title": "32GB DDR5 5600MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 5600MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 94999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 46999.0,
+    "max_price_inr": 94999.0,
+    "mrp_inr": 129000.0,
+    "review_count": 1
+  },
+  {
+    "handle": "corex-pro-by-skullsaints-powered-by-ryzen-7-6800h-24gb-lpddr5-6400mhz-usb-4-0-2-5gbps-lan-wi-fi-6e-bt-5-3-triple-display-ai-mini-pc",
+    "site_category": "Extreme Power",
+    "model": "CoreX Pro (AMD Ryzen 7 6800H)",
+    "full_title": "CoreX Pro by SkullSaints: Powered by Ryzen 7 6800H, BT 5.3, Triple Display, AI Mini PC",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/corex-pro-by-skullsaints-powered-by-ryzen-7-6800h-24gb-lpddr5-6400mhz-usb-4-0-2-5gbps-lan-wi-fi-6e-bt-5-3-triple-display-ai-mini-pc",
+    "options_meta": [
+      {
+        "id": 11430447743230,
+        "product_id": 9019216462078,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Silver"
+        ]
+      },
+      {
+        "id": 11430447775998,
+        "product_id": 9019216462078,
+        "name": "RAM",
+        "position": 2,
+        "values": [
+          "16GB LPDDR5 6400MHz",
+          "24GB LPDDR5 6400MHz"
+        ]
+      },
+      {
+        "id": 11565900202238,
+        "product_id": 9019216462078,
+        "name": "Storage",
+        "position": 3,
+        "values": [
+          "0GB",
+          "128GB M.2 + Win 11 Pro",
+          "256GB M.2 + Win 11 Pro",
+          "512GB M.2 NVME + Win 11 Pro",
+          "1TB M.2 NVME + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "AMD Ryzen™ 7 6800H",
+      "CPU Cores / Threads": "8 / 16",
+      "Max Boost Frequency": "4.7 GHz",
+      "Graphics (GPU)": "AMD Radeon 680M (12 Cores @ 2.2 GHz)",
+      "Memory (RAM)": "24 GB LPDDR5 6400 MHz (non-expandable)",
+      "Storage (SSD)": "2 × M.2 (2242 + 2280) SATA & NVMe (up to 4 TB)",
+      "Wireless Connectivity": "Wi-Fi 6E, Bluetooth 5.3",
+      "Network Ports": "1 × RJ45 (Realtek, 2.5 Gbps)",
+      "Type-C Ports": "1 × Type-C (DP / Data)",
+      "Display Outputs": "Triple 4K — 2 × HDMI, 1 × USB 4.0 (DP Alt Mode)",
+      "USB Ports": "4 × USB 3.2 Gen 2",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "Metal",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "114 × 106 × 42.5",
+      "Weight (g)": "410 g",
+      "Operating Temp / Humidity": "−20 °C ~ 70 °C / 5 – 95 % RH",
+      "Power Supply": "19 V / 3.42 A",
+      "eGPU Support": "✅ Yes (via USB 4.0)",
+      "Reason to Buy": "🎮 Affordable Gaming • Metal Body • eGPU Support • LPDDR5 6400MHz",
+      "CPU PassMark Rating": "22,962"
+    },
+    "variants": [
+      {
+        "sku": "corex6800h-black-16+0",
+        "title": "Black / 16GB LPDDR5 6400MHz / 0GB",
+        "options": [
+          "Black",
+          "16GB LPDDR5 6400MHz",
+          "0GB"
+        ],
+        "price_inr": 41999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-16+128",
+        "title": "Black / 16GB LPDDR5 6400MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB LPDDR5 6400MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 43999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-16+256",
+        "title": "Black / 16GB LPDDR5 6400MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB LPDDR5 6400MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 45999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-16+512",
+        "title": "Black / 16GB LPDDR5 6400MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB LPDDR5 6400MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 49999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-16+1T",
+        "title": "Black / 16GB LPDDR5 6400MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "16GB LPDDR5 6400MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 56999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-0+0",
+        "title": "Black / 24GB LPDDR5 6400MHz / 0GB",
+        "options": [
+          "Black",
+          "24GB LPDDR5 6400MHz",
+          "0GB"
+        ],
+        "price_inr": 46999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-24+128",
+        "title": "Black / 24GB LPDDR5 6400MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "24GB LPDDR5 6400MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 48999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-24+256",
+        "title": "Black / 24GB LPDDR5 6400MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Black",
+          "24GB LPDDR5 6400MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 50999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-24+512",
+        "title": "Black / 24GB LPDDR5 6400MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "24GB LPDDR5 6400MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 54999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-black-24+1T",
+        "title": "Black / 24GB LPDDR5 6400MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Black",
+          "24GB LPDDR5 6400MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 61999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-16+0",
+        "title": "Silver / 16GB LPDDR5 6400MHz / 0GB",
+        "options": [
+          "Silver",
+          "16GB LPDDR5 6400MHz",
+          "0GB"
+        ],
+        "price_inr": 41999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-16+128",
+        "title": "Silver / 16GB LPDDR5 6400MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB LPDDR5 6400MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 43999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-16+256",
+        "title": "Silver / 16GB LPDDR5 6400MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB LPDDR5 6400MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 45999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-16+512",
+        "title": "Silver / 16GB LPDDR5 6400MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB LPDDR5 6400MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 49999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-16+1T",
+        "title": "Silver / 16GB LPDDR5 6400MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "16GB LPDDR5 6400MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 56999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-0+0",
+        "title": "Silver / 24GB LPDDR5 6400MHz / 0GB",
+        "options": [
+          "Silver",
+          "24GB LPDDR5 6400MHz",
+          "0GB"
+        ],
+        "price_inr": 46999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-24+128",
+        "title": "Silver / 24GB LPDDR5 6400MHz / 128GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "24GB LPDDR5 6400MHz",
+          "128GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 48999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-24+256",
+        "title": "Silver / 24GB LPDDR5 6400MHz / 256GB M.2 + Win 11 Pro",
+        "options": [
+          "Silver",
+          "24GB LPDDR5 6400MHz",
+          "256GB M.2 + Win 11 Pro"
+        ],
+        "price_inr": 50999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-24+512",
+        "title": "Silver / 24GB LPDDR5 6400MHz / 512GB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "24GB LPDDR5 6400MHz",
+          "512GB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 54999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "corex6800h-silver-24+1T",
+        "title": "Silver / 24GB LPDDR5 6400MHz / 1TB M.2 NVME + Win 11 Pro",
+        "options": [
+          "Silver",
+          "24GB LPDDR5 6400MHz",
+          "1TB M.2 NVME + Win 11 Pro"
+        ],
+        "price_inr": 61999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 41999.0,
+    "max_price_inr": 61999.0,
+    "mrp_inr": 39999.0,
+    "review_count": 42
+  },
+  {
+    "handle": "jupiter-by-skullsaints-intel-core-ultra-7-155h-16-cores-22-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-high-performance-mini-pc",
+    "site_category": "Extreme Power",
+    "model": "Jupiter (Intel Core Ultra 7 155H, 14th Gen)",
+    "full_title": "Jupiter by SkullSaints – Intel 14th Gen Core Ultra 7 155H, 16 Cores, 22 Threads, Arc Graphics, DDR5, PCIe 4.0, Wi-Fi 6, Bluetooth 5.2, AI-Optimized High-Performance Mini PC",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/jupiter-by-skullsaints-intel-core-ultra-7-155h-16-cores-22-threads-arc-graphics-ddr5-pcie-4-0-wi-fi-6-bluetooth-5-2-ai-optimized-high-performance-mini-pc",
+    "options_meta": [
+      {
+        "id": 11472358211838,
+        "product_id": 8924698575102,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "0GB",
+          "16GB DDR5 4800MHz",
+          "32GB DDR5 4800MHz",
+          "32GB DDR5 5600MHz"
+        ]
+      },
+      {
+        "id": 11472358244606,
+        "product_id": 8924698575102,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "512GB M.2 NVMe + Win 11 Pro",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel® Core Ultra 7 155H",
+      "CPU Cores / Threads": "16 / 22",
+      "Max Boost Frequency": "4.8 GHz",
+      "Graphics (GPU)": "Intel Arc Graphics + Intel AI Boost NPU",
+      "Memory (RAM)": "Dual DDR5 SO-DIMM — up to 64 GB",
+      "Storage (SSD)": "1 × M.2 2280 SATA/NVMe PCIe 4.0 (up to 4 TB)",
+      "Wireless Connectivity": "Wi-Fi 6, Bluetooth 5.2",
+      "Network Ports": "1 × RJ45 (Realtek, 1 Gbps)",
+      "Type-C Ports": "—",
+      "Display Outputs": "Dual Display — 1 × HDMI, 1 × VGA",
+      "USB Ports": "4 × USB 3.0 • 4 × USB 2.0",
+      "Audio Jack": "3.5 mm Audio Out + Mic In",
+      "Material": "Metal",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "200 × 184 × 37",
+      "Weight (g)": "900 g",
+      "Operating Temp / Humidity": "0 – 40 °C / ≤ 90 % @ 40 °C",
+      "Power Supply": "19 V / 5 A",
+      "eGPU Support": "—",
+      "Reason to Buy": "🤖 Intel AI Boost NPU for AI Acceleration",
+      "CPU PassMark Rating": "24,754"
+    },
+    "variants": [
+      {
+        "sku": null,
+        "title": "0GB / 0GB",
+        "options": [
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 53999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR5 4800MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "16GB DDR5 4800MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 85999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR5 4800MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "16GB DDR5 4800MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 94999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "32GB DDR5 4800MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 4800MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 99999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "32GB DDR5 4800MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 4800MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 105999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "32GB DDR5 5600MHz / 512GB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 5600MHz",
+          "512GB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 99999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "32GB DDR5 5600MHz / 1TB M.2 NVMe + Win 11 Pro",
+        "options": [
+          "32GB DDR5 5600MHz",
+          "1TB M.2 NVMe + Win 11 Pro"
+        ],
+        "price_inr": 107999.0,
+        "compare_at_price_inr": 69999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 53999.0,
+    "max_price_inr": 107999.0,
+    "mrp_inr": 69999.0,
+    "review_count": 11
+  },
+  {
+    "handle": "nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd",
+    "site_category": "NAS Mini PC",
+    "model": "Nebula NAS (Intel N150 Twin Lake)",
+    "full_title": "Nebula by SkullSaints: Mini PC & NAS Hybrid with Intel N150, 12GB LPDDR5, Quad M.2 Slots (Up to 16TB), Dual 2.5G Intel i226 LAN, WiFi 6, BT 5.2, USB3.2, HDMI 4K, Type-C PD",
+    "vendor": "ElectroniksIndia",
+    "url": "https://www.electroniksindia.com/products/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd",
+    "options_meta": [
+      {
+        "id": 11418013434110,
+        "product_id": 8997709185278,
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "12GB LPDDR5 + 64GB eMMC (Ubuntu Installed)"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor (CPU)": "Intel Alder-N Lake N150",
+      "CPU Cores / Threads": "4 / 4",
+      "Max Boost Frequency": "3.6 GHz",
+      "Graphics (GPU)": "Intel UHD Graphics (1 GHz)",
+      "Memory (RAM)": "12 GB LPDDR5 (non-expandable)",
+      "Storage (SSD)": "1 × M.2 2280 NVMe & SATA + 3 × M.2 NVMe (PCIe 3.0) — up to 16 TB",
+      "Wireless Connectivity": "Wi-Fi 6, Bluetooth 5.2",
+      "Network Ports": "2 × RJ45 (Intel i-226, 2.5 Gbps)",
+      "Type-C Ports": "1 × Type-C (DP / Data / PD)",
+      "Display Outputs": "Triple 4K — 2 × HDMI, 1 × Type-C",
+      "USB Ports": "3 × USB 3.2 Gen 2",
+      "Audio Jack": "3.5 mm Combo (Speaker / Mic)",
+      "Material": "ABS Plastic",
+      "Cooling System": "Active Fan",
+      "Operating System": "Windows / Linux",
+      "Dimensions (mm)": "146 × 97.5 × 32",
+      "Weight (g)": "390 g",
+      "Operating Temp / Humidity": "−20 °C ~ 70 °C / 5 – 95 % RH",
+      "Power Supply": "12 V / 4 A (USB-C Powered)",
+      "eGPU Support": "—",
+      "Reason to Buy": "💾 NAS Mini PC • Multi-Drive Expandability • Dual 2.5G LAN",
+      "CPU PassMark Rating": "5,800"
+    },
+    "variants": [
+      {
+        "sku": "nebula",
+        "title": "12GB LPDDR5 + 64GB eMMC (Ubuntu Installed)",
+        "options": [
+          "12GB LPDDR5 + 64GB eMMC (Ubuntu Installed)"
+        ],
+        "price_inr": 27999.0,
+        "compare_at_price_inr": 34999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 27999.0,
+    "max_price_inr": 27999.0,
+    "mrp_inr": 34999.0,
+    "review_count": 3
+  },
+  {
+    "handle": "skullsaints-onyx-intel-j6412",
+    "site_category": "Industrial Fanless",
+    "model": "Onyx Industrial (Intel Celeron J6412)",
+    "full_title": "SkullSaints Onyx: Fanless Mini Industrial PC with 4x 2.5G Intel i226 LAN, WiFi 6, NVMe, Soft Router Firewall, HDMI 2.0, 13 Ports",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/skullsaints-onyx-intel-j6412",
+    "options_meta": [
+      {
+        "id": 11568667394302,
+        "product_id": 8065755775230,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "0GB",
+          "8GB DDR4",
+          "16GB DDR4"
+        ]
+      },
+      {
+        "id": 11568667427070,
+        "product_id": 8065755775230,
+        "name": "Storage",
+        "position": 2,
+        "values": [
+          "0GB",
+          "128GB M.2",
+          "256GB M.2",
+          "512GB M.2"
+        ]
+      }
+    ],
+    "specs": {
+      "Processor": "Intel Celeron J6412 (4C / 4T, up to 2.6 GHz)",
+      "Graphics": "Intel UHD Graphics",
+      "Memory (RAM)": "2 × DDR4 SO-DIMM 2666 MHz 8 GB Included (Up to 32 GB)",
+      "NVMe Storage": "1 × M.2 NVMe SSD 256 GB Included (Up to 2 TB)",
+      "2.5″ SATA Storage": "1 × SATA HDD / SSD Supports up to 2 TB",
+      "Ethernet": "4 × 2.5Gb Intel i226 LAN",
+      "Wireless Connectivity": "Wi-Fi 6 + Bluetooth 5.2",
+      "Display Output": "1 × HDMI (with audio) 1 × DisplayPort",
+      "USB Ports": "2 × USB 3.0 2 × USB 2.0",
+      "Additional I/O": "RJ45 COM Port 2 × Wi-Fi Antenna Power Button",
+      "Chassis": "Full Metal Industrial Enclosure",
+      "Power Adapter": "DC 12V / 4A",
+      "Operating System": "No OS Included Supports pfSense, OPNsense, Linux, Windows",
+      "Dimensions": "136 × 126 × 40 mm",
+      "Weight": "1.15 kg",
+      "In the Box": "Power Adapter • HDMI Cable SATA Connector • VESA Mount • WiFi Antenna",
+      "Reason to Buy": "🌐 Quad 2.5G LAN • Metal Body • Firewall & Edge Deployment Ready"
+    },
+    "variants": [
+      {
+        "sku": "Onyx-J6412-Barebone",
+        "title": "0GB / 0GB",
+        "options": [
+          "0GB",
+          "0GB"
+        ],
+        "price_inr": 19999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "8GB DDR4 / 128GB M.2",
+        "options": [
+          "8GB DDR4",
+          "128GB M.2"
+        ],
+        "price_inr": 26999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": "OnyxJ6412-8+256",
+        "title": "8GB DDR4 / 256GB M.2",
+        "options": [
+          "8GB DDR4",
+          "256GB M.2"
+        ],
+        "price_inr": 28499.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "8GB DDR4 / 512GB M.2",
+        "options": [
+          "8GB DDR4",
+          "512GB M.2"
+        ],
+        "price_inr": 33999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR4 / 128GB M.2",
+        "options": [
+          "16GB DDR4",
+          "128GB M.2"
+        ],
+        "price_inr": 31999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR4 / 256GB M.2",
+        "options": [
+          "16GB DDR4",
+          "256GB M.2"
+        ],
+        "price_inr": 33999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      },
+      {
+        "sku": null,
+        "title": "16GB DDR4 / 512GB M.2",
+        "options": [
+          "16GB DDR4",
+          "512GB M.2"
+        ],
+        "price_inr": 39999.0,
+        "compare_at_price_inr": 39999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 19999.0,
+    "max_price_inr": 39999.0,
+    "mrp_inr": 39999.0,
+    "review_count": 13
+  },
+  {
+    "handle": "rudra-by-skullsaints-intel-12th-gen-alder-lake-processor-hdmi-4k-60hz-3-screen-display-dual-ethernet-cube-mini-pocket-pc",
+    "site_category": "Legacy / Older Listings",
+    "model": "Rudra (Intel Alder Lake N100 / N5105) [legacy]",
+    "full_title": "Rudra by SkullSaints Intel 12th Gen Alder Lake Processor, LPDDR5 4800MHz HDMI 4K@60Hz 3 Screen Display, Dual Ethernet, Cube Mini Pocket PC",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/rudra-by-skullsaints-intel-12th-gen-alder-lake-processor-hdmi-4k-60hz-3-screen-display-dual-ethernet-cube-mini-pocket-pc",
+    "options_meta": [
+      {
+        "id": 10254422278398,
+        "product_id": 8059254669566,
+        "name": "CPU",
+        "position": 1,
+        "values": [
+          "12th Gen Alder Lake N100 upto 3.4GHz"
+        ]
+      },
+      {
+        "id": 10254422311166,
+        "product_id": 8059254669566,
+        "name": "Bundle",
+        "position": 2,
+        "values": [
+          "8GB DDR5 + 256GB M.2 SSD + Genuine Windows 11 Pro",
+          "16GB DDR5 + 256GB M.2 SSD + Genuine Windows 11 Pro",
+          "16GB DDR5 + 512GB M.2 SSD + Genuine Windows 11 Pro"
+        ]
+      }
+    ],
+    "specs": {},
+    "variants": [
+      {
+        "sku": "8-256-N100",
+        "title": "12th Gen Alder Lake N100 upto 3.4GHz / 8GB DDR5 + 256GB M.2 SSD + Genuine Windows 11 Pro",
+        "options": [
+          "12th Gen Alder Lake N100 upto 3.4GHz",
+          "8GB DDR5 + 256GB M.2 SSD + Genuine Windows 11 Pro"
+        ],
+        "price_inr": 22999.0,
+        "compare_at_price_inr": 29999.0,
+        "available": true
+      },
+      {
+        "sku": "Rudra12G-16+256",
+        "title": "12th Gen Alder Lake N100 upto 3.4GHz / 16GB DDR5 + 256GB M.2 SSD + Genuine Windows 11 Pro",
+        "options": [
+          "12th Gen Alder Lake N100 upto 3.4GHz",
+          "16GB DDR5 + 256GB M.2 SSD + Genuine Windows 11 Pro"
+        ],
+        "price_inr": 22999.0,
+        "compare_at_price_inr": 29999.0,
+        "available": true
+      },
+      {
+        "sku": "16-512-N100",
+        "title": "12th Gen Alder Lake N100 upto 3.4GHz / 16GB DDR5 + 512GB M.2 SSD + Genuine Windows 11 Pro",
+        "options": [
+          "12th Gen Alder Lake N100 upto 3.4GHz",
+          "16GB DDR5 + 512GB M.2 SSD + Genuine Windows 11 Pro"
+        ],
+        "price_inr": 22999.0,
+        "compare_at_price_inr": 37999.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 22999.0,
+    "max_price_inr": 22999.0,
+    "mrp_inr": 37999.0,
+    "review_count": 101
+  },
+  {
+    "handle": "titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc",
+    "site_category": "Legacy / Older Listings",
+    "model": "Titan (AMD Ryzen 9 6900HX) [legacy]",
+    "full_title": "Titan by SkullSaints AMD Ryzen 9 6900HX 8C/16T upto 4.9GHz DDR5 4800MHz Dual m.2 SSD Wifi 6 BT 5.2 RGB Gaming Mini PC",
+    "vendor": "SkullSaints",
+    "url": "https://www.electroniksindia.com/products/titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc",
+    "options_meta": [
+      {
+        "id": 10239068143870,
+        "product_id": 8046367441150,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "32GB DDR5 4800MHz (16*2)",
+          "0GB RAM"
+        ]
+      },
+      {
+        "id": 10239076303102,
+        "product_id": 8046367441150,
+        "name": "SSD",
+        "position": 2,
+        "values": [
+          "1TB PCIe NVME",
+          "0GB SSD"
+        ]
+      },
+      {
+        "id": 10239079973118,
+        "product_id": 8046367441150,
+        "name": "OS",
+        "position": 3,
+        "values": [
+          "Genuine Windows 11 Pro",
+          "No OS"
+        ]
+      }
+    ],
+    "specs": {},
+    "variants": [
+      {
+        "sku": "Titan-32-500",
+        "title": "32GB DDR5 4800MHz (16*2) / 1TB PCIe NVME / Genuine Windows 11 Pro",
+        "options": [
+          "32GB DDR5 4800MHz (16*2)",
+          "1TB PCIe NVME",
+          "Genuine Windows 11 Pro"
+        ],
+        "price_inr": 59999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      },
+      {
+        "sku": "Titan-Barebone",
+        "title": "0GB RAM / 0GB SSD / No OS",
+        "options": [
+          "0GB RAM",
+          "0GB SSD",
+          "No OS"
+        ],
+        "price_inr": 44999.0,
+        "compare_at_price_inr": 129000.0,
+        "available": true
+      }
+    ],
+    "base_price_inr": 44999.0,
+    "max_price_inr": 59999.0,
+    "mrp_inr": 129000.0,
+    "review_count": 3
+  }
+]
