@@ -11,10 +11,12 @@ to PNG with headless Chromium.
 
 | File | Purpose |
 |------|---------|
-| `geralt-steam-avatar.png` | 1024×1024 master — upload this one to Steam |
+| `geralt-steam-avatar.png` | 1024×1024 portrait version (full stylized face) |
+| `geralt-steam-avatar-dark.png` | 1024×1024 dark version — ember-rimmed silhouette, glowing cat eyes |
 | `geralt-steam-avatar-184.png` | 184×184 preview (Steam's profile display size) |
-| `source/geralt.svg` | Editable vector source |
-| `source/PHILOSOPHY.md` | The "Ember Vigil" design philosophy behind the piece |
+| `source/geralt.svg` | Editable vector source (portrait) |
+| `source/geralt-dark.svg` | Editable vector source (dark variant) |
+| `source/PHILOSOPHY.md` | The "Ember Vigil" design philosophy behind the pieces |
 
 ## How to set it as your Steam avatar
 
