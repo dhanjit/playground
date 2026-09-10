@@ -1,0 +1,192 @@
+{
+  "product": {
+    "id": 8046367441150,
+    "title": "Titan by SkullSaints AMD Ryzen 9 6900HX 8C/16T upto 4.9GHz DDR5 4800MHz Dual m.2 SSD Wifi 6 BT 5.2 RGB Gaming Mini PC",
+    "body_html": "Titan by SkullSaints AMD Ryzen 9 6900HX 8C/16T upto 4.9GHz DDR5 4800MHz Dual m.2 SSD Wifi 6 BT 5.2 RGB Gaming Mini PC",
+    "vendor": "SkullSaints",
+    "product_type": "",
+    "created_at": "2023-05-02T18:24:54+05:30",
+    "handle": "titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc",
+    "updated_at": "2026-05-14T09:08:26+05:30",
+    "published_at": "2023-05-02T18:28:33+05:30",
+    "template_suffix": "titan",
+    "published_scope": "web",
+    "tags": "SkullSaints",
+    "variants": [
+      {
+        "id": 44012887441662,
+        "product_id": 8046367441150,
+        "title": "32GB DDR5 4800MHz (16*2) / 1TB PCIe NVME / Genuine Windows 11 Pro",
+        "price": "59999.00",
+        "sku": "Titan-32-500",
+        "position": 1,
+        "compare_at_price": "129000.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "32GB DDR5 4800MHz (16*2)",
+        "option2": "1TB PCIe NVME",
+        "option3": "Genuine Windows 11 Pro",
+        "created_at": "2023-05-02T18:40:35+05:30",
+        "updated_at": "2026-05-14T09:08:26+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 42541409337598,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 44102110675198,
+        "product_id": 8046367441150,
+        "title": "0GB RAM / 0GB SSD / No OS",
+        "price": "44999.00",
+        "sku": "Titan-Barebone",
+        "position": 2,
+        "compare_at_price": "129000.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "0GB RAM",
+        "option2": "0GB SSD",
+        "option3": "No OS",
+        "created_at": "2023-07-02T10:08:44+05:30",
+        "updated_at": "2026-05-14T09:08:26+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 2000,
+        "image_id": 42541409337598,
+        "weight": 2.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10239068143870,
+        "product_id": 8046367441150,
+        "name": "RAM",
+        "position": 1,
+        "values": [
+          "32GB DDR5 4800MHz (16*2)",
+          "0GB RAM"
+        ]
+      },
+      {
+        "id": 10239076303102,
+        "product_id": 8046367441150,
+        "name": "SSD",
+        "position": 2,
+        "values": [
+          "1TB PCIe NVME",
+          "0GB SSD"
+        ]
+      },
+      {
+        "id": 10239079973118,
+        "product_id": 8046367441150,
+        "name": "OS",
+        "position": 3,
+        "values": [
+          "Genuine Windows 11 Pro",
+          "No OS"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541409337598,
+        "product_id": 8046367441150,
+        "position": 1,
+        "created_at": "2024-07-24T12:09:36+05:30",
+        "updated_at": "2025-02-10T11:55:43+05:30",
+        "alt": "Titan by skullsaints amd ryzen 9 6900hx 8c/16t upto 4.9ghz ddr5 4800mhz dual m.2 ssd wifi 6 bt 5.2 rgb gaming mini pc - \u20b979,999",
+        "width": 960,
+        "height": 960,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc-by-electroniksindia-audio-type-gadget-993.webp?v=1739168743",
+        "variant_ids": [
+          44012887441662,
+          44102110675198
+        ]
+      },
+      {
+        "id": 42541409501438,
+        "product_id": 8046367441150,
+        "position": 2,
+        "created_at": "2024-07-24T12:09:40+05:30",
+        "updated_at": "2026-03-06T01:24:18+05:30",
+        "alt": "Titan by skullsaints amd ryzen 9 6900hx 8c/16t upto 4.9ghz ddr5 4800mhz dual m.2 ssd wifi 6 bt 5.2 rgb gaming mini pc - \u20b979,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc-by-electroniksindia-three-modes-switch-924.webp?v=1772740458",
+        "variant_ids": []
+      },
+      {
+        "id": 46854897860862,
+        "product_id": 8046367441150,
+        "position": 3,
+        "created_at": "2026-03-06T01:24:21+05:30",
+        "updated_at": "2026-03-06T01:24:21+05:30",
+        "alt": "Titan by skullsaints amd ryzen 9 6900hx 8c/16t upto 4.9ghz ddr5 4800mhz dual m.2 ssd wifi 6 bt 5.2 rgb gaming mini pc - \u20b979,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc-by-electroniksindia-gomappuch-93-602.webp?v=1772740461",
+        "variant_ids": []
+      },
+      {
+        "id": 42541409796350,
+        "product_id": 8046367441150,
+        "position": 4,
+        "created_at": "2024-07-24T12:09:47+05:30",
+        "updated_at": "2026-03-06T01:24:25+05:30",
+        "alt": "Titan by skullsaints amd ryzen 9 6900hx 8c/16t upto 4.9ghz ddr5 4800mhz dual m.2 ssd wifi 6 bt 5.2 rgb gaming mini pc - \u20b969,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc-by-electroniksindia-699.webp?v=1772740465",
+        "variant_ids": []
+      },
+      {
+        "id": 42541409927422,
+        "product_id": 8046367441150,
+        "position": 5,
+        "created_at": "2024-07-24T12:09:50+05:30",
+        "updated_at": "2026-03-06T01:24:28+05:30",
+        "alt": "Titan by skullsaints amd ryzen 9 6900hx 8c/16t upto 4.9ghz ddr5 4800mhz dual m.2 ssd wifi 6 bt 5.2 rgb gaming mini pc - \u20b969,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc-by-electroniksindia-972.webp?v=1772740468",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 42541409337598,
+      "product_id": 8046367441150,
+      "position": 1,
+      "created_at": "2024-07-24T12:09:36+05:30",
+      "updated_at": "2025-02-10T11:55:43+05:30",
+      "alt": "Titan by skullsaints amd ryzen 9 6900hx 8c/16t upto 4.9ghz ddr5 4800mhz dual m.2 ssd wifi 6 bt 5.2 rgb gaming mini pc - \u20b979,999",
+      "width": 960,
+      "height": 960,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/titan-by-skullsaints-amd-ryzen-9-6900hx-8c-16t-upto-4-9ghz-ddr5-4800mhz-dual-m-2-ssd-wifi-6-bt-5-2-rgb-gaming-mini-pc-by-electroniksindia-audio-type-gadget-993.webp?v=1739168743",
+      "variant_ids": [
+        44012887441662,
+        44102110675198
+      ]
+    }
+  }
+}

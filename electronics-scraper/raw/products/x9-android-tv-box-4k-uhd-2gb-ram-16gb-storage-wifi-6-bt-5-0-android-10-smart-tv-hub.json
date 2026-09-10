@@ -1,0 +1,230 @@
+{
+  "product": {
+    "id": 8837712773374,
+    "title": "X9 Android TV Box: 4K UHD, 2GB RAM, 16GB Storage, WiFi 6 & BT 5.0, Android 10 Smart TV Hub",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2025-03-17T15:48:04+05:30",
+    "handle": "x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub",
+    "updated_at": "2026-05-14T09:07:44+05:30",
+    "published_at": "2025-03-17T16:04:38+05:30",
+    "template_suffix": "x9",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 46457957679358,
+        "product_id": 8837712773374,
+        "title": "Default Title",
+        "price": "2799.00",
+        "sku": "X9",
+        "position": 2,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-03-17T15:48:04+05:30",
+        "updated_at": "2026-05-14T09:07:44+05:30",
+        "taxable": true,
+        "barcode": null,
+        "grams": 500,
+        "image_id": null,
+        "weight": 0.5,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11209482764542,
+        "product_id": 8837712773374,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 44185226281214,
+        "product_id": 8837712773374,
+        "position": 1,
+        "created_at": "2025-03-17T16:06:15+05:30",
+        "updated_at": "2025-08-07T12:14:24+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-551.webp?v=1754549064",
+        "variant_ids": []
+      },
+      {
+        "id": 44185231950078,
+        "product_id": 8837712773374,
+        "position": 2,
+        "created_at": "2025-03-17T16:06:22+05:30",
+        "updated_at": "2025-08-07T12:14:30+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-281.webp?v=1754549070",
+        "variant_ids": []
+      },
+      {
+        "id": 44185237946622,
+        "product_id": 8837712773374,
+        "position": 3,
+        "created_at": "2025-03-17T16:06:29+05:30",
+        "updated_at": "2025-08-07T12:14:35+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-706.webp?v=1754549075",
+        "variant_ids": []
+      },
+      {
+        "id": 44185244532990,
+        "product_id": 8837712773374,
+        "position": 4,
+        "created_at": "2025-03-17T16:06:37+05:30",
+        "updated_at": "2025-05-23T12:46:27+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-394.webp?v=1747984587",
+        "variant_ids": []
+      },
+      {
+        "id": 44185249972478,
+        "product_id": 8837712773374,
+        "position": 5,
+        "created_at": "2025-03-17T16:06:44+05:30",
+        "updated_at": "2025-05-23T12:46:32+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-980.webp?v=1747984592",
+        "variant_ids": []
+      },
+      {
+        "id": 44185257181438,
+        "product_id": 8837712773374,
+        "position": 6,
+        "created_at": "2025-03-17T16:06:52+05:30",
+        "updated_at": "2025-08-07T12:14:51+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-416.webp?v=1754549091",
+        "variant_ids": []
+      },
+      {
+        "id": 44185261834494,
+        "product_id": 8837712773374,
+        "position": 7,
+        "created_at": "2025-03-17T16:06:59+05:30",
+        "updated_at": "2025-08-07T12:14:56+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-788.webp?v=1754549096",
+        "variant_ids": []
+      },
+      {
+        "id": 44185265963262,
+        "product_id": 8837712773374,
+        "position": 8,
+        "created_at": "2025-03-17T16:07:06+05:30",
+        "updated_at": "2025-08-07T12:15:02+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-681.webp?v=1754549102",
+        "variant_ids": []
+      },
+      {
+        "id": 44185271075070,
+        "product_id": 8837712773374,
+        "position": 9,
+        "created_at": "2025-03-17T16:07:14+05:30",
+        "updated_at": "2025-08-07T12:15:12+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-612.webp?v=1754549112",
+        "variant_ids": []
+      },
+      {
+        "id": 44185275334910,
+        "product_id": 8837712773374,
+        "position": 10,
+        "created_at": "2025-03-17T16:07:21+05:30",
+        "updated_at": "2025-08-07T12:15:18+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-572.webp?v=1754549118",
+        "variant_ids": []
+      },
+      {
+        "id": 44185281298686,
+        "product_id": 8837712773374,
+        "position": 11,
+        "created_at": "2025-03-17T16:07:28+05:30",
+        "updated_at": "2025-08-07T12:15:24+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-567.webp?v=1754549124",
+        "variant_ids": []
+      },
+      {
+        "id": 44185286836478,
+        "product_id": 8837712773374,
+        "position": 12,
+        "created_at": "2025-03-17T16:07:36+05:30",
+        "updated_at": "2025-08-07T12:15:29+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-527.webp?v=1754549129",
+        "variant_ids": []
+      },
+      {
+        "id": 44185291620606,
+        "product_id": 8837712773374,
+        "position": 13,
+        "created_at": "2025-03-17T16:07:43+05:30",
+        "updated_at": "2025-05-23T12:47:12+05:30",
+        "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-198.webp?v=1747984632",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 44185226281214,
+      "product_id": 8837712773374,
+      "position": 1,
+      "created_at": "2025-03-17T16:06:15+05:30",
+      "updated_at": "2025-08-07T12:14:24+05:30",
+      "alt": "X9 android tv box: 4k uhd 2gb ram 16gb storage wifi 6 & bt 5.0 android 10 smart tv hub - \u20b91,999",
+      "width": 3000,
+      "height": 3000,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/x9-android-tv-box-4k-uhd-2gb-ram-16gb-storage-wifi-6-bt-5-0-android-10-smart-tv-hub-by-electroniksindia-551.webp?v=1754549064",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "product": {
+    "id": 8879812575486,
+    "title": "High-Speed Cooling Fan for Onyx & Other Mini PCs \u2013 Compact, Quiet & Efficient Heat Dissipation",
+    "body_html": "<p><img src=\"https://lh3.googleusercontent.com/pw/AP1GczPgfenbgD2LNrcROGk8EOG4-RkVJ2DBeed1Ghc46cUscHizz73mtw4h18cK0u_pTpdvZQDBGgtlFgP8nZz5v-WIy-hEnNRERhA97MolWsyOuDHjXrumKq02swYR0aSUsPxk-ZpCLMZu5LlVato31H3M=w1695-h1271-s-no-gm?authuser=1\"><img src=\"https://lh3.googleusercontent.com/pw/AP1GczN-ImfwcwNxiRWH7_kX4CcKBFBpz300iuj175W0NDx73yluBRDmL1NETTavtTz-eMUs8kF_OjOQSy_pe5UozDLCuy1LBAwXJmNEznviwFv_7dgk5fbYVBj6IgUY5z9K728mL9XbNS5-lbotySJv4vbj=w1695-h1271-s-no-gm?authuser=1\"><img src=\"https://lh3.googleusercontent.com/pw/AP1GczOE65ENBxlCzd2guEA0Z6ZNbvFEy5UeA3CuRqYr3cRQPaIIZSBI8Xr6E1QflnbGzvnyMGIVXWQK7t0lUz-mbsdnrrIyiXzxYugZYdFi9dBzie76FIAOAGvhMfnTPpc33Cus_6mimQ2CRkwBFv8QhErh=w1246-h906-s-no-gm?authuser=1\"><img src=\"https://lh3.googleusercontent.com/pw/AP1GczNPiJdtz7SkDTZ5E861O-JEMEyHJpU-cKMImdISHE02U3NKEnHtJV6tRin26ENpXg_xVL_OpsoRld_SVuH_GoMqPup23YQzneOM6uDxWydbIieaAdBKeLhWLDwbRMVCXygiqZ6XWCKZM7RDMEJPNHCj=w953-h1271-s-no-gm?authuser=1\"><img src=\"https://lh3.googleusercontent.com/pw/AP1GczP7YlBpe9gUFmNtaCllD__kqQcOFqHC7ED7duDBq0YIW-kT1aWRXe-NO7vnhA6vaAVSbHMTKZ9BqAIsG_pk8VR59cLM9s7i1FyhhwgU-WJTAXKQ0ALvOeyM77_4fuEz_SHzU2P1_FadKqm2qXx3WuaQ=w953-h1271-s-no-gm?authuser=1\"></p>",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2025-05-11T10:06:33+05:30",
+    "handle": "high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation",
+    "updated_at": "2026-05-14T09:07:41+05:30",
+    "published_at": "2025-05-11T10:06:33+05:30",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 46682187792638,
+        "product_id": 8879812575486,
+        "title": "Default Title",
+        "price": "999.00",
+        "sku": "",
+        "position": 1,
+        "compare_at_price": "1999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-05-11T10:06:35+05:30",
+        "updated_at": "2026-05-14T09:07:41+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 300,
+        "image_id": null,
+        "weight": 0.3,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11261755588862,
+        "product_id": 8879812575486,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 44688800481534,
+        "product_id": 8879812575486,
+        "position": 1,
+        "created_at": "2025-05-11T10:22:10+05:30",
+        "updated_at": "2025-06-17T12:34:16+05:30",
+        "alt": "High-speed cooling fan for onyx & other mini pcs \u2013 compact quiet & efficient heat dissipation - \u20b9999",
+        "width": 1246,
+        "height": 906,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation-by-electroniksindia-779.webp?v=1750143856",
+        "variant_ids": []
+      },
+      {
+        "id": 44688800547070,
+        "product_id": 8879812575486,
+        "position": 2,
+        "created_at": "2025-05-11T10:22:14+05:30",
+        "updated_at": "2025-06-17T12:34:19+05:30",
+        "alt": "High-speed cooling fan for onyx & other mini pcs \u2013 compact quiet & efficient heat dissipation - \u20b9999",
+        "width": 2000,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation-by-electroniksindia-184.webp?v=1750143859",
+        "variant_ids": []
+      },
+      {
+        "id": 44688800645374,
+        "product_id": 8879812575486,
+        "position": 3,
+        "created_at": "2025-05-11T10:22:19+05:30",
+        "updated_at": "2025-06-17T12:34:22+05:30",
+        "alt": "High-speed cooling fan for onyx & other mini pcs \u2013 compact quiet & efficient heat dissipation - \u20b9999",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation-by-electroniksindia-598.webp?v=1750143862",
+        "variant_ids": []
+      },
+      {
+        "id": 44688800710910,
+        "product_id": 8879812575486,
+        "position": 4,
+        "created_at": "2025-05-11T10:22:23+05:30",
+        "updated_at": "2025-08-14T15:06:19+05:30",
+        "alt": "High-speed cooling fan for onyx & other mini pcs \u2013 compact quiet & efficient heat dissipation - \u20b9999",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation-by-electroniksindia-938.webp?v=1755164179",
+        "variant_ids": []
+      },
+      {
+        "id": 44688800776446,
+        "product_id": 8879812575486,
+        "position": 5,
+        "created_at": "2025-05-11T10:22:27+05:30",
+        "updated_at": "2025-08-14T15:06:22+05:30",
+        "alt": "High-speed cooling fan for onyx & other mini pcs \u2013 compact quiet & efficient heat dissipation - \u20b9999",
+        "width": 2000,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation-by-electroniksindia-355.webp?v=1755164182",
+        "variant_ids": []
+      },
+      {
+        "id": 44688800841982,
+        "product_id": 8879812575486,
+        "position": 6,
+        "created_at": "2025-05-11T10:22:31+05:30",
+        "updated_at": "2025-06-17T12:34:31+05:30",
+        "alt": "High-speed cooling fan for onyx & other mini pcs \u2013 compact quiet & efficient heat dissipation - \u20b9999",
+        "width": 2000,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation-by-electroniksindia-230.webp?v=1750143871",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 44688800481534,
+      "product_id": 8879812575486,
+      "position": 1,
+      "created_at": "2025-05-11T10:22:10+05:30",
+      "updated_at": "2025-06-17T12:34:16+05:30",
+      "alt": "High-speed cooling fan for onyx & other mini pcs \u2013 compact quiet & efficient heat dissipation - \u20b9999",
+      "width": 1246,
+      "height": 906,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/high-speed-cooling-fan-for-onyx-other-mini-pcs-compact-quiet-efficient-heat-dissipation-by-electroniksindia-779.webp?v=1750143856",
+      "variant_ids": []
+    }
+  }
+}

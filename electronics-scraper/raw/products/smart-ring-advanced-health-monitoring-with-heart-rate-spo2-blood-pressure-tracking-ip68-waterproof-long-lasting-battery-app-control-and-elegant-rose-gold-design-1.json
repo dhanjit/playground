@@ -1,0 +1,466 @@
+{
+  "product": {
+    "id": 8702913708286,
+    "title": "Smart Ring: Advanced Health Monitoring with Heart Rate, SpO2, IP68 Waterproof, Long-Lasting Battery, App Control, and Elegant Rose Gold Design",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2024-11-20T20:25:21+05:30",
+    "handle": "smart-ring-advanced-health-monitoring-with-heart-rate-spo2-blood-pressure-tracking-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-1",
+    "updated_at": "2026-05-14T09:07:59+05:30",
+    "published_at": "2024-11-20T21:39:43+05:30",
+    "template_suffix": "smart-ring",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 46015886557438,
+        "product_id": 8702913708286,
+        "title": "18.1mm / Black",
+        "price": "1999.00",
+        "sku": "Black- #8 (18.1)",
+        "position": 2,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "18.1mm",
+        "option2": "Black",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855438446846,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46015886590206,
+        "product_id": 8702913708286,
+        "title": "18.1mm / Rose gold",
+        "price": "1999.00",
+        "sku": "Gold-#8 (18.1)",
+        "position": 3,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "18.1mm",
+        "option2": "Rose gold",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855438774526,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46015886622974,
+        "product_id": 8702913708286,
+        "title": "18.9mm / Black",
+        "price": "1999.00",
+        "sku": "Black-#9 (18.9)",
+        "position": 4,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "18.9mm",
+        "option2": "Black",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855437988094,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46015886655742,
+        "product_id": 8702913708286,
+        "title": "18.9mm / Rose gold",
+        "price": "1999.00",
+        "sku": "Gold- #9 (18.9)",
+        "position": 5,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "18.9mm",
+        "option2": "Rose gold",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855438086398,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46015886688510,
+        "product_id": 8702913708286,
+        "title": "19.8mm / Black",
+        "price": "1999.00",
+        "sku": "Black- #10 (19.8)",
+        "position": 6,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "19.8mm",
+        "option2": "Black",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855437398270,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46015886721278,
+        "product_id": 8702913708286,
+        "title": "19.8mm / Rose gold",
+        "price": "1999.00",
+        "sku": "Gold- #10 (19.8)",
+        "position": 7,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "19.8mm",
+        "option2": "Rose gold",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855437267198,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46015886754046,
+        "product_id": 8702913708286,
+        "title": "20.6mm / Black",
+        "price": "2499.00",
+        "sku": "Black- #11 (20.6)",
+        "position": 8,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "20.6mm",
+        "option2": "Black",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855437496574,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 46015886786814,
+        "product_id": 8702913708286,
+        "title": "20.6mm / Rose gold",
+        "price": "2499.00",
+        "sku": "Gold- #11 (20.6)",
+        "position": 9,
+        "compare_at_price": "3999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "20.6mm",
+        "option2": "Rose gold",
+        "option3": null,
+        "created_at": "2024-11-20T20:25:25+05:30",
+        "updated_at": "2026-05-14T09:07:59+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 200,
+        "image_id": 43855437627646,
+        "weight": 0.2,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11029606531326,
+        "product_id": 8702913708286,
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "18.1mm",
+          "18.9mm",
+          "19.8mm",
+          "20.6mm"
+        ]
+      },
+      {
+        "id": 11029606564094,
+        "product_id": 8702913708286,
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Black",
+          "Rose gold"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 43855437267198,
+        "product_id": 8702913708286,
+        "position": 1,
+        "created_at": "2025-02-10T11:22:36+05:30",
+        "updated_at": "2025-06-01T15:58:20+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-673.webp?v=1748773700",
+        "variant_ids": [
+          46015886721278
+        ]
+      },
+      {
+        "id": 43855437398270,
+        "product_id": 8702913708286,
+        "position": 2,
+        "created_at": "2025-02-10T11:22:40+05:30",
+        "updated_at": "2025-06-01T15:58:23+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-481.webp?v=1748773703",
+        "variant_ids": [
+          46015886688510
+        ]
+      },
+      {
+        "id": 43855437496574,
+        "product_id": 8702913708286,
+        "position": 3,
+        "created_at": "2025-02-10T11:22:45+05:30",
+        "updated_at": "2025-06-01T15:58:26+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-837.webp?v=1748773706",
+        "variant_ids": [
+          46015886754046
+        ]
+      },
+      {
+        "id": 43855437627646,
+        "product_id": 8702913708286,
+        "position": 4,
+        "created_at": "2025-02-10T11:22:49+05:30",
+        "updated_at": "2025-06-01T15:58:28+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-692.webp?v=1748773708",
+        "variant_ids": [
+          46015886786814
+        ]
+      },
+      {
+        "id": 43855437758718,
+        "product_id": 8702913708286,
+        "position": 5,
+        "created_at": "2025-02-10T11:22:53+05:30",
+        "updated_at": "2025-08-07T03:05:41+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-682.webp?v=1754516141",
+        "variant_ids": []
+      },
+      {
+        "id": 43855437857022,
+        "product_id": 8702913708286,
+        "position": 6,
+        "created_at": "2025-02-10T11:22:57+05:30",
+        "updated_at": "2025-06-01T15:58:33+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-791.webp?v=1748773713",
+        "variant_ids": []
+      },
+      {
+        "id": 43855437988094,
+        "product_id": 8702913708286,
+        "position": 7,
+        "created_at": "2025-02-10T11:23:00+05:30",
+        "updated_at": "2025-06-01T15:58:36+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-149.webp?v=1748773716",
+        "variant_ids": [
+          46015886622974
+        ]
+      },
+      {
+        "id": 43855438086398,
+        "product_id": 8702913708286,
+        "position": 8,
+        "created_at": "2025-02-10T11:23:05+05:30",
+        "updated_at": "2025-06-01T15:58:38+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-829.webp?v=1748773718",
+        "variant_ids": [
+          46015886655742
+        ]
+      },
+      {
+        "id": 43855438217470,
+        "product_id": 8702913708286,
+        "position": 9,
+        "created_at": "2025-02-10T11:23:09+05:30",
+        "updated_at": "2025-08-07T03:05:53+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-827.webp?v=1754516153",
+        "variant_ids": []
+      },
+      {
+        "id": 43855438348542,
+        "product_id": 8702913708286,
+        "position": 10,
+        "created_at": "2025-02-10T11:23:13+05:30",
+        "updated_at": "2025-06-01T15:58:44+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-513.webp?v=1748773724",
+        "variant_ids": []
+      },
+      {
+        "id": 43855438446846,
+        "product_id": 8702913708286,
+        "position": 11,
+        "created_at": "2025-02-10T11:23:16+05:30",
+        "updated_at": "2025-06-01T15:58:47+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-953.webp?v=1748773727",
+        "variant_ids": [
+          46015886557438
+        ]
+      },
+      {
+        "id": 43855438774526,
+        "product_id": 8702913708286,
+        "position": 12,
+        "created_at": "2025-02-10T11:23:20+05:30",
+        "updated_at": "2025-08-07T03:06:01+05:30",
+        "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-356.webp?v=1754516161",
+        "variant_ids": [
+          46015886590206
+        ]
+      }
+    ],
+    "image": {
+      "id": 43855437267198,
+      "product_id": 8702913708286,
+      "position": 1,
+      "created_at": "2025-02-10T11:22:36+05:30",
+      "updated_at": "2025-06-01T15:58:20+05:30",
+      "alt": "Smart ring: advanced health monitoring with heart rate spo2 blood pressure tracking ip68 waterproof long-lasting battery app control",
+      "width": 2000,
+      "height": 2000,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/smart-ring-advanced-health-monitoring-with-heart-rate-spo2-ip68-waterproof-long-lasting-battery-app-control-and-elegant-rose-gold-design-by-electroniksindia-673.webp?v=1748773700",
+      "variant_ids": [
+        46015886721278
+      ]
+    }
+  }
+}

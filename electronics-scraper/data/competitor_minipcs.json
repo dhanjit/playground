@@ -1,0 +1,76 @@
+{
+  "_notes": [
+    "Competitor mini PCs sold in India. Prices captured 2026-05-14.",
+    "Sources: nationalpc.in (authorized ASUS NUC distributor), primeabgb.com, nakhwainternational.in, IndiaMART listings, Amazon India ASIN-confirmed listings, Ubuy.co.in (cross-border imports).",
+    "Where Amazon India is the only stocking channel and the live price could not be scraped (HTTP 500/503 throttles), the configuration is listed but the price is marked unknown."
+  ],
+  "currency": "INR",
+  "last_checked": "2026-05-14",
+
+  "asus_nuc": [
+    {"model": "NUC 14 Pro NUC14RVHU5 (kit)", "cpu": "Intel Core Ultra 5 125H", "ram_gb": 8, "ssd_gb": 128, "price_inr": 61940, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro NUC14RVHU5 (kit)", "cpu": "Intel Core Ultra 5 125H", "ram_gb": 16, "ssd_gb": 128, "price_inr": 75940, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro NUC14RVHU7 (kit)", "cpu": "Intel Core Ultra 7 155H", "ram_gb": 8, "ssd_gb": 128, "price_inr": 85580, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro NUC14RVHU7 (kit)", "cpu": "Intel Core Ultra 7 155H", "ram_gb": 16, "ssd_gb": 128, "price_inr": 91530, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro NUC14RVHU7", "cpu": "Intel Core Ultra 7 155H", "ram_gb": 32, "ssd_gb": 1024, "price_inr": 127970, "seller": "nationalpc.in", "notes": "incl. GST; ex-tax 1,08,449; 2-day dispatch"},
+    {"model": "NUC 14 Pro+ NUC14RVSU5", "cpu": "Intel Core Ultra 5 125H", "ram_gb": 16, "ssd_gb": 256, "price_inr": 80990, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro+ NUC14RVSU7", "cpu": "Intel Core Ultra 7 155H", "ram_gb": 16, "ssd_gb": 256, "price_inr": 98990, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro+ NUC14RVSU9", "cpu": "Intel Core Ultra 9 185H", "ram_gb": 16, "ssd_gb": 256, "price_inr": 131990, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro+ NUC14RVSU9", "cpu": "Intel Core Ultra 9 185H", "ram_gb": 48, "ssd_gb": 2048, "price_inr": 181780, "seller": "nationalpc.in"},
+    {"model": "NUC 14 Pro+ NUC14RVSU7 (barebone)", "cpu": "Intel Core Ultra 7 155H", "ram_gb": 0, "ssd_gb": 0, "price_inr": 60599, "seller": "primeabgb.com"},
+    {"model": "NUC 14 Pro+ NUC14RVSU9 (barebone)", "cpu": "Intel Core Ultra 9 185H", "ram_gb": 0, "ssd_gb": 0, "price_inr": 84429, "seller": "primeabgb.com"},
+    {"model": "Intel NUC 11 Pro", "cpu": "Intel Core i3-1115G4", "ram_gb": 16, "ssd_gb": 128, "price_inr": 43430, "seller": "nationalpc.in"},
+    {"model": "Intel NUC 13 Pro", "cpu": "Intel Core i3-1315U", "ram_gb": 8, "ssd_gb": 480, "price_inr": 44999, "seller": "primeabgb.com"},
+    {"model": "ASUS NUC 13 Pro NUC13ANHH7", "cpu": "Intel Core i7-13620H", "ram_gb": 8, "ssd_gb": 128, "price_inr": 69630, "seller": "nationalpc.in"},
+    {"model": "ASUS NUC 14 Essential", "cpu": "Intel N150", "ram_gb": 16, "ssd_gb": 512, "price_inr": 14200, "seller": "primeabgb.com"},
+    {"model": "ASUS NUC 15 Pro C5-210H (barebone)", "cpu": "Intel Core Ultra (Series 2)", "ram_gb": 0, "ssd_gb": 0, "price_inr": 46999, "seller": "primeabgb.com"},
+    {"model": "ASUS NUC 15 Pro C7-240H (barebone)", "cpu": "Intel Core Ultra (Series 2)", "ram_gb": 0, "ssd_gb": 0, "price_inr": 61799, "seller": "primeabgb.com"},
+    {"model": "Intel NUC 12 Extreme NUC12DCMi9", "cpu": "Intel Core i9-12900", "ram_gb": 32, "ssd_gb": 1024, "price_inr": 222222, "seller": "primeabgb.com"},
+    {"model": "ASUS ROG NUC 2025", "cpu": "Intel Core Ultra 9 275HX + RTX 5070", "ram_gb": 64, "ssd_gb": 2048, "price_inr": 439980, "seller": "nationalpc.in", "notes": "Discrete RTX 5070 in a NUC chassis"}
+  ],
+
+  "beelink": [
+    {"model": "Mini S12 (entry)", "cpu": "Intel N95", "ram_gb": 8, "ssd_gb": 256, "price_inr": 17690, "price_inr_low": 13999, "seller": "Amazon.in / Nakhwa Intl. (IndiaMART)"},
+    {"model": "Mini S12 Pro", "cpu": "Intel N100", "ram_gb": 16, "ssd_gb": 500, "price_inr": 24960, "seller": "Nakhwa International (IndiaMART)"},
+    {"model": "Mini S12 Pro", "cpu": "Intel N100", "ram_gb": 16, "ssd_gb": 500, "price_inr": 53664, "mrp_inr": 73163, "seller": "Amazon.in (B08XBVXNFP)", "notes": "Imported listing — ~2× markup vs Nakhwa"},
+    {"model": "EQ12 Pro", "cpu": "Intel Core i3-N305", "ram_gb": 16, "ssd_gb": 500, "price_inr": 39640, "seller": "Nakhwa International"},
+    {"model": "SER6 Max", "cpu": "AMD Ryzen 7 7735HS", "ram_gb": 32, "ssd_gb": 1024, "price_inr": 59400, "seller": "Nakhwa International"},
+    {"model": "SER8", "cpu": "AMD Ryzen 7 8745HS / 8845HS", "ram_gb": 32, "ssd_gb": 1024, "price_inr": 78430, "seller": "Nakhwa International (IndiaMART) — Amazon.in B0DKF15XQJ"},
+    {"model": "SEi14", "cpu": "Intel Core Ultra 5 125H", "ram_gb": 32, "ssd_gb": 1024, "price_inr": 83950, "seller": "Nakhwa International"},
+    {"model": "GTR7", "cpu": "AMD Ryzen 7 7840HS", "ram_gb": 32, "ssd_gb": 1024, "price_inr": 79640, "seller": "Nakhwa International", "notes": "2024 model still actively sold"},
+    {"model": "GTi14 Ultra", "cpu": "Intel Core Ultra 7 155H", "ram_gb": 32, "ssd_gb": 1024, "price_inr": 109730, "seller": "Nakhwa International / IndiaMART"},
+    {"model": "SER9 / SER9 Pro", "cpu": "AMD Ryzen AI 9 HX 370", "ram_gb": 32, "ssd_gb": 1024, "price_inr": null, "seller": "Ubuy.co.in import only", "notes": "No domestic price; expect ~₹1,30,000–₹1,55,000 imported"},
+    {"model": "GTi15", "cpu": "Intel Core Ultra 9 285H", "ram_gb": 64, "ssd_gb": 1024, "price_inr": null, "seller": "Imports only (US $1,499)"}
+  ],
+
+  "geekom": [
+    {"model": "Air12", "cpu": "Intel N100/N150", "ram_gb": 16, "ssd_gb": 512, "price_inr": null, "seller": "Amazon.in (B0CNSYWHLR)", "notes": "Listed but live price not scraped (~₹22-25k expected)"},
+    {"model": "AS6", "cpu": "AMD Ryzen 7 7735H", "ram_gb": 32, "ssd_gb": 1024, "price_inr": null, "seller": "Amazon.in (B0CF22SLYG)"},
+    {"model": "Mini IT12", "cpu": "Intel i5/i7-12xxx (also Ryzen 7 7735H variant)", "ram_gb": 32, "ssd_gb": 1024, "price_inr": null, "seller": "Amazon.in (B0C7BCXDBM, B0C89CJJ4R)", "notes": "Throttled fetch"},
+    {"model": "A8", "cpu": "AMD Ryzen 9 8945HS", "ram_gb": 32, "ssd_gb": 2048, "price_inr": null, "seller": "Amazon.in (B0D22FYFL4)", "notes": "US $722 comp; expect ~₹65-80k"},
+    {"model": "A8 Max", "cpu": "AMD Ryzen 9 8945HS", "ram_gb": 32, "ssd_gb": 2048, "price_inr": null, "seller": "Amazon.in (B0DQ4FVKF6)", "notes": "US $1,019 comp; expect ~₹90-110k"},
+    {"model": "AX8 Pro", "cpu": "AMD Ryzen 9 8945HS", "ram_gb": 32, "ssd_gb": 2048, "price_inr": 80000, "seller": "Devi Enterprises Ahmedabad (IndiaMART), also Amazon.in B0D25Q94Q7"},
+    {"model": "IT13 (i9)", "cpu": "Intel i9-13900H", "ram_gb": 32, "ssd_gb": 2048, "price_inr": null, "seller": "Ubuy.co.in", "notes": "Imported only"},
+    {"model": "IT15 (Ultra 9 285H)", "cpu": "Intel Core Ultra 9 285H", "ram_gb": 32, "ssd_gb": 2048, "price_inr": null, "seller": "Ubuy.co.in", "notes": "Imported only (US $1,299–$1,499)"}
+  ],
+
+  "minisforum": [
+    {"model": "EM680 Mercury", "cpu": "AMD Ryzen 7 6800U", "ram_gb": 32, "ssd_gb": 512, "price_inr": null, "seller": "Amazon.in (B0C7V256MN)", "notes": "Throttled; typical ₹65k-75k"},
+    {"model": "EM680", "cpu": "AMD Ryzen 7 6800U", "ram_gb": 32, "ssd_gb": 1024, "price_inr": null, "seller": "Amazon.in (B0CKPNW63P)"},
+    {"model": "UM870 Slim", "cpu": "AMD Ryzen 7 8745H", "ram_gb": 32, "ssd_gb": 1024, "price_inr": null, "seller": "Ubuy.co.in", "notes": "Import only; US $303 comp"},
+    {"model": "UM890 Pro", "cpu": "AMD Ryzen 9 8945HS", "ram_gb": 32, "ssd_gb": 1024, "price_inr": null, "seller": "Amazon.in (B0D9YJLZP6)"},
+    {"model": "UM890 Pro", "cpu": "AMD Ryzen 9 8945HS", "ram_gb": 64, "ssd_gb": 1024, "price_inr": null, "seller": "Amazon.in (B0D9Q4NCY8)", "notes": "US $463 sale comp"},
+    {"model": "MS-A1 (barebone)", "cpu": "AM5 socket — bring your own CPU", "ram_gb": 0, "ssd_gb": 0, "price_inr": null, "seller": "Amazon.in (B0D9Q54TRN)"},
+    {"model": "MS-A2", "cpu": "AMD Ryzen 9 9955HX", "ram_gb": 64, "ssd_gb": 1024, "price_inr": null, "seller": "Ubuy.co.in", "notes": "Import only; US $839–$1,103 comp"},
+    {"model": "AI X1 Pro", "cpu": "AMD Ryzen AI 9 HX 370", "ram_gb": 64, "ssd_gb": 1024, "price_inr": 149000, "seller": "Pune seller (IndiaMART)"},
+    {"model": "TH50", "cpu": "Intel Core i5-11320H (barebone)", "ram_gb": 0, "ssd_gb": 0, "price_inr": 80407, "seller": "IndiaMART", "notes": "Older model still sold"}
+  ],
+
+  "caveats": [
+    "Amazon.in throttling: Most direct product-page fetches returned HTTP 500/503/429. Listings exist (ASIN-confirmed) but live prices for Geekom A8/A8 Max, Beelink SER8 (B0DKF15XQJ), Minisforum UM890 Pro, Geekom Air12, and Geekom IT12 could not be scraped today.",
+    "Beelink SER9 / GTi15, Geekom IT15 / IT13, Minisforum MS-A2, UM870 have no confirmed domestic Indian retailer pricing. Sold in India almost exclusively via Ubuy.co.in (cross-border) or grey-market imports. Expect 25-40% premium over US MSRP plus customs.",
+    "NationalPC.in NUC pricing: They are an authorized ASUS distributor. Their entry-tier NUCs may be ex-GST; verify with seller.",
+    "Nakhwa International (Navi Mumbai) is the most consistent INR source for Beelink; cross-verified by IndiaMART listings.",
+    "Geekom AX8 Pro at ₹80,000 (Devi Enterprises, Ahmedabad) is the only firm Geekom INR price confirmed today."
+  ]
+}

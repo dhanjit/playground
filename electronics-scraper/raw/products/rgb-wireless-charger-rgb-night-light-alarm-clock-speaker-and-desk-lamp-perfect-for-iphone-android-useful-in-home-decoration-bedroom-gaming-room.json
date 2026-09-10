@@ -1,0 +1,170 @@
+{
+  "product": {
+    "id": 8073541976318,
+    "title": "RGB Wireless Charger: RGB Night Light, Alarm Clock, Speaker, and Desk Lamp - Perfect for iPhone, Android, Useful in Home Decoration, Bedroom & Gaming Room",
+    "body_html": "<meta charset=\"utf-8\">\n<p>Introducing our versatile and innovative product: the Multifunctional Wireless Charger RGB Night Light Charging Station Alarm Clock Speaker Desk Lamp with APP Control. This cutting-edge device is compatible with iPhone and Samsung devices, providing a convenient wireless charging solution.</p>\n<p>Equipped with an RGB light table lamp, this product not only charges your devices but also adds an aesthetic touch to your surroundings. The LED smart wake-up light gently illuminates your space, ensuring a peaceful and refreshing start to your day. With its 15W wireless charging capability, you can efficiently power up your devices while enjoying the benefits of a loud speaker.</p>\n<p>Perfect for home decoration, the Multifunctional Wireless Charger complements various settings, from bedrooms to gaming rooms. Its sleek design and functionality make it an ideal addition to any space. Control all its features effortlessly through the dedicated mobile app, enhancing your user experience.</p>\n<p>Experience the convenience, style, and versatility of the Multifunctional Wireless Charger RGB Night Light Charging Station Alarm Clock Speaker Desk</p>",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2023-06-16T12:02:10+05:30",
+    "handle": "rgb-wireless-charger-rgb-night-light-alarm-clock-speaker-and-desk-lamp-perfect-for-iphone-android-useful-in-home-decoration-bedroom-gaming-room",
+    "updated_at": "2026-05-14T09:08:22+05:30",
+    "published_at": "2023-06-16T12:02:10+05:30",
+    "template_suffix": "rgb-mobile-stand",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 44077866221822,
+        "product_id": 8073541976318,
+        "title": "Default Title",
+        "price": "1699.00",
+        "sku": "RGBCharger",
+        "position": 1,
+        "compare_at_price": "5999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-06-16T12:02:10+05:30",
+        "updated_at": "2026-05-14T09:08:22+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": null,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10271599198462,
+        "product_id": 8073541976318,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 43853779206398,
+        "product_id": 8073541976318,
+        "position": 1,
+        "created_at": "2025-02-10T06:37:52+05:30",
+        "updated_at": "2025-02-10T06:37:52+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-597.webp?v=1739149672",
+        "variant_ids": []
+      },
+      {
+        "id": 43853779403006,
+        "product_id": 8073541976318,
+        "position": 2,
+        "created_at": "2025-02-10T06:37:58+05:30",
+        "updated_at": "2025-02-10T06:37:58+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-845.webp?v=1739149678",
+        "variant_ids": []
+      },
+      {
+        "id": 43853782155518,
+        "product_id": 8073541976318,
+        "position": 3,
+        "created_at": "2025-02-10T06:38:04+05:30",
+        "updated_at": "2025-02-10T06:38:04+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 2852,
+        "height": 2972,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-644.webp?v=1739149684",
+        "variant_ids": []
+      },
+      {
+        "id": 43853784875262,
+        "product_id": 8073541976318,
+        "position": 4,
+        "created_at": "2025-02-10T06:38:09+05:30",
+        "updated_at": "2025-02-10T06:38:09+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-599.webp?v=1739149689",
+        "variant_ids": []
+      },
+      {
+        "id": 43853785104638,
+        "product_id": 8073541976318,
+        "position": 5,
+        "created_at": "2025-02-10T06:38:15+05:30",
+        "updated_at": "2025-02-10T06:38:15+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-463.webp?v=1739149695",
+        "variant_ids": []
+      },
+      {
+        "id": 43853785301246,
+        "product_id": 8073541976318,
+        "position": 6,
+        "created_at": "2025-02-10T06:38:21+05:30",
+        "updated_at": "2025-02-10T06:38:21+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-889.webp?v=1739149701",
+        "variant_ids": []
+      },
+      {
+        "id": 43853785465086,
+        "product_id": 8073541976318,
+        "position": 7,
+        "created_at": "2025-02-10T06:38:28+05:30",
+        "updated_at": "2025-02-10T06:38:28+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-303.webp?v=1739149708",
+        "variant_ids": []
+      },
+      {
+        "id": 43853785563390,
+        "product_id": 8073541976318,
+        "position": 8,
+        "created_at": "2025-02-10T06:38:32+05:30",
+        "updated_at": "2025-02-10T06:38:32+05:30",
+        "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+        "width": 1920,
+        "height": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-817.webp?v=1739149712",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 43853779206398,
+      "product_id": 8073541976318,
+      "position": 1,
+      "created_at": "2025-02-10T06:37:52+05:30",
+      "updated_at": "2025-02-10T06:37:52+05:30",
+      "alt": "Rgb wireless charger: rgb night light alarm clock speaker and desk lamp - perfect for iphone android useful in home decoration bedroom &",
+      "width": 3000,
+      "height": 3000,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/rgb-597.webp?v=1739149672",
+      "variant_ids": []
+    }
+  }
+}

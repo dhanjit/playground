@@ -1,0 +1,158 @@
+{
+  "product": {
+    "id": 8784492822782,
+    "title": "Techadro TA-H1 HUD OBD2+GPS Smart Gauge Speedometer \u2013 High-Resolution, No Delay Head-Up Display, 10 Interfaces",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2025-02-20T08:54:15+05:30",
+    "handle": "techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces",
+    "updated_at": "2026-05-14T09:07:47+05:30",
+    "published_at": "2025-02-20T08:54:15+05:30",
+    "template_suffix": "ta-h1-2",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 46281769550078,
+        "product_id": 8784492822782,
+        "title": "Default Title",
+        "price": "3499.00",
+        "sku": "TA-H1",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-02-20T08:54:17+05:30",
+        "updated_at": "2026-05-14T09:07:47+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 400,
+        "image_id": null,
+        "weight": 0.4,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11149382680830,
+        "product_id": 8784492822782,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 43926797320446,
+        "product_id": 8784492822782,
+        "position": 1,
+        "created_at": "2025-02-20T09:10:13+05:30",
+        "updated_at": "2025-06-02T14:38:10+05:30",
+        "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-908.webp?v=1748855290",
+        "variant_ids": []
+      },
+      {
+        "id": 43926798303486,
+        "product_id": 8784492822782,
+        "position": 2,
+        "created_at": "2025-02-20T09:10:17+05:30",
+        "updated_at": "2025-06-02T14:38:12+05:30",
+        "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-858.webp?v=1748855292",
+        "variant_ids": []
+      },
+      {
+        "id": 43926799384830,
+        "product_id": 8784492822782,
+        "position": 3,
+        "created_at": "2025-02-20T09:10:21+05:30",
+        "updated_at": "2025-08-15T14:18:15+05:30",
+        "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-860.webp?v=1755247695",
+        "variant_ids": []
+      },
+      {
+        "id": 43926799974654,
+        "product_id": 8784492822782,
+        "position": 4,
+        "created_at": "2025-02-20T09:10:25+05:30",
+        "updated_at": "2025-06-02T14:38:16+05:30",
+        "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-128.webp?v=1748855296",
+        "variant_ids": []
+      },
+      {
+        "id": 43926800367870,
+        "product_id": 8784492822782,
+        "position": 5,
+        "created_at": "2025-02-20T09:10:29+05:30",
+        "updated_at": "2025-08-15T14:18:19+05:30",
+        "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-386.webp?v=1755247699",
+        "variant_ids": []
+      },
+      {
+        "id": 43926800662782,
+        "product_id": 8784492822782,
+        "position": 6,
+        "created_at": "2025-02-20T09:10:33+05:30",
+        "updated_at": "2025-06-02T14:38:21+05:30",
+        "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-250.webp?v=1748855301",
+        "variant_ids": []
+      },
+      {
+        "id": 43926801055998,
+        "product_id": 8784492822782,
+        "position": 7,
+        "created_at": "2025-02-20T09:10:37+05:30",
+        "updated_at": "2025-06-02T14:38:23+05:30",
+        "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-100.webp?v=1748855303",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 43926797320446,
+      "product_id": 8784492822782,
+      "position": 1,
+      "created_at": "2025-02-20T09:10:13+05:30",
+      "updated_at": "2025-06-02T14:38:10+05:30",
+      "alt": "Techadro ta-h1 hud obd2 + gps smart gauge speedometer \u2013 high-resolution no delay head-up display 10 interfaces - \u20b92,999",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/techadro-ta-h1-hud-obd2-gps-smart-gauge-speedometer-high-resolution-no-delay-head-up-display-10-interfaces-by-electroniksindia-908.webp?v=1748855290",
+      "variant_ids": []
+    }
+  }
+}

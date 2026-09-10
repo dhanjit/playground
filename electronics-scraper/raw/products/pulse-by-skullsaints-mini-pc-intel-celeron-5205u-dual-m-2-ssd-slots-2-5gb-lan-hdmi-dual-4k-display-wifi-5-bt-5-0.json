@@ -1,0 +1,184 @@
+{
+  "product": {
+    "id": 8921478594814,
+    "title": "Pulse by SkullSaints Mini PC \u2013 Intel Celeron 5205U, Dual M.2 SSD Slots, 2.5Gbps LAN, HDMI Dual 4K Display, WiFi 5, BT 5.0",
+    "body_html": "<p>Pulse by SkullSaints Mini PC \u2013 Intel Celeron 5205U, Dual M.2 SSD Slots, 2.5Gb LAN, HDMI Dual 4K Display, WiFi 5, BT 5.0</p>",
+    "vendor": "SkullSaints",
+    "product_type": "",
+    "created_at": "2025-06-18T12:37:20+05:30",
+    "handle": "pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gb-lan-hdmi-dual-4k-display-wifi-5-bt-5-0",
+    "updated_at": "2026-05-14T09:07:36+05:30",
+    "published_at": "2025-06-18T13:02:58+05:30",
+    "template_suffix": "pulse",
+    "published_scope": "web",
+    "tags": "SkullSaints",
+    "variants": [
+      {
+        "id": 47576945295614,
+        "product_id": 8921478594814,
+        "title": "No RAM + No Storage",
+        "price": "12999.00",
+        "sku": null,
+        "position": 1,
+        "compare_at_price": "39999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "No RAM + No Storage",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-12-01T13:50:03+05:30",
+        "updated_at": "2026-05-14T09:07:36+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1000,
+        "image_id": 45115398553854,
+        "weight": 1.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 47010873770238,
+        "product_id": 8921478594814,
+        "title": "4GB DDR4 + 128GB M.2 Storage",
+        "price": "17999.00",
+        "sku": "Pulse",
+        "position": 2,
+        "compare_at_price": "39999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "4GB DDR4 + 128GB M.2 Storage",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-06-18T12:37:20+05:30",
+        "updated_at": "2026-05-14T09:07:36+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1000,
+        "image_id": 45115397800190,
+        "weight": 1.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11311403467006,
+        "product_id": 8921478594814,
+        "name": "Bundle",
+        "position": 1,
+        "values": [
+          "No RAM + No Storage",
+          "4GB DDR4 + 128GB M.2 Storage"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 45115397800190,
+        "product_id": 8921478594814,
+        "position": 1,
+        "created_at": "2025-06-22T18:34:14+05:30",
+        "updated_at": "2025-08-07T03:15:34+05:30",
+        "alt": "Pulse by skullsaints mini pc \u2013 intel celeron 5205u dual m.2 ssd slots 2.5gbps lan hdmi dual 4k display wifi 5 bt 5.0 - \u20b910,999",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gbps-lan-hdmi-dual-4k-display-wifi-5-bt-5-0-by-electroniksindia-521.webp?v=1754516734",
+        "variant_ids": [
+          47010873770238
+        ]
+      },
+      {
+        "id": 45484652790014,
+        "product_id": 8921478594814,
+        "position": 2,
+        "created_at": "2025-08-07T03:15:40+05:30",
+        "updated_at": "2025-08-07T03:15:40+05:30",
+        "alt": "Pulse by skullsaints mini pc \u2013 intel celeron 5205u dual m.2 ssd slots 2.5gb lan hdmi dual 4k display wifi 5 bt 5.0 - \u20b921,999",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gbps-lan-hdmi-dual-4k-display-wifi-5-bt-5-0-by-electroniksindia-859.webp?v=1754516740",
+        "variant_ids": []
+      },
+      {
+        "id": 45115398226174,
+        "product_id": 8921478594814,
+        "position": 3,
+        "created_at": "2025-06-22T18:34:17+05:30",
+        "updated_at": "2025-08-07T03:15:42+05:30",
+        "alt": "Pulse by skullsaints mini pc \u2013 intel celeron 5205u dual m.2 ssd slots 2.5gbps lan hdmi dual 4k display wifi 5 bt 5.0 - \u20b910,999",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gbps-lan-hdmi-dual-4k-display-wifi-5-bt-5-0-by-electroniksindia-986.webp?v=1754516742",
+        "variant_ids": []
+      },
+      {
+        "id": 45115398357246,
+        "product_id": 8921478594814,
+        "position": 4,
+        "created_at": "2025-06-22T18:34:21+05:30",
+        "updated_at": "2025-08-07T03:15:44+05:30",
+        "alt": "Pulse by skullsaints mini pc \u2013 intel celeron 5205u dual m.2 ssd slots 2.5gbps lan hdmi dual 4k display wifi 5 bt 5.0 - \u20b910,999",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gbps-lan-hdmi-dual-4k-display-wifi-5-bt-5-0-by-electroniksindia-263.webp?v=1754516744",
+        "variant_ids": []
+      },
+      {
+        "id": 45115398455550,
+        "product_id": 8921478594814,
+        "position": 5,
+        "created_at": "2025-06-22T18:34:24+05:30",
+        "updated_at": "2025-08-07T03:15:47+05:30",
+        "alt": "Pulse by skullsaints mini pc \u2013 intel celeron 5205u dual m.2 ssd slots 2.5gbps lan hdmi dual 4k display wifi 5 bt 5.0 - \u20b910,999",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gbps-lan-hdmi-dual-4k-display-wifi-5-bt-5-0-by-electroniksindia-969.webp?v=1754516747",
+        "variant_ids": []
+      },
+      {
+        "id": 45115398553854,
+        "product_id": 8921478594814,
+        "position": 6,
+        "created_at": "2025-06-22T18:34:27+05:30",
+        "updated_at": "2025-08-07T03:15:49+05:30",
+        "alt": "Pulse by skullsaints mini pc \u2013 intel celeron 5205u dual m.2 ssd slots 2.5gbps lan hdmi dual 4k display wifi 5 bt 5.0 - \u20b910,999",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gbps-lan-hdmi-dual-4k-display-wifi-5-bt-5-0-by-electroniksindia-874.webp?v=1754516749",
+        "variant_ids": [
+          47576945295614
+        ]
+      }
+    ],
+    "image": {
+      "id": 45115397800190,
+      "product_id": 8921478594814,
+      "position": 1,
+      "created_at": "2025-06-22T18:34:14+05:30",
+      "updated_at": "2025-08-07T03:15:34+05:30",
+      "alt": "Pulse by skullsaints mini pc \u2013 intel celeron 5205u dual m.2 ssd slots 2.5gbps lan hdmi dual 4k display wifi 5 bt 5.0 - \u20b910,999",
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/pulse-by-skullsaints-mini-pc-intel-celeron-5205u-dual-m-2-ssd-slots-2-5gbps-lan-hdmi-dual-4k-display-wifi-5-bt-5-0-by-electroniksindia-521.webp?v=1754516734",
+      "variant_ids": [
+        47010873770238
+      ]
+    }
+  }
+}

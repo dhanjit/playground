@@ -1,0 +1,304 @@
+{
+  "product": {
+    "id": 9131074224382,
+    "title": "Helix by SkullSaints: Intel Core Series, 12GB LPDDR5 4800MHz, Dual NVMe PCIe SSD, USB 3.2, USB-C 10Gbps/4K, 2.5Gbps LAN, Wi-Fi 6, BT 5.2, 4K Triple Display Mini PC",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2026-02-11T11:23:53+05:30",
+    "handle": "helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc",
+    "updated_at": "2026-05-14T09:07:15+05:30",
+    "published_at": "2026-02-11T12:36:46+05:30",
+    "template_suffix": "helix-i3-1215u",
+    "published_scope": "web",
+    "tags": "SkullSaints",
+    "variants": [
+      {
+        "id": 47790481309950,
+        "product_id": 9131074224382,
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 0GB",
+        "price": "29999.00",
+        "sku": "Helix-12+0",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+        "option2": "12GB LPDDR5 4800MHz",
+        "option3": "0GB",
+        "created_at": "2026-02-11T11:23:53+05:30",
+        "updated_at": "2026-05-14T09:07:15+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 46738490982654,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 47790504149246,
+        "product_id": 9131074224382,
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 128GB M.2 + Win 11 Pro",
+        "price": "31999.00",
+        "sku": "Helix-12+128",
+        "position": 2,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+        "option2": "12GB LPDDR5 4800MHz",
+        "option3": "128GB M.2 + Win 11 Pro",
+        "created_at": "2026-02-11T12:01:07+05:30",
+        "updated_at": "2026-05-14T09:07:15+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 46738490982654,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 47790504182014,
+        "product_id": 9131074224382,
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 256GB M.2 + Win 11 Pro",
+        "price": "33999.00",
+        "sku": "Helix-12+256",
+        "position": 3,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+        "option2": "12GB LPDDR5 4800MHz",
+        "option3": "256GB M.2 + Win 11 Pro",
+        "created_at": "2026-02-11T12:01:07+05:30",
+        "updated_at": "2026-05-14T09:07:15+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 46738490982654,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 47790504214782,
+        "product_id": 9131074224382,
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 512GB M.2 + Win 11 Pro",
+        "price": "38999.00",
+        "sku": "Helix-12+512",
+        "position": 4,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+        "option2": "12GB LPDDR5 4800MHz",
+        "option3": "512GB M.2 + Win 11 Pro",
+        "created_at": "2026-02-11T12:01:07+05:30",
+        "updated_at": "2026-05-14T09:07:15+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 46738490982654,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 47790504247550,
+        "product_id": 9131074224382,
+        "title": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz) / 12GB LPDDR5 4800MHz / 1TB M.2 + Win 11 Pro",
+        "price": "44999.00",
+        "sku": "Helix-12+1T",
+        "position": 5,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)",
+        "option2": "12GB LPDDR5 4800MHz",
+        "option3": "1TB M.2 + Win 11 Pro",
+        "created_at": "2026-02-11T12:01:07+05:30",
+        "updated_at": "2026-05-14T09:07:15+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 46738490982654,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11564863455486,
+        "product_id": 9131074224382,
+        "name": "Processor",
+        "position": 1,
+        "values": [
+          "Core i3 - 1215U (6 Cores, 8 Threads, upto 4.4 GHz)"
+        ]
+      },
+      {
+        "id": 11564863488254,
+        "product_id": 9131074224382,
+        "name": "RAM",
+        "position": 2,
+        "values": [
+          "12GB LPDDR5 4800MHz"
+        ]
+      },
+      {
+        "id": 11564863521022,
+        "product_id": 9131074224382,
+        "name": "Storage",
+        "position": 3,
+        "values": [
+          "0GB",
+          "128GB M.2 + Win 11 Pro",
+          "256GB M.2 + Win 11 Pro",
+          "512GB M.2 + Win 11 Pro",
+          "1TB M.2 + Win 11 Pro"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 46738490982654,
+        "product_id": 9131074224382,
+        "position": 1,
+        "created_at": "2026-02-14T11:58:09+05:30",
+        "updated_at": "2026-02-14T11:58:09+05:30",
+        "alt": null,
+        "width": 1164,
+        "height": 1164,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc-290.webp?v=1771050489",
+        "variant_ids": [
+          47790481309950,
+          47790504149246,
+          47790504182014,
+          47790504214782,
+          47790504247550
+        ]
+      },
+      {
+        "id": 46726517358846,
+        "product_id": 9131074224382,
+        "position": 2,
+        "created_at": "2026-02-11T11:40:20+05:30",
+        "updated_at": "2026-02-14T11:41:54+05:30",
+        "alt": null,
+        "width": 2442,
+        "height": 2442,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc-142.webp?v=1771049514",
+        "variant_ids": []
+      },
+      {
+        "id": 46726517457150,
+        "product_id": 9131074224382,
+        "position": 3,
+        "created_at": "2026-02-11T11:40:29+05:30",
+        "updated_at": "2026-02-14T11:41:54+05:30",
+        "alt": null,
+        "width": 2448,
+        "height": 2448,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc-694.webp?v=1771049514",
+        "variant_ids": []
+      },
+      {
+        "id": 46726518407422,
+        "product_id": 9131074224382,
+        "position": 4,
+        "created_at": "2026-02-11T11:40:56+05:30",
+        "updated_at": "2026-02-14T11:41:54+05:30",
+        "alt": null,
+        "width": 2526,
+        "height": 2526,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc-186.webp?v=1771049514",
+        "variant_ids": []
+      },
+      {
+        "id": 46726518702334,
+        "product_id": 9131074224382,
+        "position": 5,
+        "created_at": "2026-02-11T11:41:09+05:30",
+        "updated_at": "2026-02-14T11:41:54+05:30",
+        "alt": null,
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc-681.webp?v=1771049514",
+        "variant_ids": []
+      },
+      {
+        "id": 46726518800638,
+        "product_id": 9131074224382,
+        "position": 6,
+        "created_at": "2026-02-11T11:41:22+05:30",
+        "updated_at": "2026-02-14T11:41:54+05:30",
+        "alt": null,
+        "width": 2970,
+        "height": 2970,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc-939.webp?v=1771049514",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 46738490982654,
+      "product_id": 9131074224382,
+      "position": 1,
+      "created_at": "2026-02-14T11:58:09+05:30",
+      "updated_at": "2026-02-14T11:58:09+05:30",
+      "alt": null,
+      "width": 1164,
+      "height": 1164,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/helix-by-skullsaints-intel-core-series-12gb-lpddr5-4800mhz-dual-nvme-pcie-ssd-usb-3-2-usb-c-10gbps-4k-2-5gbps-lan-wi-fi-6-bt-5-2-4k-triple-display-mini-pc-290.webp?v=1771050489",
+      "variant_ids": [
+        47790481309950,
+        47790504149246,
+        47790504182014,
+        47790504214782,
+        47790504247550
+      ]
+    }
+  }
+}

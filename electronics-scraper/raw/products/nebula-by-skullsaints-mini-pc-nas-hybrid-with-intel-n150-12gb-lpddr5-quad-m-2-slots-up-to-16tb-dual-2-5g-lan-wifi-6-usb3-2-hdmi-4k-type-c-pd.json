@@ -1,0 +1,174 @@
+{
+  "product": {
+    "id": 8997709185278,
+    "title": "Nebula by SkullSaints: Mini PC & NAS Hybrid with Intel N150, 12GB LPDDR5, Quad M.2 Slots (Up to 16TB), Dual 2.5G Intel i226 LAN, WiFi 6, BT 5.2, USB3.2, HDMI 4K, Type-C PD",
+    "body_html": "",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2025-09-17T15:11:40+05:30",
+    "handle": "nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd",
+    "updated_at": "2026-05-14T09:07:26+05:30",
+    "published_at": "2025-10-02T11:01:48+05:30",
+    "template_suffix": "nebula",
+    "published_scope": "web",
+    "tags": "SkullSaints",
+    "variants": [
+      {
+        "id": 47372562858238,
+        "product_id": 8997709185278,
+        "title": "12GB LPDDR5 + 64GB eMMC (Ubuntu Installed)",
+        "price": "27999.00",
+        "sku": "nebula",
+        "position": 1,
+        "compare_at_price": "34999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "12GB LPDDR5 + 64GB eMMC (Ubuntu Installed)",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-10-02T11:02:50+05:30",
+        "updated_at": "2026-05-14T09:07:26+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 45844918010110,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11418013434110,
+        "product_id": 8997709185278,
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "12GB LPDDR5 + 64GB eMMC (Ubuntu Installed)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 45844918010110,
+        "product_id": 8997709185278,
+        "position": 1,
+        "created_at": "2025-09-25T12:24:13+05:30",
+        "updated_at": "2025-09-25T12:24:13+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 2714,
+        "height": 2714,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-937.webp?v=1758783253",
+        "variant_ids": [
+          47372562858238
+        ]
+      },
+      {
+        "id": 45844918665470,
+        "product_id": 8997709185278,
+        "position": 2,
+        "created_at": "2025-09-25T12:24:21+05:30",
+        "updated_at": "2025-09-25T12:24:21+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 2999,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-931.webp?v=1758783261",
+        "variant_ids": []
+      },
+      {
+        "id": 45844919812350,
+        "product_id": 8997709185278,
+        "position": 3,
+        "created_at": "2025-09-25T12:24:27+05:30",
+        "updated_at": "2025-09-25T12:24:27+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 2160,
+        "height": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-895.webp?v=1758783267",
+        "variant_ids": []
+      },
+      {
+        "id": 45844920762622,
+        "product_id": 8997709185278,
+        "position": 4,
+        "created_at": "2025-09-25T12:24:55+05:30",
+        "updated_at": "2025-10-02T13:18:29+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 2335,
+        "height": 2336,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-163.webp?v=1759391309",
+        "variant_ids": []
+      },
+      {
+        "id": 45844920074494,
+        "product_id": 8997709185278,
+        "position": 5,
+        "created_at": "2025-09-25T12:24:40+05:30",
+        "updated_at": "2025-10-02T13:18:29+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 2983,
+        "height": 2982,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-887.webp?v=1759391309",
+        "variant_ids": []
+      },
+      {
+        "id": 45844920434942,
+        "product_id": 8997709185278,
+        "position": 6,
+        "created_at": "2025-09-25T12:24:48+05:30",
+        "updated_at": "2025-10-02T13:18:29+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 3000,
+        "height": 2999,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-937_4e87bf45-f151-4d76-b67e-ffb68b8a7688.webp?v=1759391309",
+        "variant_ids": []
+      },
+      {
+        "id": 45844920991998,
+        "product_id": 8997709185278,
+        "position": 7,
+        "created_at": "2025-09-25T12:25:03+05:30",
+        "updated_at": "2025-09-25T12:25:03+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 2514,
+        "height": 2514,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-634.webp?v=1758783303",
+        "variant_ids": []
+      },
+      {
+        "id": 45844922794238,
+        "product_id": 8997709185278,
+        "position": 8,
+        "created_at": "2025-09-25T12:25:12+05:30",
+        "updated_at": "2025-09-25T12:25:12+05:30",
+        "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+        "width": 2587,
+        "height": 2587,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-255.webp?v=1758783312",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 45844918010110,
+      "product_id": 8997709185278,
+      "position": 1,
+      "created_at": "2025-09-25T12:24:13+05:30",
+      "updated_at": "2025-09-25T12:24:13+05:30",
+      "alt": "Nebula by skullsaints: mini pc & nas hybrid with intel n150 12gb lpddr5 quad m.2 slots (up to 16tb) dual 2.5g lan wifi 6 usb3.2 hdmi 4k",
+      "width": 2714,
+      "height": 2714,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/nebula-by-skullsaints-mini-pc-nas-hybrid-with-intel-n150-12gb-lpddr5-quad-m-2-slots-up-to-16tb-dual-2-5g-lan-wifi-6-usb3-2-hdmi-4k-type-c-pd-937.webp?v=1758783253",
+      "variant_ids": [
+        47372562858238
+      ]
+    }
+  }
+}

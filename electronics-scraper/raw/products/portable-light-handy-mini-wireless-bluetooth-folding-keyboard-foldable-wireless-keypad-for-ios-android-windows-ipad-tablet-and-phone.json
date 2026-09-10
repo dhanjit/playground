@@ -1,0 +1,184 @@
+{
+  "product": {
+    "id": 8067577741566,
+    "title": "Portable Light-Handy Mini Wireless Bluetooth Folding Keyboard, Foldable Wireless Keypad for iOS/Android/Windows iPad, Tablet, and Phone",
+    "body_html": "Available in Black and Silver colors",
+    "vendor": "ElectroniksIndia",
+    "product_type": "",
+    "created_at": "2023-06-06T12:45:28+05:30",
+    "handle": "portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone",
+    "updated_at": "2026-05-14T09:08:22+05:30",
+    "published_at": "2023-06-06T12:45:28+05:30",
+    "template_suffix": "keyboard",
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 44059892187390,
+        "product_id": 8067577741566,
+        "title": "Black",
+        "price": "1099.00",
+        "sku": "Keyboard-Black",
+        "position": 1,
+        "compare_at_price": "1999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-06-06T13:38:29+05:30",
+        "updated_at": "2026-05-14T09:08:22+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 42541424509182,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 44059892220158,
+        "product_id": 8067577741566,
+        "title": "Silver",
+        "price": "1099.00",
+        "sku": "Keyboard-Silver",
+        "position": 2,
+        "compare_at_price": "1999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Silver",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-06-06T13:38:29+05:30",
+        "updated_at": "2026-05-14T09:08:22+05:30",
+        "taxable": true,
+        "barcode": "",
+        "grams": 0,
+        "image_id": 42541428605182,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10264021762302,
+        "product_id": 8067577741566,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Silver"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541424509182,
+        "product_id": 8067577741566,
+        "position": 1,
+        "created_at": "2024-07-24T12:13:09+05:30",
+        "updated_at": "2025-05-23T08:42:13+05:30",
+        "alt": "Portable light-handy mini wireless bluetooth folding keyboard foldable wireless keypad for ios/android/windows ipad tablet and phone - free",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone-by-electroniksindia-213.webp?v=1747969933",
+        "variant_ids": [
+          44059892187390
+        ]
+      },
+      {
+        "id": 42541425262846,
+        "product_id": 8067577741566,
+        "position": 2,
+        "created_at": "2024-07-24T12:13:19+05:30",
+        "updated_at": "2025-05-23T08:42:21+05:30",
+        "alt": "Portable light-handy mini wireless bluetooth folding keyboard foldable wireless keypad for ios/android/windows ipad tablet and phone - free",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone-by-electroniksindia-399.webp?v=1747969941",
+        "variant_ids": []
+      },
+      {
+        "id": 42541425721598,
+        "product_id": 8067577741566,
+        "position": 3,
+        "created_at": "2024-07-24T12:13:29+05:30",
+        "updated_at": "2025-05-23T08:42:28+05:30",
+        "alt": "Portable light-handy mini wireless bluetooth folding keyboard foldable wireless keypad for ios/android/windows ipad tablet and phone - free",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone-by-electroniksindia-519.webp?v=1747969948",
+        "variant_ids": []
+      },
+      {
+        "id": 42541426344190,
+        "product_id": 8067577741566,
+        "position": 4,
+        "created_at": "2024-07-24T12:13:45+05:30",
+        "updated_at": "2025-08-07T03:12:06+05:30",
+        "alt": "Portable light-handy mini wireless bluetooth folding keyboard foldable wireless keypad for ios/android/windows ipad tablet and phone - free",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone-by-electroniksindia-137.webp?v=1754516526",
+        "variant_ids": []
+      },
+      {
+        "id": 42541428408574,
+        "product_id": 8067577741566,
+        "position": 5,
+        "created_at": "2024-07-24T12:13:55+05:30",
+        "updated_at": "2025-08-07T03:12:13+05:30",
+        "alt": "Portable light-handy mini wireless bluetooth folding keyboard foldable wireless keypad for ios/android/windows ipad tablet and phone - free",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone-by-electroniksindia-485.webp?v=1754516533",
+        "variant_ids": []
+      },
+      {
+        "id": 42541428605182,
+        "product_id": 8067577741566,
+        "position": 6,
+        "created_at": "2024-07-24T12:14:00+05:30",
+        "updated_at": "2025-02-10T10:59:27+05:30",
+        "alt": "Portable light-handy mini wireless bluetooth folding keyboard foldable wireless keypad for ios/android/windows ipad tablet and phone - free",
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone-by-electroniksindia-924.webp?v=1739165367",
+        "variant_ids": [
+          44059892220158
+        ]
+      }
+    ],
+    "image": {
+      "id": 42541424509182,
+      "product_id": 8067577741566,
+      "position": 1,
+      "created_at": "2024-07-24T12:13:09+05:30",
+      "updated_at": "2025-05-23T08:42:13+05:30",
+      "alt": "Portable light-handy mini wireless bluetooth folding keyboard foldable wireless keypad for ios/android/windows ipad tablet and phone - free",
+      "width": 3000,
+      "height": 3000,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/portable-light-handy-mini-wireless-bluetooth-folding-keyboard-foldable-wireless-keypad-for-ios-android-windows-ipad-tablet-and-phone-by-electroniksindia-213.webp?v=1747969933",
+      "variant_ids": [
+        44059892187390
+      ]
+    }
+  }
+}

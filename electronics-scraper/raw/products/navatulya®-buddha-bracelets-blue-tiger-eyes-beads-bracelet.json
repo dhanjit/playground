@@ -1,0 +1,219 @@
+{
+  "product": {
+    "id": 1879914315811,
+    "title": "Navatulya\u00ae Buddha Bracelets BLUE Tiger Eyes Beads Bracelet",
+    "body_html": "<div style=\"font-size: 13.3333px; text-align: left;\"><img alt=\"Navatulya\" src=\"//cdn.shopify.com/s/files/1/0015/6932/5091/files/Navatulya_2_2048x2048.png?v=1567444461\" style=\"float: none;\" loading=\"lazy\"></div>\n<div style=\"font-size: 13.3333px;\"><span><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1h9O8Kk9WBuNjSspexh5z5VXay.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1ICQUc6bguuRkHFrdxh6.LFXaU.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1zTbCKbSYBuNjSspixh4NzpXa0.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1PWnOKb1YBuNjSszhxh7UsFXap.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1YWnOKb1YBuNjSszhxh7UsFXaK.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1RhAGc6rguuRjy0Fexh4cbFXav.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1FWt.BZuYBuNkSmRyxh7A3pXaV.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1H85eKf5TBuNjSspcxh6nGFXa1.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1.JnmrYsrBKNjSZFpxh7XhFXal.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1O9MUc6bguuRkHFrdxh6.LFXa1.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1zBzuKXOWBuNjy0Fixh4FxVXaN.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1jbX3KqmWBuNjy1Xaxh4CbXXaG.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1jbX3KqmWBuNjy1Xaxh4CbXXaG.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB1LVU9c56guuRjy1Xdxh5AwpXaP.jpeg\" loading=\"lazy\"><img alt=\"aeProduct.getSubject()\" src=\"http://ae01.alicdn.com/kf/HTB129aRKeuSBuNjy1Xcxh7YjFXal.jpeg\" loading=\"lazy\"></span></div>\n<div style=\"font-size: 13.3333px; margin-left: auto; margin-right: auto;\">\n<div style=\"padding-top: 14.0px; padding-bottom: 14.0px;\">\n<div style=\"margin-left: auto; margin-right: auto;\">\n<div>\n<p>\u00a0<img src=\"//cdn.shopify.com/s/files/1/0015/6932/5091/files/mk12_2048x2048.png?v=1567445183\" alt=\"Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet\" loading=\"lazy\"></p>\n</div>\n</div>\n</div>\n</div>",
+    "vendor": "Electroniks-India\u00ae",
+    "product_type": "",
+    "created_at": "2019-08-27T19:47:38+05:30",
+    "handle": "navatulya\u00ae-buddha-bracelets-blue-tiger-eyes-beads-bracelet",
+    "updated_at": "2026-05-14T09:09:49+05:30",
+    "published_at": "2020-08-19T15:07:02+05:30",
+    "template_suffix": null,
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 15602493980707,
+        "product_id": 1879914315811,
+        "title": "6MM / 19cm",
+        "price": "499.00",
+        "sku": "11376-6MM-19CM",
+        "position": 1,
+        "compare_at_price": "1299.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "6MM",
+        "option2": "19cm",
+        "option3": null,
+        "created_at": "2019-08-27T19:47:38+05:30",
+        "updated_at": "2026-05-14T09:09:49+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 25,
+        "image_id": null,
+        "weight": 0.025,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 15602494013475,
+        "product_id": 1879914315811,
+        "title": "8MM / 19cm",
+        "price": "549.00",
+        "sku": "11376-8MM-19CM",
+        "position": 2,
+        "compare_at_price": "1299.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "8MM",
+        "option2": "19cm",
+        "option3": null,
+        "created_at": "2019-08-27T19:47:38+05:30",
+        "updated_at": "2026-05-14T09:09:49+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 25,
+        "image_id": null,
+        "weight": 0.025,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      },
+      {
+        "id": 15602494046243,
+        "product_id": 1879914315811,
+        "title": "10MM / 19cm",
+        "price": "599.00",
+        "sku": "11376-10MM-19CM",
+        "position": 3,
+        "compare_at_price": "1299.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "10MM",
+        "option2": "19cm",
+        "option3": null,
+        "created_at": "2019-08-27T19:47:38+05:30",
+        "updated_at": "2026-05-14T09:09:49+05:30",
+        "taxable": false,
+        "barcode": "",
+        "grams": 25,
+        "image_id": null,
+        "weight": 0.025,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 2474959175715,
+        "product_id": 1879914315811,
+        "name": "Metal Color",
+        "position": 1,
+        "values": [
+          "6MM",
+          "8MM",
+          "10MM"
+        ]
+      },
+      {
+        "id": 2474959208483,
+        "product_id": 1879914315811,
+        "name": "Length",
+        "position": 2,
+        "values": [
+          "19cm"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 42541177438462,
+        "product_id": 1879914315811,
+        "position": 1,
+        "created_at": "2024-07-24T11:24:30+05:30",
+        "updated_at": "2024-07-24T11:24:30+05:30",
+        "alt": "Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet - on sale",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/navatulya-r-buddha-bracelets-blue-tiger-eyes-beads-bracelet-by-electroniksindia-dark-blue-beaded-425.webp?v=1721800470",
+        "variant_ids": []
+      },
+      {
+        "id": 42541177569534,
+        "product_id": 1879914315811,
+        "position": 2,
+        "created_at": "2024-07-24T11:24:33+05:30",
+        "updated_at": "2024-07-24T11:24:33+05:30",
+        "alt": "Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet - on sale",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/navatulya-r-buddha-bracelets-blue-tiger-eyes-beads-bracelet-by-electroniksindia-black-cat-yellow-287.webp?v=1721800473",
+        "variant_ids": []
+      },
+      {
+        "id": 42541177962750,
+        "product_id": 1879914315811,
+        "position": 3,
+        "created_at": "2024-07-24T11:24:36+05:30",
+        "updated_at": "2024-07-24T11:24:36+05:30",
+        "alt": "Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet - on sale",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/navatulya-r-buddha-bracelets-blue-tiger-eyes-beads-bracelet-by-electroniksindia-blue-beaded-bracelets-820.webp?v=1721800476",
+        "variant_ids": []
+      },
+      {
+        "id": 42541178159358,
+        "product_id": 1879914315811,
+        "position": 4,
+        "created_at": "2024-07-24T11:24:39+05:30",
+        "updated_at": "2024-07-24T11:24:39+05:30",
+        "alt": "Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet - on sale",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/navatulya-r-buddha-bracelets-blue-tiger-eyes-beads-bracelet-by-electroniksindia-blue-black-beaded-973.webp?v=1721800479",
+        "variant_ids": []
+      },
+      {
+        "id": 42541178290430,
+        "product_id": 1879914315811,
+        "position": 5,
+        "created_at": "2024-07-24T11:24:42+05:30",
+        "updated_at": "2024-07-24T11:24:42+05:30",
+        "alt": "Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet - on sale",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/navatulya-r-buddha-bracelets-blue-tiger-eyes-beads-bracelet-by-electroniksindia-dark-blue-beaded-217.webp?v=1721800482",
+        "variant_ids": []
+      },
+      {
+        "id": 42541178487038,
+        "product_id": 1879914315811,
+        "position": 6,
+        "created_at": "2024-07-24T11:24:44+05:30",
+        "updated_at": "2024-07-24T11:24:44+05:30",
+        "alt": "Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet - on sale",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/navatulya-r-buddha-bracelets-blue-tiger-eyes-beads-bracelet-by-electroniksindia-blue-tigers-eye-168.webp?v=1721800484",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 42541177438462,
+      "product_id": 1879914315811,
+      "position": 1,
+      "created_at": "2024-07-24T11:24:30+05:30",
+      "updated_at": "2024-07-24T11:24:30+05:30",
+      "alt": "Navatulya\u00ae buddha bracelets blue tiger eyes beads bracelet - on sale",
+      "width": 800,
+      "height": 800,
+      "src": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/navatulya-r-buddha-bracelets-blue-tiger-eyes-beads-bracelet-by-electroniksindia-dark-blue-beaded-425.webp?v=1721800470",
+      "variant_ids": []
+    }
+  }
+}
